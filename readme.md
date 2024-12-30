@@ -2,7 +2,7 @@
 <h3 align="center">Screen capture, file sharing and productivity tool</h3>
 <br>
 <div align="center">
-  <a href="https://github.com/ShareX/ShareX/actions/workflows/build.yml"><img src="https://img.shields.io/github/actions/workflow/status/ShareX/ShareX/build.yml?branch=develop&label=Build&cacheSeconds=3600" alt="GitHub Workflow Status"/></a>
+  <a href="https://github.com/ShareX/ShareX/actions/workflows/build.yml"><img src="https://forum.gta-samp.kz/uploads/monthly_2024_12/image.png.37af3e0d4655b4d1e3c9613d4e6872df.png" alt="GitHub Workflow Status"/></a>
   <a href="./LICENSE.txt"><img src="https://img.shields.io/github/license/ShareX/ShareX?label=License&color=brightgreen&cacheSeconds=3600" alt="License"/></a>
   <a href="https://github.com/ShareX/ShareX/releases/latest"><img src="https://img.shields.io/github/v/release/ShareX/ShareX?label=Release&color=brightgreen&cacheSeconds=3600" alt="Release"/></a>
   <a href="https://getsharex.com/downloads"><img src="https://img.shields.io/github/downloads/ShareX/ShareX/total?label=Downloads&cacheSeconds=3600" alt="Downloads"/></a>
