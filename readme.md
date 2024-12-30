@@ -2,7 +2,7 @@ Lifeticle | Общая теория сознания
 
 Выживание
 
-<img src="https://forum.gta-samp.kz/uploads/monthly_2024_12/image.png.37af3e0d4655b4d1e3c9613d4e6872df.png</img>
+<a><img src="https://forum.gta-samp.kz/uploads/monthly_2024_12/image.png.37af3e0d4655b4d1e3c9613d4e6872df.png</img></a>
 
 Lifeticle - частица жизни, носитель сознания
 
