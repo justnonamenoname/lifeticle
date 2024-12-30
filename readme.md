@@ -434,7 +434,7 @@ Lifeticle - частица жизни
 Это также значит что у растений нет боли, т.к. эволюционно этот механизм не был использован.
 
 Ссылки на связанные темы
-Теория Вольфрама habr.com/ru/articles/649483/
+Теория Вольфрама <a href="habr.com/ru/articles/649483/">habr.com/ru/articles/649483/</a>
 ru.wikipedia.org/wiki/Теория_струн
 ru.wikipedia.org/wiki/Тёмная_материя
 ru.wikipedia.org/wiki/Тёмная_энергия
