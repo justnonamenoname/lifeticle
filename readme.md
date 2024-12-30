@@ -434,14 +434,12 @@ Lifeticle - частица жизни
 Это также значит что у растений нет боли, т.к. эволюционно этот механизм не был использован.
 
 Ссылки на связанные темы
-Теория Вольфрама <a href="habr.com/ru/articles/649483/">habr.com/ru/articles/649483/</a>
-ru.wikipedia.org/wiki/Теория_струн
-ru.wikipedia.org/wiki/Тёмная_материя
-ru.wikipedia.org/wiki/Тёмная_энергия
-ru.wikipedia.org/wiki/Многомировая_интерпретация
-ru.wikipedia.org/wiki/Расширение_Вселенной  
-ru.wikipedia.org/wiki/Трудная_проблема_сознания
-
-ru.wikipedia.org/wiki/Разрыв_в_объяснении
-
-ru.wikipedia.org/wiki/Философский_зомби
+Теория Вольфрама <a href="habr.com/ru/articles/649483/">habr.com/ru/articles/649483/</a>  
+<a href="ru.wikipedia.org/wiki/Теория_струн">ru.wikipedia.org/wiki/Теория_струн</a>    
+<a href="ru.wikipedia.org/wiki/Тёмная_материя">ru.wikipedia.org/wiki/Тёмная_материя</a>    
+<a href="ru.wikipedia.org/wiki/Тёмная_энергия">ru.wikipedia.org/wiki/Тёмная_энергия</a>    
+<a href="ru.wikipedia.org/wiki/Многомировая_интерпретация">ru.wikipedia.org/wiki/Многомировая_интерпретация</a>    
+<a href="ru.wikipedia.org/wiki/Расширение_Вселенной">ru.wikipedia.org/wiki/Расширение_Вселенной</a>    
+<a href="ru.wikipedia.org/wiki/Трудная_проблема_сознания">ru.wikipedia.org/wiki/Трудная_проблема_сознания</a>    
+<a href="ru.wikipedia.org/wiki/Разрыв_в_объяснении">ru.wikipedia.org/wiki/Разрыв_в_объяснении</a>    
+<a href="ru.wikipedia.org/wiki/Философский_зомби">ru.wikipedia.org/wiki/Философский_зомби</a>    
