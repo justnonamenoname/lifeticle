@@ -439,7 +439,7 @@ ru.wikipedia.org/wiki/Теория_струн
 ru.wikipedia.org/wiki/Тёмная_материя
 ru.wikipedia.org/wiki/Тёмная_энергия
 ru.wikipedia.org/wiki/Многомировая_интерпретация
-ru.wikipedia.org/wiki/Расширение_Вселенной
+ru.wikipedia.org/wiki/Расширение_Вселенной 
 ru.wikipedia.org/wiki/Трудная_проблема_сознания
 
 ru.wikipedia.org/wiki/Разрыв_в_объяснении
