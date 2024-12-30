@@ -1,6 +1,6 @@
-Общая теория сознания
+Lifeticle - частица жизни
 
-Lifeticle - частица жизни, носитель сознания
+Общая теория сознания
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/1.png">
 
