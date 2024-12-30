@@ -1,7 +1,7 @@
 # Lifeticle - частица жизни
 
 ## Общая теория сознания
-![image](https://github.com/justnonamenoname/lifeticle/blob/main/images/1.png)
+
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/1.png">
 
 ### Выживание
