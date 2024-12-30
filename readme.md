@@ -442,4 +442,5 @@ ru.wikipedia.org/wiki/Многомировая_интерпретация
 ru.wikipedia.org/wiki/Расширение_Вселенной
 ru.wikipedia.org/wiki/Трудная_проблема_сознания
 ru.wikipedia.org/wiki/Разрыв_в_объяснении
+
 ru.wikipedia.org/wiki/Философский_зомби
