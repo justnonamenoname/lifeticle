@@ -1,8 +1,10 @@
-Lifeticle - A Particle of Life
-The General Theory of Consciousness
+Lifeticle - A Particle of Life  
+The General Theory of Consciousness  
 Part One: Survival
 
 Theoretical reflections on death, the necessity of cryonics, and the importance of preserving the body of the deceased
+
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/1.png">
 
 To the question of what happens after death, another question arises: what was there before birth?
 The particles that make up the body existed before birth and will continue to exist after death.
