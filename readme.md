@@ -1,5 +1,5 @@
 Lifeticle - A Particle of Life  
-The General Theory of Consciousness  
+The Theory of Consciousness  
 Part One: Survival (part two will be realeased soon)
 
 Theoretical reflections on death, the necessity of cryonics, and the importance of preserving the body of the deceased
