@@ -66,6 +66,7 @@ But there is a huge problem—there remains the possibility of pain and disaster
 ==========================
 
 What will life be like in the future in terms of pleasure and pain? In what kind of world could the next life exist?
+
 Technological and intellectual development could create a wonderful world.
 But what if the world descends into an unbeatable fascism?
 Or if robots destroy the world and create hell, either accidentally or intentionally (according to the plan of those who created them)?
