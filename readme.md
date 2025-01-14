@@ -1,4 +1,4 @@
-Lifeticle - A Particle of Life  
+Lifeticle - A Particle of Life (translate in progress)
 The Theory of Consciousness  
 Part One: Survival (part two will be realeased soon)
 
