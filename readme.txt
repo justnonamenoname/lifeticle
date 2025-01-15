@@ -1,6 +1,6 @@
 Lifeticle - A Particle of Life (translate in progress)
 The New Theory of Phenomenal Consciousness
-Part One: Survival
+Part One: Survival (part two will be realeased soon)
 
 Theoretical reflections on death, the necessity of cryonics, and the importance of preserving the body of the deceased
 
