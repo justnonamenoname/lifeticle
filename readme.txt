@@ -1,5 +1,5 @@
 Lifeticle - A Particle of Life (translate in progress)
-The Theory of Consciousness
+The New Theory of Phenomenal Consciousness
 Part One: Survival
 
 Theoretical reflections on death, the necessity of cryonics, and the importance of preserving the body of the deceased
@@ -20,11 +20,14 @@ Bones are replaced over a period of 10 years, the liver renews itself over sever
 
 If cells were fully replaced, it would imply death.
 If nothing from the body remains from when one was a child, then that body has been destroyed and died, and what exists now is a different one.
-If the particles that made up the child were gathered again, one might assume that this would be you, not the one in the current body, but clearly, this is not the case.
+If the particles that made up the child were gathered again, one might assume that this would be you, not the one in the current body, but this is not the case.
 Therefore, something remains, some tiny part stays, and that part is the central one in the brain.
 The brain is not an indivisible object; it is made up of indivisible particles.
+Your "self" in the brain is the entity that exists.
 What can exist in the brain? The answer is: the carrier of consciousness can only be a single indivisible entity.
 It is not possible to choose multiple entities, as they would remain separate.
+This means that in the brain, any particle can be replaced with an identical one, and you wouldn’t notice a difference.
+But if the central particle is replaced, your "self," being removed from the brain, would cease to feel anything.
 The central particle is indivisible—if we assume that the central particle is composed of several parts,
 then, as with the organism, division can continue, and the other particles will be external to the central one.
 
@@ -139,7 +142,7 @@ And even then, only if the universe undergoes cyclical stages of expansion and c
 
 However, there is a technology called cryonics, which involves freezing the body to -196 degrees Celsius in a capsule filled with liquid nitrogen.
 In October 2022, a baby girl was born using an embryo that had been stored in a cryobank for 30 years.
-This allows the body to be preserved "on pause" for hundreds of years.
+After freezing, this allows the organism to be preserved in its original form for hundreds of years.
 If we look back—200 years ago, technology was far less advanced,
 and 500 years ago, the difference was even greater.
 The same kind of progress will happen 200 years from now—future technologies will be highly advanced, and what about 500 years from now?
@@ -179,7 +182,7 @@ If the human body is made of something, then that something does not disappear a
 And if that something did not exist before birth, then no matter what happened in the world, how could you have come to exist in it?
 If the matter you are made of did not exist before your birth, then no matter what happened in the world, how could you have come to exist in it?
 Today, cryonics offers a solution for what to do with the body in the event of death.
-The more widespread this idea becomes, the faster it will be implemented, regardless of life extension technologies.
+Regardless of life extension technologies.
 The less time someone has left, the more critical it becomes—this is the time needed to prepare the cryochamber.
 
 Death can be defeated.
