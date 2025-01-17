@@ -33,6 +33,8 @@ But if the central particle is replaced, your "self," being removed from the bra
 The central particle is indivisible—if we assume that the central particle is composed of several parts,
 then, as with the organism, division can continue, and the other particles will be external to the central one.
 
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/2.png">
+
 The highest electrical activity in the brain occurs in the reticular formation (which persists even during sleep and under anesthesia); the central part of the brain is either the reticular formation itself or a neighboring area.
 Without the brain's electrical activity, a person feels nothing.
 The closest description of what triggers qualia/sensations is the activity of electrons around the central particle.
@@ -111,6 +113,8 @@ Enemy robots could outnumber ours, and aliens could use such weapons to destroy 
 If physics allows for a hyperdrive, then such robots likely do not yet exist; otherwise, they would already be here.
 This risk might mean that humans should fill this galaxy and neighboring galaxies with robots.
 
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/3.png">
+
 ==========================
 
 In the distant future, dark energy will accelerate the expansion of space so much that atomic structures will no longer be able to hold themselves together. This marks a time when life will become impossible, and the Universe will either enter eternal expansion, known as Big Freeze, or experience the complete disintegration of matter in the scenario of the Big Rip.
@@ -118,6 +122,8 @@ Since there is no such electronic activity around the lifeticle after death as t
 Even if millions of years have passed.
 If nothing is felt, then this time effectively does not exist for you.
 Even during life, the flow of time can feel slower or faster, while in dreamless sleep, time passes instantly.
+
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/4.png">
 
 If the next life never begins and the Universe experiences the Big Freeze or the Big Rip—what do you feel?
 An infinity multiplied by zero?
@@ -129,6 +135,8 @@ If dark matter and the Universe have cycles of expansion and contraction, the ne
 And the paradox is avoided.
 
 The mystery seems unsolvable, and it is unclear whether any discoveries in physics will help resolve it.
+
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/5.png">
 
 ==========================
 
@@ -156,6 +164,8 @@ When a person is near death, they should be preserved through cryonics, not buri
 Cryonics centers should exist in cities.
 What to do in the event of a sudden or expected death of a person or an animal, in the context of cryonics, will be explained below.
 
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/6.png">
+
 Well, you wouldn’t want to be born, or have your relatives be born, as some kind of grasshopper, would you?
 If there were certainty about the positivity of the next life, there would be no need to worry about it so much.
 Denying cryonics to the deceased is a rejection of a life lasting hundreds of years in favor of vast uncertainty.
@@ -169,6 +179,8 @@ The mere fact that they have no connection to telescopes and no calls to study t
 They are not interested in the world; they are only interested in their cult.
 The fact that the moment of death does not exist also invalidates the concept of a religious paradise.
 
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/7.png">
+
 ==========================
 
 According to the author of the article, this is the most accurate concept of consciousness.
@@ -178,6 +190,8 @@ Once adopted, society will not deviate from it.
 Only discoveries in the field of physics can refine this concept.
 The lifeticle must have physical properties; otherwise, it could not remain stable position during motion.
 And physicists of the future may, within the next few hundred years, come closer to uncovering the mystery of consciousness and understanding the interaction of the lifeticle with the observable world.
+
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/8.png">
 
 At one time, people struggled to understand the motion of planets, and there were various ideas. When the correct understanding of their motion was established, other ideas fell away as less accurate.
 It is unclear why the idea of the lifeticle did not become central earlier. It is simpler, and in some ways, even more banal, in contrast to the absurd notion of flying angels and a religious paradise.
