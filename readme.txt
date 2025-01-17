@@ -9,7 +9,7 @@ The particles that make up the body existed before birth and will continue to ex
 There is no magic in either birth or death that destroys or creates particles.
 The state of death before birth is no different from the state of death after.
 To the question of whether there can be another life after death, the answer is:
-A person already experienced a state of death prior to their birth, and yet they were born.
+A person was already a state of death prior to their birth, and yet they were born.
 What prevents the particles from assembling again in another form or similarly?
 Physical laws do not prohibit what has already happened according to these very same physical laws.
 
