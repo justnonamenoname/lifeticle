@@ -1,4 +1,4 @@
-Lifeticle - A Particle of Life (translate in progress)
+Lifeticle - A Particle of Life (translate in progress)  
 The New Theory of Phenomenal Consciousness
 Part One: Survival (part two will be realeased soon)
 
