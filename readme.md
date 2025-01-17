@@ -27,7 +27,7 @@ Therefore, something remains, some tiny part stays, and that part is the central
 The brain is not an indivisible object; it is made up of indivisible particles.
 Your "self" in the brain is the entity that exists.
 What can exist in the brain? The answer is: the carrier of consciousness can only be a single indivisible entity.
-It is not possible to choose multiple entities, as they would remain separate.
+It is not possible to choose multiple entities, as they are separate.
 This means that in the brain, any particle can be replaced with an identical one, and you wouldn’t notice a difference.
 But if the central particle is replaced, your "self," being removed from the brain, would cease to feel anything.
 The central particle is indivisible—if we assume that the central particle is composed of several parts,
