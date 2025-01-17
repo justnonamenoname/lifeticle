@@ -182,6 +182,7 @@ It is unclear why the idea of the lifeticle did not become central earlier. It i
 If the human body is made of something, then that something does not disappear after death and existed before birth.
 And if that something did not exist before birth, then no matter what happened in the world, how could you have come to exist in it?
 If the matter you are made of did not exist before your birth, then no matter what happened in the world, how could you have come to exist in it?
+
 Today, cryonics offers a solution for what to do with the body in the event of death.
 Regardless of life extension technologies.
 The less time someone has left, the more critical it becomes—this is the time needed to prepare the cryochamber.
