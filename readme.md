@@ -74,7 +74,7 @@ What will life be like in the future in terms of pleasure and pain? In what kind
 
 Technological and intellectual development could create a wonderful world.
 But what if the world descends into an unbeatable fascism?
-Or if robots destroy the world and create hell, either accidentally or intentionally (according to the plan of those who created them)?
+Or if robots destroy the world and build hell, either accidentally or intentionally (according to the plan of those who created them)?
 Such robots could endlessly grow humans in incubators and inflict pain on them.
 On the planet, there are already species evolving in relation to each other—one species changes to efficiently eat the other, while the other evolves to protect itself from being eaten.
 This is hell.
