@@ -49,7 +49,7 @@ However, destruction is merely the movement of atoms, not instantaneous, and the
 Particles continue to remain in the brain.
 If we consider the moment of loss of consciousness, a person can feel nothing during sleep or fainting as well.
 Theoretically, recovery is possible from any level (not referring to technical feasibility at this time).
-One might assume death as the separation of surrounding atoms from the central particle, but for whom or for what, and why would we consider this death?
+One might assume death as the separation of surrounding atoms from the central particle, but for whom or for what, and why would we consider this as death?
 If in a religious sense, and there are flying angels watching over this process, what happens if they fail to oversee it? But there is no reason to believe such angels exist.
 If we are in a virtual reality, then the computer in the base reality must oversee this, but what if it doesn’t?
 But in base reality, we could question—are we in a virtual reality?
