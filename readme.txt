@@ -54,7 +54,7 @@ But in base reality, we could question—are we in a virtual reality?
 This question leads nowhere and makes discussions about death meaningless.
 This means there is no physical moment of death.
 What the organism consists of continues to exist in the world.
-If the lifeticle, the lifeticle, can find itself in a new organism. 
+The lifeticle can find itself in a new organism. 
 Then after death, a new life is possible.
 
 ==========================
