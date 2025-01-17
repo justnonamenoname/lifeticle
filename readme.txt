@@ -142,8 +142,8 @@ And even then, only if the universe undergoes cyclical stages of expansion and c
 ==========================
 
 However, there is a technology called cryonics, which involves freezing the body to -196 degrees Celsius in a capsule filled with liquid nitrogen.
-In October 2022, a baby girl was born using an embryo that had been stored in a cryobank for 30 years.
 After freezing, this allows the organism to be preserved in its original form for hundreds of years.
+In October 2022, a baby girl was born using an embryo that had been stored in a cryobank for 30 years.
 If we look back—200 years ago, technology was far less advanced,
 and 500 years ago, the difference was even greater.
 The same kind of progress will happen 200 years from now—future technologies will be highly advanced, and what about 500 years from now?
