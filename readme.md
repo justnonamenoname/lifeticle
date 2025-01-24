@@ -2,18 +2,27 @@ Lifeticle - A Particle of Life (translate in progress)
 The New Theory of Phenomenal Consciousness  
 Part One: Survival (part two will be realeased soon)
 
+Lifeticle is a particle that acts as a subject, the so-called observer in the brain, with the following functions:
+1) Perception (Qualia): Visuals, sounds, pain, and other sensations.
+2) Attachment to the organism.
+3) Feedback influence on the brain.
+
+## Survival
 Theoretical reflections on death, the necessity of cryonics, and the importance of preserving the body of the deceased
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/1.png">
+
+### Lifetickle's existence
 
 To the question of what happens after death, another question arises: what was there before birth?
 The particles that make up the body existed before birth and will continue to exist after death.
 There is no magic in either birth or death that destroys or creates particles.
 The state of death before birth is no different from the state of death after.
 To the question of whether there can be another life after death, the answer is:
-A person was already a state of death prior to their birth, and yet they were born.
+The so-called observer had already experienced a state of death prior to their birth, and yet they were born.
 What prevents the particles from assembling again in another form or similarly?
 Physical laws do not prohibit what has already happened according to these very same physical laws.
+If it were impossible to be born a second time, it would have been impossible to be born the first time.
 
 The body can undergo a kidney transplant and continue to live.
 With partial brain damage or the removal of certain parts, life continues as well.
@@ -37,13 +46,15 @@ then, as with the organism, division can continue, and the other particles will 
 
 The highest electrical activity in the brain occurs in the reticular formation (which persists even during sleep and under anesthesia); the central part of the brain is either the reticular formation itself or a neighboring area.
 Without the brain's electrical activity, a person feels nothing.
-The closest description of what triggers qualia/sensations is the activity of electrons around the central particle.
-Qualia (neither pain nor the sensation of the color red) cannot be expressed through anything else—this means they are fundamental.
-As an example: in Wolfram's physical theory, atoms are distortions of space itself, which also fits well with string theory, where atoms are expressed through space.
+The closest description of what triggers qualia is the activity of electrons around the central particle.
+Qualia cannot be expressed through anything else, which means it is something fundamental.
+As an example: in Wolfram's physical theory, atoms are distortions of space itself.
 If the central particle does not exist, there is nothing on which the holistically formed picture of the world (qualia of vision, eye images, and other sensory organs) can converge, creating a problem of connectivity.
 The central particle can be described as a particle capable of qualia—this is its property, fundamentally distinct from the rest of the world, and this is life: a living particle (life + particle = lifeticle).
 
 ==========================
+
+### The moment of death
 
 For a person, death occurs at the moment of loss of consciousness, but even after this moment, a person can still be resuscitated.
 Death is currently considered to be the destruction of brain cells due to a lack of oxygen.
@@ -57,6 +68,7 @@ If we are in a virtual reality, then the computer in the base reality must overs
 But in base reality, we could question—are we in a virtual reality?
 This question leads nowhere and makes discussions about death meaningless.
 This means there is no physical moment of death.
+Death is the disintegration of the organism.
 What the organism consists of continues to exist in the world.
 The lifeticle can find itself in a new organism. 
 Then after death, a new life is possible.
@@ -71,6 +83,8 @@ The longer the time, the greater the chance of being born again.
 But there is a huge problem—there remains the possibility of pain and unhappiness.
 
 ==========================
+
+### Future
 
 What will life be like in the future in terms of happiness and unhappiness? In what kind of world could the next life exist?
 
@@ -117,6 +131,10 @@ This risk might mean that humans should fill this galaxy and neighboring galaxie
 
 ==========================
 
+What if the universe in the future can no longer sustain life or generate qualia for the lifeticle?
+
+One such variant may be dark energy.
+
 In the distant future, dark energy will accelerate the expansion of space so much that atomic structures will no longer be able to hold themselves together. This marks a time when life will become impossible, and the Universe will either enter eternal expansion, known as Big Freeze, or experience the complete disintegration of matter in the scenario of the Big Rip.
 Since there is no such electronic activity around the lifeticle after death as there is in the brain, nothing is felt after death, and the next life begins instantly.
 Even if millions of years have passed.
@@ -152,6 +170,8 @@ Therefore, the future after death is highly unclear and ambiguous; it represents
 
 ==========================
 
+### What's cryonics? 
+
 However, there is a technology called cryonics, which involves freezing the body to -196 degrees Celsius in a capsule filled with liquid nitrogen.
 After freezing, this allows the organism to be preserved in its original form for hundreds of years.
 In October 2022, a baby girl was born using an embryo that had been stored in a cryobank for 30 years.
@@ -167,11 +187,13 @@ What to do in the event of a sudden or expected death of a person or an animal, 
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/6.png">
 
-Well, you wouldn’t want to be born, or have your relatives be born, as some kind of grasshopper, would you?
+And you wouldn’t want to be born, or have your relatives be born, as a grasshopper or something worse.
 If there were certainty about the positivity of the next life, there would be no need to worry about it so much.
 Denying cryonics to the deceased is a rejection of a life lasting hundreds of years in favor of vast uncertainty.
 
 ==========================
+
+### Could there be another answer?
 
 Can answers be found in religion?
 
@@ -184,7 +206,9 @@ The fact that the moment of death does not exist also invalidates the concept of
 
 ==========================
 
-According to the author of the article, this is the most accurate concept of consciousness.
+### Verdict
+
+This is not only the most accurate concept of phenomenal consciousness but also the only possible one.
 It does not contradict the laws of physics.
 If it is accepted as correct, there will be no reason to think otherwise.
 Once adopted, society will not deviate from it.
