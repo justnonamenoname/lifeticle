@@ -1,6 +1,4 @@
-Lifeticle - A Particle of Life  
-The New Theory of Phenomenal Consciousness  
-Part One: Survival (part two will be realeased soon)
+**Lifeticle | The New Theory of Phenomenal Consciousness | Part One: Survival (part two will be realeased soon)**
 
 Lifeticle is a particle that acts as a subject, the so-called observer in the brain, with the following functions:
 1) Perception (Qualia): Visuals, sounds, pain, and other sensations.
