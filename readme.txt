@@ -141,7 +141,7 @@ An infinity passing instantly? This is impossible; time would still remain.
 This leads to a paradox, and therefore a mystery.
 At the same time, there is no moment where one could definitively say that the situation has closed and some change must have occurred.
 
-If dark matter and the Universe have cycles of expansion and contraction, the next life will inevitably begin.
+If dark energy and the Universe have cycles of expansion and contraction, the next life will inevitably begin.
 And the paradox is avoided.
 
 The mystery seems unsolvable, and it is unclear whether any discoveries in physics will help resolve it.
