@@ -6,6 +6,7 @@ Lifeticle - частица, являющаяся субъектом, т.н. на
 3) Обратное влияние на мозг
 
 Лайфтикл остаётся в мозгу при его смерти
+Феноменальное сознание - сумма ощущений/квалиа
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/1.png">
 
