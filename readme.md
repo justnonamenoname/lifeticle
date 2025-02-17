@@ -105,6 +105,8 @@ A virtual reality could be constructed where, in the base reality, people are co
 This is a combination of freedom and non-freedom—a paradise that cannot be left. Such a paradise could be stable.
 And in the event of the sun's death, the population could simply be transferred to another planet, possibly even automatically.
 
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/state.png">
+
 ==========================
 
 But there may also be another external factor—alien life with intentions unknown to us.
