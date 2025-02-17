@@ -118,7 +118,7 @@ Lifeticle - частица, являющаяся субъектом, т.н. на
 Это совмещение свободы и несвободы, рай, заблокированный несвободой, который может быть стабилен.
 А в случае смерти солнца - просто перенос населения на другую планету, возможно даже автоматически.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/state.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/statelanguageoriginal.png">
 
 ==========================
 
