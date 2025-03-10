@@ -165,7 +165,7 @@ Lifeticle - частица, являющаяся субъектом, т.н. на
 
 Загадка выглядит неразрешимой, непонятно помогут ли разгадать загадку какие-либо открытия в физике.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/5.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/5.png"  width="250">
 
 ---
 
