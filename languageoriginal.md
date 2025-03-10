@@ -37,7 +37,7 @@ Lifeticle - частица, являющаяся субъектом, т.н. на
 Лайфтикл неделим - если предположить, что лайфтикл состоит из нескольких частиц,
 то, как и с организмом, можно продолжить деление, и другие частицы будут внешними для лайфтикла.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/2.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/2.png" width="250">
 
 Наибольшая электрическая активность в мозге в ретикулярной формации (сохраняется во время сна и под наркозом).
 Ретикулярная формация является эволюционно древнейшей областью мозга.
@@ -165,7 +165,7 @@ Lifeticle - частица, являющаяся субъектом, т.н. на
 
 Загадка выглядит неразрешимой, непонятно помогут ли разгадать загадку какие-либо открытия в физике.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/5.png"  width="250">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/5.png" width="200">
 
 ---
 
@@ -196,7 +196,7 @@ Lifeticle - частица, являющаяся субъектом, т.н. на
 В случае умершего животного, если в городе нет крионики, его можно заморозить в холодильнике для последующей перевозки в другой город.
 За неделю разрушение нейронов не приведёт к их перемещению, мозг останется герметичным.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/6.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/6.png" width="120">
 
 Ну и вы же не хотите родиться, или чтобы ваши родственники родились каким-нибудь кузнечиком или ещё хуже?
 Если бы была уверенность в положительности следующей жизни, можно было бы так о ней не беспокоиться.
@@ -223,7 +223,7 @@ Lifeticle - частица, являющаяся субъектом, т.н. на
 Им неинтересен мир и наука, им интересен только их культ.
 То, что момента смерти не существует, также отменяет религиозный рай.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/7.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/7.png" width="200">
 
 ---
 
@@ -237,7 +237,7 @@ Lifeticle - частица, являющаяся субъектом, т.н. на
 Лайфтикл должен иметь физические параметры, иначе он не удержался бы при движении.
 И физики будущего следующие сотни лет, возможно, смогут приблизиться к загадке сознания и вопроса центральной частицы.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/8.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/8.png" width="250">
 
 Когда-то не могли разобраться с движением планет, и были разные идеи, и когда пришли к пониманию их движения, другие идеи отпали как менее корректные.
 Непонятно, почему идея центральной частицы не стала основной раньше, она более проста, в некотором роде, более приземлённая.
@@ -285,7 +285,7 @@ Lifeticle - частица, являющаяся субъектом, т.н. на
 
 **Сухой лёд**
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/ice.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/ice.png" width="200">
 
 С сухим льдом необходимо выполнять технику безопасности:  
 Не прикасаться напрямую.  
@@ -298,7 +298,7 @@ Lifeticle - частица, являющаяся субъектом, т.н. на
 
 ## Проверка
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/verification.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/verification.png" width="150">
 
 **Экспериментальные способы**
 
@@ -420,7 +420,7 @@ Lifeticle - частица, являющаяся субъектом, т.н. на
 у собаки хороший нюх помогает находить пищу, а орлу этому помогает острое зрение.
 Вопрос разделяется на 2 части, какие ощущения и какой силы способен генерировать мозг, и какие типы вообще возможны и ограничено ли их количество.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/eye.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/eye.png" width="200">
 
 **Собственное "я"**
 
@@ -495,7 +495,7 @@ Lifeticle - частица, являющаяся субъектом, т.н. на
 
 ### Связь квалиа с мозгом
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/brainqualia.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/brainqualia.png" width="250">
 
 **Методы квалиа**
 
@@ -584,7 +584,7 @@ Lifeticle - частица, являющаяся субъектом, т.н. на
 Решением проблемы декодера на стороне лайфтикла было бы существование квалиа без лайфтикла, в этом случае объект, представляющий из себя квалиа, существует, но никем не ощущается.
 Например: Если поля квалиа это волновая функция, то волновая функция существует и без лайфтикла.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/decode.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/decode.png" width="150">
 
 **Внимание**
 
@@ -644,7 +644,7 @@ Lifeticle - частица, являющаяся субъектом, т.н. на
 Если расположение квалиа выставляется параметром, то угол поля может не соответствовать мозгу и быть под углом, боком или перевёрнутым.
 Удержание угла лайфтикла требует отдельного функционала, что говорит о том, что координата квалиа скорей всего выставляется параметром, а не координатой.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/rotation.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/rotation.png" width="250">
 
 **Объём**
 
@@ -653,7 +653,7 @@ Lifeticle - частица, являющаяся субъектом, т.н. на
 Вопрос относится не к мозгу, а самому устройству квалиа.
 При этом слой изображения не выглядит как что-то занимающее объём, будто есть 2 параметра размера, высота и ширина, а 3й параметр глубины отсутствует.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/layer.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/layer.png" width="250">
 
 ---
 
@@ -734,7 +734,7 @@ Lifeticle - частица, являющаяся субъектом, т.н. на
 
 **Атом**
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/atom.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/atom.png" width="200">
 
 В мозгу не было найдено других прикреплённых частиц, занимающих объём.
 Это может означать, что лайфтикл находится в атоме.
@@ -753,7 +753,7 @@ Lifeticle - частица, являющаяся субъектом, т.н. на
 Если лайфтикл находится в атоме или по другой причине был в звезде, и если окружающая среда у звезды генерирует квалиа лайфтиклу, 
 то у нас уже были жизни в звезде со случайным и неизвестным уровнем квалиа.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/star.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/star.png" width="150">
 
 **Множественность сознания**
 
