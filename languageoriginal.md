@@ -138,7 +138,7 @@ Lifeticle - частица, являющаяся субъектом, т.н. на
 Такой риск может означать, что людям следует заполонить эту и соседние галактики роботами.
 Но такое может оставить инопланетную жизнь в заблокированном состоянии в случае вымирания людей и привести к уже созданию атакующих.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/3.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/3.png" width="250">
 
 ---
 
