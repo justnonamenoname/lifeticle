@@ -870,3 +870,4 @@ Lifeticle - частица, являющаяся субъектом, т.н. на
 <a href="ru.wikipedia.org/wiki/Философский_зомби">http://ru.wikipedia.org/wiki/Философский_зомби</a>    
 <a href="ru.wikipedia.org/wiki/Квантовое_сознание">http://ru.wikipedia.org/wiki/Квантовое_сознание</a>    
 <a href="ru.wikipedia.org/wiki/Электромагнитные_теории_сознания">http://ru.wikipedia.org/wiki/Электромагнитные_теории_сознания</a>   
+<a href="ru.wikipedia.org/wiki/Теория_интегрированной_информации">http://ru.wikipedia.org/wiki/Теория_интегрированной_информации</a>   
