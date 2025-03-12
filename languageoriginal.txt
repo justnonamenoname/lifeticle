@@ -804,3 +804,4 @@ ru.wikipedia.org/wiki/Эмерджентность
 ru.wikipedia.org/wiki/Философский_зомби
 ru.wikipedia.org/wiki/Квантовое_сознание
 ru.wikipedia.org/wiki/Электромагнитные_теории_сознания
+ru.wikipedia.org/wiki/Теория_интегрированной_информации
