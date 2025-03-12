@@ -40,7 +40,7 @@ But if the central particle is replaced, your "self," being removed from the bra
 The central particle is indivisible—if we assume that the central particle is composed of several parts,
 then, as with the organism, division can continue, and the other particles will be external to the central one.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/2.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/2.png" width="250">
 
 The highest electrical activity in the brain occurs in the reticular formation (which persists even during sleep and under anesthesia); the central part of the brain is either the reticular formation itself or a neighboring area.
 Without the brain's electrical activity, a person feels nothing.
@@ -127,7 +127,7 @@ Enemy robots could outnumber ours, and aliens could use such weapons to destroy 
 If physics allows for a hyperdrive, then such robots likely do not yet exist; otherwise, they would already be here.
 This risk might mean that humans should fill this galaxy and neighboring galaxies with robots.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/3.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/3.png" width="250">
 
 ==========================
 
@@ -154,7 +154,7 @@ And the paradox is avoided.
 
 The mystery seems unsolvable, and it is unclear whether any discoveries in physics will help resolve it.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/5.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/5.png" width="200">
 
 ==========================
 
@@ -185,7 +185,7 @@ After a person’s death, they should be preserved through cryonics, not buried 
 Cryonics centers should exist in cities.
 What to do in the event of a sudden or expected death of a person or an animal, in the context of cryonics, will be explained below.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/6.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/6.png" width="120">
 
 And you wouldn’t want to be born, or have your relatives be born, as a grasshopper or something worse.
 If there were certainty about the positivity of the next life, there would be no need to worry about it so much.
@@ -202,7 +202,7 @@ The mere fact that they have no connection to telescopes and no calls to study t
 They are not interested in the world; they are only interested in their cult.
 The fact that the moment of death does not exist also invalidates the concept of a religious paradise.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/7.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/7.png" width="200">
 
 ==========================
 
@@ -216,7 +216,7 @@ Only discoveries in the field of physics can refine this concept.
 The lifeticle must have physical properties; otherwise, it could not maintain its position during motion.
 And physicists of the future may, within the next few hundred years, come closer to uncovering the mystery of consciousness and understanding the interaction of the lifeticle with the observable world.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/8.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/8.png" width="250">
 
 At one time, people struggled to understand the motion of planets, and there were various ideas. When the correct understanding of their motion was established, other ideas fell away as less accurate.
 It is unclear why the idea of the lifeticle did not become the main focus earlier. It is simpler, and in some ways, even more banal, in contrast to the absurd notion of flying angels and a religious paradise.
