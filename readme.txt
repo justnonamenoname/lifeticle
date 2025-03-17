@@ -621,6 +621,7 @@ and the strength of repulsion depends on the intensity of pain. Qualia require e
 Physicists may begin to hypothesize what physical phenomenon this reverse influence could be.
 Even if there is an undiscovered phenomenon between the known phenomenon and the reverse influence, 
 its discovery would shift its position in the chain from the side of the reverse influence to the other side.
+
 Term Life
 
 The term Life does not have a precise definition and the term will be redefined. 
