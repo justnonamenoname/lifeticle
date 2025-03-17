@@ -240,6 +240,7 @@ Charitable organizations, crowdfunding efforts, or non-profits can play a role i
 These organizations may collaborate with cryonics companies to provide financial assistance to individuals who cannot afford the full cost of cryopreservation.
 
 Actions Upon Death
+
 If the organism was not brought to a cryocenter before death, the body must be positioned straight upon death. 
 In the case of limbs, they should be tucked in; ears should be pressed to the head.
 If there is no cryocenter nearby, the organism must be prepared for transportation:
@@ -295,6 +296,7 @@ The electromagnetic CEMI theory makes certain correspondences/similarities with 
 4) Reverse influence - the effect of the EM field on neurons.
 
 Proof Problem
+
 Dark matter is considered proven, even though there has been no direct detection. 
 The problem with the lifeticle is that indirect measurements cannot be made, and the ways of detecting the lifeticle and qualia are unknown. 
 It is problematic to prove the existence of another fundamental entity. 
