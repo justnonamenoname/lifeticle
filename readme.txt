@@ -622,12 +622,6 @@ Physicists may begin to hypothesize what physical phenomenon this reverse influe
 Even if there is an undiscovered phenomenon between the known phenomenon and the reverse influence, 
 its discovery would shift its position in the chain from the side of the reverse influence to the other side.
 
-Term Life
-
-The term Life does not have a precise definition and the term will be redefined. 
-Life will mean the presence of an active subject/phenomenal consciousness/so-called observer/lifeticle. 
-Without it, the organism will be called a biorobot.
-
 Reverse effect
 
 If you take a lifeticle and a random world around it that creates random feelings, 
@@ -645,7 +639,8 @@ its discovery will shift its position in the chain, moving it away from reverse 
 The term Life
 
 The term "Life" lacks a precise definition and will be redefined.
-"Life" will signify the presence of an active subject/phenomenal consciousness/so-called observer/lifticle. Without it, an organism will be referred to as a biorobot.
+"Life" will signify the presence of an active subject/phenomenal consciousness/so-called observer/lifticle. 
+Without it, an organism will be referred to as a biorobot.
 
 The Meaning of Life
 
@@ -666,7 +661,7 @@ The problem of the Ship of Theseus lies only in the fact that we define what we 
 From a physics perspective, when planks are transferred to another ship, it would be correct to say that one ship is 80% the Ship of Theseus, and the other is 20%.
 In the case of a living organism, the key factor is the subject (the main particle) - whether it remains the same subject.
 
-Stars 
+Stars
 
 Carbon atoms are synthesized in stars.
 If the lifeticle is inside an atom or was in stars for other reason, and if the stars' environment generates qualia for the lifeticle, 
@@ -720,7 +715,6 @@ If it is infinite, then the number of subjects would also be unlimited.
 The question of whether other universes exist is equivalent to asking whether there is more space with matter somewhere else in the universe if its size is finite.
 
 Size of the Lifeticle
-
 
 If we assume that the lifeticle has a form other than that of a particle, for example, if it is 1 cm in size, it is still attached to something in the organism.
 This is equivalent to the idea that an atom has its own internal space the size of a kilometer.
