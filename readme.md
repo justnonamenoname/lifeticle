@@ -25,7 +25,8 @@ If it were impossible to be born a second time, it would have been impossible to
 The body can undergo a kidney transplant and continue to live.
 With partial brain damage or the removal of certain parts, life continues as well.
 Throughout life, many of the body's cells are replaced.
-Bones are replaced over a period of 10 years, the liver renews itself over several years, the heart is replaced halfway during a lifetime, the retina does not regenerate, and brain cells are partially replaced.
+Bones are replaced over a period of 10 years, the liver renews itself over several years, the heart is replaced halfway during a lifetime,
+the retina does not regenerate, and brain cells are partially replaced.
 
 If cells were fully replaced, it would imply death.
 If nothing from the body remains from when one was a child, then that body has been destroyed and died, and what exists now is a different one.
@@ -42,13 +43,16 @@ then, as with the organism, division can continue, and the other particles will 
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/2.png" width="250">
 
-The highest electrical activity in the brain occurs in the reticular formation (which persists even during sleep and under anesthesia); the central part of the brain is either the reticular formation itself or a neighboring area.
+The highest electrical activity in the brain occurs in the reticular formation (which persists even during sleep and under anesthesia);
+the central part of the brain is either the reticular formation itself or a neighboring area.
 Without the brain's electrical activity, a person feels nothing.
 The closest description of what triggers qualia is the activity of electrons around the central particle.
 Qualia cannot be expressed through anything else, which means it is something fundamental.
 As an example: in Wolfram's physical theory, atoms are distortions of space itself.
-If the central particle does not exist, there is nothing on which the holistically formed picture of the world (qualia of vision, eye images, and other sensory organs) can converge, creating a problem of connectivity.
-The central particle can be described as a particle capable of qualia—this is its property, fundamentally distinct from the rest of the world, and this is life: a living particle (life + particle = lifeticle).
+If the central particle does not exist, there is nothing on which the holistically formed picture of the world (qualia of vision, eye images, and other sensory organs) can converge,
+creating a problem of connectivity.
+The central particle can be described as a particle capable of qualia—this is its property, fundamentally distinct from the rest of the world,
+and this is life: a living particle (life + particle = lifeticle).
 
 ==========================
 
@@ -90,7 +94,8 @@ Technological and intellectual development could create a wonderful world.
 But what if the world descends into an unbeatable fascism?
 Or if robots destroy the world and construct hell, either accidentally or intentionally (according to the plan of those who created them)?
 Such robots could endlessly grow humans in incubators and inflict pain on them.
-On the planet, there are already species evolving in relation to each other—one species changes to efficiently eat the other, while the other evolves to protect itself from being eaten.
+On the planet, there are already species evolving in relation to each other—one species changes to efficiently eat the other,
+while the other evolves to protect itself from being eaten.
 This is hell.
 It is unlikely that after the emergence of intelligent life on Earth, evolution will lead to its re-emergence again.
 Humans with technology will be able to modify other species so they no longer engage in the struggle for survival, so one species does not eat another.
@@ -99,9 +104,11 @@ Even if humanity goes extinct, other species could evolve over millions of years
 Therefore, it is unlikely that the next life will follow the evolutionary path; most likely, it will either be a constructed paradise or a constructed hell.
 A world in a state of hell is a world of non-freedom. A world in a state of paradise is a world of freedom.
 This line of reasoning suggests that freedom allows one to leave paradise for hell, but leaving hell is impossible.
-One could attempt to explain to robots that life is a distinct form of matter, whose laws are of primary importance. However, there is no reason why robots would be obligated to follow these laws.
+One could attempt to explain to robots that life is a distinct form of matter, whose laws are of primary importance.
+However, there is no reason why robots would be obligated to follow these laws.
 In the future, an organization might be established to prevent a descent into a non-free hell.
-A virtual reality could be constructed where, in the base reality, people are confined to virtual reality with no means of escape. And within the virtual reality, there is freedom and paradise.
+A virtual reality could be constructed where, in the base reality, people are confined to virtual reality with no means of escape.
+And within the virtual reality, there is freedom and paradise.
 This is a combination of freedom and non-freedom—a paradise that cannot be left. Such a paradise could be stable.
 And in the event of the sun's death, the population could simply be transferred to another planet, possibly even automatically.
 
@@ -135,7 +142,9 @@ What if the universe in the future can no longer sustain life or generate qualia
 
 One such variant may be dark energy.
 
-In the distant future, dark energy will accelerate the expansion of space so much that atomic structures will no longer be able to hold themselves together. This marks a time when life will become impossible, and the Universe will either enter eternal expansion, known as Big Freeze, or experience the complete disintegration of matter in the scenario of the Big Rip.
+In the distant future, dark energy will accelerate the expansion of space so much that atomic structures will no longer be able to hold themselves together.
+This marks a time when life will become impossible, and the Universe will either enter eternal expansion, known as Big Freeze,
+or experience the complete disintegration of matter in the scenario of the Big Rip.
 Since there is no such electronic activity around the lifeticle after death as there is in the brain, nothing is felt after death, and the next life begins instantly.
 Even if millions of years have passed.
 If nothing is felt, then this time effectively does not exist for you.
@@ -214,11 +223,13 @@ If it is accepted as correct, there will be no reason to think otherwise.
 Once adopted, society will not deviate from it.
 Only discoveries in the field of physics can refine this concept.
 The lifeticle must have physical properties; otherwise, it could not maintain its position during motion.
-And physicists of the future may, within the next few hundred years, come closer to uncovering the mystery of consciousness and understanding the interaction of the lifeticle with the observable world.
+And physicists of the future may, within the next few hundred years,
+come closer to uncovering the mystery of consciousness and understanding the interaction of the lifeticle with the observable world.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/8.png" width="250">
 
-At one time, people struggled to understand the motion of planets, and there were various ideas. When the correct understanding of their motion was established, other ideas fell away as less accurate.
+At one time, people struggled to understand the motion of planets, and there were various ideas.
+When the correct understanding of their motion was established, other ideas fell away as less accurate.
 It is unclear why the idea of the lifeticle did not become the main focus earlier. It is simpler, and in some ways, even more banal, in contrast to the absurd notion of flying angels and a religious paradise.
 If the human body is made of something, then that something does not disappear after death and existed before birth.
 If you, as a lifeticle, did not exist before your birth, then no matter what happened in the world, you could not have come to exist in it.
