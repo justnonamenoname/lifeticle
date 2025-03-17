@@ -447,7 +447,7 @@ The connection between qualia and the brain
 The methods of qualia
 
 Suggested possible structural methods for generating qualia-there are several options, each with its own drawbacks:
-It can be imagined that electrical activity near the lifeticle serves as a generator.
+1) It can be imagined that electrical activity near the lifeticle serves as a generator.
 The visual image from the eye, in terms of the amount of information, not only has an enormous size in megapixels and megabytes, but also has depth and brightness.
 To generate the image, signals must transmit information at a megabit speed.
 This creates a simultaneity problem; the time of the event must also be transmitted, and the method is not the same in the reverse direction of time.
@@ -485,7 +485,7 @@ Search for Qualia
 
 Qualia are not found in the transmission of signals in the brain and cannot be located within them.
 The chain [signals - qualia] leads to two possibilities:
-1)Qualia cannot be detected, and then the signals appear as leading nowhere without effect.
+1) Qualia cannot be detected, and then the signals appear as leading nowhere without effect.
 Qualia are detectable as some kind of effect.
 If there are quantum effects between the signals and qualia, this will complicate the search.
 2) A physical phenomenon leads to qualia, and physicists may start to speculate about which phenomenon it could be.
