@@ -66,7 +66,7 @@ This question leads nowhere and makes discussions about death meaningless.
 This means there is no physical moment of death.
 Death is the disintegration of the organism.
 What the organism consists of continues to exist in the world.
-The lifeticle can find itself in a new organism. 
+The lifeticle can find itself in a new organism.
 Then after death, a new life is possible.
 
 ==========================
@@ -226,22 +226,22 @@ The cost of human cryopreservation services in the United States in 2024 ranges 
 $115,000, while for animals, it is between $5,100 and $132,400. The price depends on whether only the head or the entire body is preserved.
 In major cities, many people can afford this. For those without sufficient funds, the following solutions exist:
 P2P (Peer-to-Peer)
-Peer-to-peer (P2P) systems allow individuals to fund their cryopreservation through donations from family, friends, or online networks. 
+Peer-to-peer (P2P) systems allow individuals to fund their cryopreservation through donations from family, friends, or online networks.
 These direct financial contributions provide a more flexible and personal way to raise money, relying on social connections and crowdfunding platforms to gather the necessary funds.
 B2C (Business-to-Consumer)
-Cryonics companies offer membership fees and extended insurance covering part of the costs. 
+Cryonics companies offer membership fees and extended insurance covering part of the costs.
 Banks may introduce financial products allowing family members to act as guarantors, making cryopreservation more accessible.
 B2G (Business-to-Government)
-Government programs could support body preservation. 
+Government programs could support body preservation.
 With a paradigm shift in the perception of death, cryopreservation costs could be included in healthcare systems.
 Donor Programs
-Donation-based programs can help make cryopreservation more accessible for those without sufficient funds. 
-Charitable organizations, crowdfunding efforts, or non-profits can play a role in subsidizing the costs. 
+Donation-based programs can help make cryopreservation more accessible for those without sufficient funds.
+Charitable organizations, crowdfunding efforts, or non-profits can play a role in subsidizing the costs.
 These organizations may collaborate with cryonics companies to provide financial assistance to individuals who cannot afford the full cost of cryopreservation.
 
 Actions Upon Death
 
-If the organism was not brought to a cryocenter before death, the body must be positioned straight upon death. 
+If the organism was not brought to a cryocenter before death, the body must be positioned straight upon death.
 In the case of limbs, they should be tucked in; ears should be pressed to the head.
 If there is no cryocenter nearby, the organism must be prepared for transportation:
 1) Wrap the organism in cloth. Place it in a plastic bag.
@@ -269,13 +269,13 @@ Verification
 Experimental methods
 
 Experimental methods for confirming the theory in the study of the brain:
-1) Study where the streams for qualia converge (further details below), and they must converge at a single point using the method of qualia generation. 
+1) Study where the streams for qualia converge (further details below), and they must converge at a single point using the method of qualia generation.
 If they do not converge, it does not disprove the theory, because the question is not whether an image and sound are perceived simultaneously, but how it happens.
 2) The effect of the lifeticle and information about qualia on the brain.
-3) The lifeticle must not be replaced by something else throughout life. 
-The theory is a direct consequence of the organism's structure. 
+3) The lifeticle must not be replaced by something else throughout life.
+The theory is a direct consequence of the organism's structure.
 In studying the brain, one must start from the principle of maximum divisibility, 
-meaning the brain consists of indivisible entities and that the carrier of consciousness is located somewhere in the brain (further details below). 
+meaning the brain consists of indivisible entities and that the carrier of consciousness is located somewhere in the brain (further details below).
 To disprove the theory, one must disprove what is already known, for example: 
 That particles disappear upon death, or that we are in a virtual reality, or that there is a moment of death and flying angels are indeed arriving.
 
@@ -297,11 +297,11 @@ The electromagnetic CEMI theory makes certain correspondences/similarities with 
 
 Proof Problem
 
-Dark matter is considered proven, even though there has been no direct detection. 
-The problem with the lifeticle is that indirect measurements cannot be made, and the ways of detecting the lifeticle and qualia are unknown. 
-It is problematic to prove the existence of another fundamental entity. 
+Dark matter is considered proven, even though there has been no direct detection.
+The problem with the lifeticle is that indirect measurements cannot be made, and the ways of detecting the lifeticle and qualia are unknown.
+It is problematic to prove the existence of another fundamental entity.
 This is known from the position of the lifeticle itself - the very sensation of visual information without the sensation of "yourself" is only possible 
-if the sensation and the so-called observer exist. 
+if the sensation and the so-called observer exist.
 The effect of the lifeticle on the brain, to make the brain aware of the existence of qualia, is also unknown.
 
 An example of a theory
@@ -320,7 +320,7 @@ Fundamentality
 
 There are two options when it comes to the fundamental nature of qualia and its uniqueness as a phenomenon: 
 Not fundamental - it is possibly explained through other entities.
-Fundamental - it cannot be explained through other entities. 
+Fundamental - it cannot be explained through other entities.
 If attempting to prove fundamentality – this is proving the impossibility of explanation, proving that no other phenomenon exists that makes qualia non-unique, 
 and that the non-existent Russell's teapot does not exist.
 When proving non-fundamentality, it is enough to provide an example of an entity from which qualia may consist.
@@ -357,32 +357,32 @@ Ideas about Qualia
 
 The Problem of Pointwise Binding
 
-The problem of binding means that signals for qualia must converge at one point. 
-If the signals are somehow separate, then they are simply not connected. 
-The visual information from the eye – it has a left part and a right part, and they seem to be separate, but if they were truly separate, we would again face the binding problem. 
-This can be called the problem of pointwise binding. 
-The wave function/quantum entanglement seems like a solution to this. 
+The problem of binding means that signals for qualia must converge at one point.
+If the signals are somehow separate, then they are simply not connected.
+The visual information from the eye – it has a left part and a right part, and they seem to be separate, but if they were truly separate, we would again face the binding problem.
+This can be called the problem of pointwise binding.
+The wave function/quantum entanglement seems like a solution to this.
 
 Types of Qualia
 
-Oratosquilla oratoria – or Mantis shrimps have two large, branching compound eyes. These eyes have 16 types of photoreceptors (while humans have 2: cones and rods). 
+Oratosquilla oratoria – or Mantis shrimps have two large, branching compound eyes. These eyes have 16 types of photoreceptors (while humans have 2: cones and rods).
 Mantis shrimps are also capable of distinguishing infrared and ultraviolet colors and seeing linear and circular polarization.
 This raises the question – do these 16 types of photoreceptors see color in the same spectrum as humans – a mixture of 3 colors: 
 blue, red, and green, or are other types of color sensations available to them?
-In addition to color itself, there is also brightness and distance in the perception of color. 
+In addition to color itself, there is also brightness and distance in the perception of color.
 This raises the question of what other types of sensations are available besides the basic organs.
 Music can also create sensations/impressions that have not been experienced before, and they are not repeated elsewhere.
 The organism is evolutionarily limited; for example, sharper vision leads to the brain having to process more information, 
-which is more complex, requires more attention, and reduces reaction speed. 
-Similarly, enhanced hearing would require more brain power. 
+which is more complex, requires more attention, and reduces reaction speed.
+Similarly, enhanced hearing would require more brain power.
 A dog’s excellent sense of smell helps it find food, while an eagle’s sharp vision assists it in this task.
 The question is divided into two parts: what sensations and of what strength the brain is capable of generating, 
 and what types are generally possible, and whether their number is limited.
 
 Self
 
-The feeling of "yourself" is directed at yourself. 
-However, this is just a feeling, and this feeling may not exist. 
+The feeling of "yourself" is directed at yourself.
+However, this is just a feeling, and this feeling may not exist.
 Even though this feeling is directed at yourself, the "yourself" and the feeling of "yourself" are separate entities.
 
 Minimal Size of Qualia
@@ -410,7 +410,7 @@ Examining feedback can clarify the question
 
 The connection between evolution and qualia
 
-To say that qualia appeared evolutionarily is the same as saying that metal in the body was created for the organism evolutionarily. 
+To say that qualia appeared evolutionarily is the same as saying that metal in the body was created for the organism evolutionarily.
 In fact, it is the opposite – metal as a tool was used in the process of evolution in construction.
 
 Information
@@ -428,20 +428,20 @@ If we assume that the lifeticle is in the atom, there is a similarity between qu
 6) The atom's spin is similar to the direction of the qualia field
 7) It seems like a solution to the problem of pointwise binding
 The problem is that we represent the wave function as the qualia field and how the transmission of information about qualia occurs, 
-the maximum number of simultaneously experienced positive and negative qualia is 6 types each, due to the 6 energy levels of electrons in carbon (if the lifeticle is in carbon). 
+the maximum number of simultaneously experienced positive and negative qualia is 6 types each, due to the 6 energy levels of electrons in carbon (if the lifeticle is in carbon).
 
 Time flow
 
 It is possible that in the state of death, there may be activity around the lifeticle that generates qualia, 
-and while being dead, something might be felt, and time does not pass instantly. 
-This depends on the surrounding environment; in the case of a prolonged environment generating qualia, it resembles the next life. 
+and while being dead, something might be felt, and time does not pass instantly.
+This depends on the surrounding environment; in the case of a prolonged environment generating qualia, it resembles the next life.
 However, in the case of the infinite expansion of the universe around the lifeticle, nothing alike, and this also resets time.
-This option may not work in a cyclic universe, as there is no infinite expansion, and electrical activity may remain around the lifeticle. 
+This option may not work in a cyclic universe, as there is no infinite expansion, and electrical activity may remain around the lifeticle.
 It is possible that during sleep, one might feel something but not remember it. The sensation of time passing instantly could be the result of the lack of memory.
-As a counterargument – in sleep, there are no random sensations, and the speed of time can vary. 
+As a counterargument – in sleep, there are no random sensations, and the speed of time can vary.
 If a person does not want to experience sensations, disabling the generation of qualia by the brain is not a solution; 
 a minimum level of qualia is necessary for time not to pass instantly. This option is excluded due to the uncertainty about what causes qualia.
-This may indicate an unlikely error in the article, for which there are no visible reasons. 
+This may indicate an unlikely error in the article, for which there are no visible reasons.
 This is necessary for the introduction of "zero eternity," but it does not affect the overall concept.
 
 ========================
@@ -467,22 +467,22 @@ The method corresponds to the CEMI theory.
 
 Transition from point to circle
 
-The minimum size of qualia in an image - the smaller the size of the point in the image, the more information is needed to generate the image. 
-This may mean that the point of the image has size parameter, and the point has the shape of a circle, or some other way of forming a volume. 
-This may imply that the qualia of the image looks like to have more information than what is used for the generation itself. 
-A circle looks like to have more information than a point with a radius. 
+The minimum size of qualia in an image - the smaller the size of the point in the image, the more information is needed to generate the image.
+This may mean that the point of the image has size parameter, and the point has the shape of a circle, or some other way of forming a volume.
+This may imply that the qualia of the image looks like to have more information than what is used for the generation itself.
+A circle looks like to have more information than a point with a radius.
 Such a transition exists in the electromagnetic theory of consciousness, CEMI, which corresponds to the third method of generating qualia.
-Part of the image may have the form of a volume of an object, and individual points of the image are linked to the volumetric form. 
-Some qualia are connected to others. This indicates a complex structure of qualia and its generation. 
+Part of the image may have the form of a volume of an object, and individual points of the image are linked to the volumetric form.
+Some qualia are connected to others. This indicates a complex structure of qualia and its generation.
 The structure must be studied when examining the method of generating qualia.
 
 The speed of time
 
-The speed of the passage of time cannot be set for sensations, as the speed of time is common for them and cannot be different at the same time. 
-However, if it is set by a separate signal, then without the signal, the speed is not chosen. 
-Time in qualia would lead to its overlapping. There remains an option where speed is set by the number of frames, a method used in quantum theory Orch OR. 
-If the frames of the image and sound were separate, it would lead to flickering of both the image and the sound. But this appears as a violation of continuity. 
-Smoothness in the passage of time occurs either by an instantaneous skip of time without qualia, or by a separate method. 
+The speed of the passage of time cannot be set for sensations, as the speed of time is common for them and cannot be different at the same time.
+However, if it is set by a separate signal, then without the signal, the speed is not chosen.
+Time in qualia would lead to its overlapping. There remains an option where speed is set by the number of frames, a method used in quantum theory Orch OR.
+If the frames of the image and sound were separate, it would lead to flickering of both the image and the sound. But this appears as a violation of continuity.
+Smoothness in the passage of time occurs either by an instantaneous skip of time without qualia, or by a separate method.
 The first method of generating qualia and CEMI do not solve this issue.
 
 Search for Qualia
@@ -508,21 +508,21 @@ This should be discovered when studying the brain.
 
 Transfer of qualia
 
-Qualia are not information, if a person has never seen the color red, it cannot be explained to them. Once the person has seen the color red, it is possible to reimagine it. 
-Information about the sensation of color is stored in the brain, and the brain, using this information, is capable of reproducing the color through the method of generating qualia. 
+Qualia are not information, if a person has never seen the color red, it cannot be explained to them. Once the person has seen the color red, it is possible to reimagine it.
+Information about the sensation of color is stored in the brain, and the brain, using this information, is capable of reproducing the color through the method of generating qualia.
 It may be possible to transmit qualia in another way.
-The chain [Light waves - eyes - brain - generator - qualia] is replaced by [Simulation of the process in the brain - generator - qualia]. 
+The chain [Light waves - eyes - brain - generator - qualia] is replaced by [Simulation of the process in the brain - generator - qualia].
 This would mean that one could know what it is like to be another living organism - for example, a bat.
 
 Problem of Encoding
 
-The way information is encoded for generating qualia and the fact that it is not identical to the qualia itself. 
-From the perspective of the CEMI theory, this is the question of why certain electromagnetic fields lead to certain qualia while others lead to others. 
-The issue of encoding and decoding appears as a problem of conversion, where the decoder is on the side of the lifeticle. 
-In the case of placement in CEMI, it is determined by direct position, but not by the type of color. 
-In the case of the qualia field as a wave function, placement is the same parameter as the color type. 
-The solution to the problem of the decoder on the lifeticle side would be the existence of qualia without a lifeticle. 
-In this case, the object representing the qualia exists, but is not perceived by anyone. 
+The way information is encoded for generating qualia and the fact that it is not identical to the qualia itself.
+From the perspective of the CEMI theory, this is the question of why certain electromagnetic fields lead to certain qualia while others lead to others.
+The issue of encoding and decoding appears as a problem of conversion, where the decoder is on the side of the lifeticle.
+In the case of placement in CEMI, it is determined by direct position, but not by the type of color.
+In the case of the qualia field as a wave function, placement is the same parameter as the color type.
+The solution to the problem of the decoder on the lifeticle side would be the existence of qualia without a lifeticle.
+In this case, the object representing the qualia exists, but is not perceived by anyone.
 For example: If the qualia fields are a wave function, then the wave function exists without the lifeticle.
 
 Attention
@@ -531,9 +531,9 @@ Attention within the qualia field is when other qualia, except for the one that 
 
 Chemistry
 
-It is possible that qualia is not caused by electrical activity, but by surrounding molecules. 
-The eye can distinguish the difference between 100 and 200 frames per second; the speed of electrochemical interaction is sufficient. 
-This is only possible with the 2nd and 3rd structural methods of qualia. The generated image – in terms of the amount of information – is measured in megabytes per second. 
+It is possible that qualia is not caused by electrical activity, but by surrounding molecules.
+The eye can distinguish the difference between 100 and 200 frames per second; the speed of electrochemical interaction is sufficient.
+This is only possible with the 2nd and 3rd structural methods of qualia. The generated image – in terms of the amount of information – is measured in megabytes per second.
 And despite the fact that information in the brain is transmitted electrically through neurons, qualia themselves may not be caused by them.
 
 ========================
@@ -542,8 +542,8 @@ Qualia space
 
 Distance
 
-If to hit on a leg, there arises a sensation of pain, and this pain is felt at a distance from the brain. 
-It turns out that in the brain exists a definition of at what distance and in what place the pain is located. 
+If to hit on a leg, there arises a sensation of pain, and this pain is felt at a distance from the brain.
+It turns out that in the brain exists a definition of at what distance and in what place the pain is located.
 This means that it is possible to change this definition and set the distance to a kilometer, and then the pain will indeed be felt at a distance of a kilometer.
 
 Position in space
@@ -557,7 +557,7 @@ In this case, you cannot feel anything further than a kilometer.
 Those. what we feel - these sensations have a very real location, but the size of this is very small, qualia are smaller than a molecule.
 As you grow older, objects are felt to be of a different size, and even if there is a separate area of ​​space around the lifeticle and the sizes of sensations are larger, 
 then they still do not correspond to real sizes, but are relative.
-Furthermore, one's own spatial domain is a more complex structure. 
+Furthermore, one's own spatial domain is a more complex structure.
 An experiment on creating pain at a distance and studying a qualia generator could help clarify the question and the distance limit.
 
 Space
@@ -639,16 +639,16 @@ its discovery will shift its position in the chain, moving it away from reverse 
 The term Life
 
 The term "Life" lacks a precise definition and will be redefined.
-"Life" will signify the presence of an active subject/phenomenal consciousness/so-called observer/lifticle. 
+"Life" will signify the presence of an active subject/phenomenal consciousness/so-called observer/lifticle.
 Without it, an organism will be referred to as a biorobot.
 
 The Meaning of Life
 
 A violation of the internal causal chain in the existence of the lifeticle: if there were an external cause for its creation, 
-this would imply that the lifeticle already exists, i.e., it is its own cause for existence - as if it created itself, which is a paradox. 
-This also means that it cannot not exist. 
+this would imply that the lifeticle already exists, i.e., it is its own cause for existence - as if it created itself, which is a paradox.
+This also means that it cannot not exist.
 This also answers the question of the meaning of life: the purpose of the lifticle’s creation is the meaning of life, but since the lifticle’s existence is a paradox, 
-the meaning of life lies in the paradox. 
+the meaning of life lies in the paradox.
 At the same time, there are directions of life: happiness/positive qualia, pain/negative qualia, and "zero eternity".
 
 Status
