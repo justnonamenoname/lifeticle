@@ -412,6 +412,8 @@ and what types are generally possible, and whether their number is limited.
 
 **Self**
 
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/me.png">
+
 The feeling of "yourself" is directed at yourself. 
 However, this is just a feeling, and this feeling may not exist. 
 Even though this feeling is directed at yourself, the "yourself" and the feeling of "yourself" are separate entities.
