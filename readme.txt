@@ -364,6 +364,7 @@ This can be called the problem of pointwise binding.
 The wave function/quantum entanglement seems like a solution to this. 
 
 Types of Qualia
+
 Oratosquilla oratoria – or Mantis shrimps have two large, branching compound eyes. These eyes have 16 types of photoreceptors (while humans have 2: cones and rods). 
 Mantis shrimps are also capable of distinguishing infrared and ultraviolet colors and seeing linear and circular polarization.
 This raises the question – do these 16 types of photoreceptors see color in the same spectrum as humans – a mixture of 3 colors: 
@@ -379,6 +380,7 @@ The question is divided into two parts: what sensations and of what strength the
 and what types are generally possible, and whether their number is limited.
 
 Self
+
 The feeling of "yourself" is directed at yourself. 
 However, this is just a feeling, and this feeling may not exist. 
 Even though this feeling is directed at yourself, the "yourself" and the feeling of "yourself" are separate entities.
