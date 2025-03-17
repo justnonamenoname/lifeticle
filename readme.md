@@ -242,19 +242,19 @@ The cost of human cryopreservation services in the United States in 2024 ranges 
 $115,000, while for animals, it is between $5,100 and $132,400. The price depends on whether only the head or the entire body is preserved.
 In major cities, many people can afford this. For those without sufficient funds, the following solutions exist:
 
-P2P (Peer-to-Peer)
+P2P (Peer-to-Peer)  
 Peer-to-peer (P2P) systems allow individuals to fund their cryopreservation through donations from family, friends, or online networks. 
 These direct financial contributions provide a more flexible and personal way to raise money, relying on social connections and crowdfunding platforms to gather the necessary funds.
 
-B2C (Business-to-Consumer)
+B2C (Business-to-Consumer)  
 Cryonics companies offer membership fees and extended insurance covering part of the costs. 
 Banks may introduce financial products allowing family members to act as guarantors, making cryopreservation more accessible.
 
-B2G (Business-to-Government)
+B2G (Business-to-Government)  
 Government programs could support body preservation. 
 With a paradigm shift in the perception of death, cryopreservation costs could be included in healthcare systems.
 
-Donor Programs
+Donor Programs  
 Donation-based programs can help make cryopreservation more accessible for those without sufficient funds. 
 Charitable organizations, crowdfunding efforts, or non-profits can play a role in subsidizing the costs. 
 These organizations may collaborate with cryonics companies to provide financial assistance to individuals who cannot afford the full cost of cryopreservation.
