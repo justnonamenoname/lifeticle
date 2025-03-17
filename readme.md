@@ -652,6 +652,8 @@ This scenario of an incomplete cyclic universe is equivalent to the scenario of 
 
 **Cyclicality**
 
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/universestatecycle.png">
+
 Robots can destroy life if the universe is cyclic - this allows the robots to be destroyed, but it leads again to an evolutionary path.
 There is no scenario where robots are destroyed without a new evolutionary path emerging.
 This may mean that full happiness does not exist in the world.
@@ -702,6 +704,8 @@ This also means that it cannot not exist.
 This also answers the question of the meaning of life: the purpose of the lifticle’s creation is the meaning of life, but since the lifticle’s existence is a paradox, 
 the meaning of life lies in the paradox. 
 At the same time, there are directions of life: happiness/positive qualia, pain/negative qualia, and "zero eternity".
+
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/modellife.png">
 
 **Status**
 
