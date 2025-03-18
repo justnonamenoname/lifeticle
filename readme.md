@@ -54,7 +54,7 @@ creating a problem of connectivity.
 The central particle can be described as a particle capable of qualia—this is its property, fundamentally distinct from the rest of the world,
 and this is life: a living particle (life + particle = lifeticle).
 
-==========================
+---
 
 ### The moment of death
 
@@ -75,7 +75,7 @@ What the organism consists of continues to exist in the world.
 The lifeticle can find itself in a new organism.
 Then after death, a new life is possible.
 
-==========================
+---
 
 The idea of the lifeticle implies that reverse transplantation is possible.
 It can be taken from a dying organism and placed in another, and for it, it will continue its life.
@@ -84,7 +84,7 @@ It is possible that life for the lifeticle happens once every million, or even b
 The longer the time, the greater the chance of being born again.
 But there is a huge problem—there remains the possibility of pain and unhappiness.
 
-==========================
+---
 
 ### Future
 
@@ -114,7 +114,7 @@ And in the event of the sun's death, the population could simply be transferred 
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/state.png">
 
-==========================
+---
 
 But there may also be another external factor—alien life with intentions unknown to us.
 
@@ -136,7 +136,7 @@ This risk might mean that humans should fill this galaxy and neighboring galaxie
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/3.png" width="250">
 
-==========================
+---
 
 What if the universe in the future can no longer sustain life or generate qualia for the lifeticle?
 
@@ -165,7 +165,7 @@ The mystery seems unsolvable, and it is unclear whether any discoveries in physi
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/5.png" width="200">
 
-==========================
+---
 
 Four possibilities after death:
 1) A constructed hell
@@ -177,7 +177,7 @@ Only possible discoveries in physics could exclude the scenario of zero eternity
 And even then, only if the universe undergoes cyclical stages of expansion and contraction, and physics can detect this.
 Therefore, the future after death is highly unclear and ambiguous; it represents a great uncertainty, which also makes our life more valuable.
 
-==========================
+---
 
 ### What's cryonics? 
 
@@ -200,7 +200,7 @@ And you wouldn’t want to be born, or have your relatives be born, as a grassho
 If there were certainty about the positivity of the next life, there would be no need to worry about it so much.
 Denying cryonics to the deceased is a rejection of a life lasting hundreds of years in favor of vast uncertainty.
 
-==========================
+---
 
 ### Could there be another answer?
 
@@ -213,7 +213,7 @@ The fact that the moment of death does not exist also invalidates the concept of
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/7.png" width="200">
 
-==========================
+---
 
 ### Verdict
 
@@ -243,7 +243,7 @@ Death can be defeated.
 
 In memory of J.
 
-==========================
+---
 
 ## Cryonics
 
@@ -295,7 +295,7 @@ When transporting it in a vehicle, the container should be placed in the trunk, 
 Dry ice must not be placed in an airtight container.  
 Dry ice should only be disposed of in a well-ventilated area or an open outdoor space.  
 
-========================
+---
 
 ## Verification
 
@@ -387,7 +387,7 @@ If elementary particles consist of space (as in Wolfram's theory), then:
 These are enough to construct reality except for one thing-the carriers of consciousness and qualia.
 Hence the emergence of the so-called Hard Problem of Consciousness / Explanatory gap -attempting to explain one entity through another entity.
 
-========================
+---
 
 ## Aspects of Phenomenal Consciousness
 
@@ -489,7 +489,7 @@ a minimum level of qualia is necessary for time not to pass instantly. This opti
 This may indicate an unlikely error in the article, for which there are no visible reasons.
 This is necessary for the introduction of "zero eternity," but it does not affect the overall concept.
 
-========================
+---
 
 ### The connection between qualia and the brain
 
@@ -591,7 +591,7 @@ The eye can distinguish the difference between 100 and 200 frames per second; th
 This is only possible with the 2nd and 3rd structural methods of qualia. The generated image – in terms of the amount of information – is measured in megabytes per second.
 And despite the fact that information in the brain is transmitted electrically through neurons, qualia themselves may not be caused by them.
 
-========================
+---
 
 ### Qualia space
 
@@ -650,7 +650,7 @@ as if there are two size parameters - height and width - while the third paramet
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/layer.png" width="250">
 
-========================
+---
 
 ### Qualia's Connection to Cosmic Destiny
 
@@ -672,7 +672,7 @@ There is no scenario where robots are destroyed without a new evolutionary path 
 This may mean that full happiness does not exist in the world.
 This highlights the importance of creating an organization to monitor artificial intelligence or other possible transitions into negative qualia states.
 
-========================
+---
 
 ### Lifeticle
 
@@ -791,7 +791,7 @@ If we assume that the lifeticle has a form other than that of a particle, for ex
 This is equivalent to the idea that an atom has its own internal space the size of a kilometer.
 This again leads to the idea of a central particle.
 
-========================
+---
 
 ### Incompatibility with Other Theories
 
