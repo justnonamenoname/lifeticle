@@ -455,7 +455,7 @@ This is necessary for the introduction of "zero eternity," but it does not affec
 
 ========================
 
-The connection between qualia and the brain
+Qualia-brain connection
 
 The methods of qualia
 
