@@ -491,7 +491,7 @@ This is necessary for the introduction of "zero eternity," but it does not affec
 
 ---
 
-### The connection between qualia and the brain
+### Qualia-brain connection
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/brainqualia.png" width="250">
 
