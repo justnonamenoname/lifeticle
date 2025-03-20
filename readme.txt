@@ -664,6 +664,13 @@ Status
 
 In the status of death, it might be indicated: central particle/lifeticle: saved/lost.
 
+Atom
+
+In the brain, no other attached particles occupying volume have been found.
+This may suggest that the lifeticle is located within an atom.
+In this case, the lifeticle does not need to be moved to appear in the brain during its formation.
+It is more complex for the lifeticle to end up in the brain through the process of evolutionary brain development. However, if it were located within an atom, this additional complexity would be unneeded.
+
 The Ship of Theseus
 
 The problem of the Ship of Theseus lies only in the fact that we define what we call a "ship".
