@@ -612,7 +612,7 @@ It can be assumed that they operate at the atomic level, for example: a distance
 a sensation at a distance of a kilometer is at a distance of an atom.
 In this case, you cannot feel anything further than a kilometer.
 Those what we feel - these sensations have a very real location, but the size of this is very small, qualia are smaller than a molecule.
-As you grow older, objects are felt to be of a different size, and even if there is a separate area of ​​space around the lifeticle and the sizes of sensations are larger, 
+As you grow older, objects are felt to be of a different size, and even if there is a separate area of space around the lifeticle and the sizes of sensations are larger, 
 then they still do not correspond to real sizes, but are relative.
 Furthermore, one's own spatial domain is a more complex structure.
 An experiment on creating pain at a distance and studying a qualia generator could help clarify the question and the distance limit.
