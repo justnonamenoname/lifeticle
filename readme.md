@@ -731,7 +731,8 @@ In the status of death, it might be indicated: central particle/lifeticle: saved
 In the brain, no other attached particles occupying volume have been found.
 This may suggest that the lifeticle is located within an atom.
 In this case, the lifeticle does not need to be moved to appear in the brain during its formation.
-It is more complex for the lifeticle to end up in the brain through the process of evolutionary brain development. However, if it were located within an atom, this additional complexity would be unneeded.
+It is more complex for the lifeticle to end up in the brain through the process of evolutionary brain development.
+However, if it were located within an atom, this additional complexity would be unneeded.
 
 **The Ship of Theseus**
 
