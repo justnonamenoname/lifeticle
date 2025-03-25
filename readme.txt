@@ -664,6 +664,19 @@ Status
 
 In the status of death, it might be indicated: central particle/lifeticle: saved/lost.
 
+The Fate of the Lifeticle
+
+If the deceased could not be cryonized upon death, their ashes can be scattered either in a cemetery or at sea.
+It is preferable to scatter the ashes on land, 
+as the probability of being reborn as a terrestrial life form is higher than as an aquatic one - likely a comparison of one in a million to one in a billion.
+However, the lifeticle may potentially escape in the smoke during cremation, creating ambiguity in this recommendation.
+Despite the ambiguity, this factor redefines the optimal location for scattering the ashes, and the answer is — on land.
+If the organism was not cryonized and if physical laws permit and the theory is proven, instead of memorial ashes, the lifeticle could be stored in a mold.
+
+Biorobots
+
+The answer to the question of what a lifeticle is and how qualia are triggered will also answer the question of whether viruses or biorobots are considered alive.
+
 Atom
 
 In the brain, no other attached particles occupying volume have been found.
