@@ -761,6 +761,22 @@ then there may have already been quasi-life within the stars with a random and u
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/star.png" width="150">
 
+**Multiplicity of Consciousness**
+
+The idea of multiple consciousnesses, where many lifeticles exist in the brain and experience the same qualia, requires identical qualia to be generated for several lifeticles.
+This idea is structurally more complex, both in terms of evolution and considering the influence of the lifeticle itself, 
+and there are no reasons for such complexity; the idea is evolutionarily improbable.
+
+**The Problem of Indivisible Structure**
+
+An image can disappear, which means it is not part of the lifeticle but rather some external functionality.
+And the lifeticle itself has an influence on the world.
+Such a particle appears to resemble a kind of micro-brain with its own functionality — otherwise, it wouldn't work, and this creates the problem of indivisible structure.
+This problem also exists in elementary particles: an electron has properties such as momentum (direction and speed), charge, spin, interactions with other particles, etc.
+If an elementary particle had no properties, it would exist without interacting with the world and would not be part of it.
+In Wolfram’s theory, the elements of the hypergraph, from which elementary particles are composed, also have multiple properties.
+Perhaps this is a fundamental requirement; otherwise, reality would not form.
+
 **Elementary Particles**
 
 When questioning what the lifeticle is, one might ask: are the actions of elementary particles actually living actions rather than automatic ones? Several points argue against this.
