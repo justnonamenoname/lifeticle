@@ -798,16 +798,16 @@ Lifeticle
 ========================
 
 Ссылки на связанные темы
-Теория Вольфрама habr.com/ru/articles/649483/
-ru.wikipedia.org/wiki/Тёмная_материя
-ru.wikipedia.org/wiki/Тёмная_энергия
-ru.wikipedia.org/wiki/Многомировая_интерпретация
-ru.wikipedia.org/wiki/Расширение_Вселенной
+ru.wikipedia.org/wiki/Проблема_связывания
 ru.wikipedia.org/wiki/Трудная_проблема_сознания
 ru.wikipedia.org/wiki/Разрыв_в_объяснении
-ru.wikipedia.org/wiki/Проблема_связывания
-ru.wikipedia.org/wiki/Эмерджентность
-ru.wikipedia.org/wiki/Философский_зомби
 ru.wikipedia.org/wiki/Квантовое_сознание
 ru.wikipedia.org/wiki/Электромагнитные_теории_сознания
 ru.wikipedia.org/wiki/Теория_интегрированной_информации
+ru.wikipedia.org/wiki/Философский_зомби
+ru.wikipedia.org/wiki/Эмерджентность
+ru.wikipedia.org/wiki/Тёмная_материя
+ru.wikipedia.org/wiki/Тёмная_энергия
+ru.wikipedia.org/wiki/Расширение_Вселенной
+ru.wikipedia.org/wiki/Многомировая_интерпретация
+Теория Вольфрама habr.com/ru/articles/649483
