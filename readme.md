@@ -8,7 +8,7 @@ Lifeticle is a particle that acts as a subject, the so-called observer in the br
 ## Survival
 Theoretical reflections on death, the necessity of cryonics, and the importance of preserving the body of the deceased
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/1.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/1.png" width="250">
 
 ### Lifetickle's existence
 
