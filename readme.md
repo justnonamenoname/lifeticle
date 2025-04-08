@@ -739,7 +739,7 @@ The answer to the question of what a lifeticle is and how qualia are triggered w
 
 **Atom**
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/atom.png" width="150">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/atom.png" width="100">
 
 In the brain, no other attached particles occupying volume have been found.
 This may suggest that the lifeticle is located within an atom.
