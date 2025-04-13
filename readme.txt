@@ -631,20 +631,6 @@ Physicists may begin to hypothesize what physical phenomenon this reverse influe
 Even if there is an undiscovered phenomenon between the known phenomenon and the reverse influence, 
 its discovery would shift its position in the chain from the side of the reverse influence to the other side.
 
-Reverse effect
-
-If you take a lifeticle and a random world around it that creates random feelings, 
-there's no reason why a positive feeling structure could develop without the influence of the lifeticle on the world.
-This means that the  lifeticle can somehow influence the world, not just transmit information. Only transmission wouldn't have that effect.
-Evolution already incorporates the result of reverse influence, just as it incorporates pain.
-Two possibilities:
-1) Not at the moment of sensation, but later (the lifticle's influence on random quantum processes).
-2) At the very moment of sensation, the influence of positive and negative qualia is opposite - negative qualia has a repelling effect, 
-with the strength of repulsion depending on the intensity of pain. Qualia requires energy, and reverse influence consumes it.
-Physicists might start theorizing about what physical phenomenon could underlie reverse influence.
-Even if an undiscovered phenomenon lies between the known phenomenon and reverse influence, 
-its discovery will shift its position in the chain, moving it away from reverse influence.
-
 The term Life
 
 The term "Life" lacks a precise definition and will be redefined.
