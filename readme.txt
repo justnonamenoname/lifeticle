@@ -8,7 +8,7 @@ Lifeticle remains in the brain after its death.
 Phenomenal consciousness is the sum of sensations/qualia. All other brain functions do not pertain to phenomenal consciousness.
 
 Survival
-Theoretical reflections on death, the necessity of cryonics, and the importance of preserving the body of the deceased
+The theory of death, the necessity of cryonics, and the importance of preserving the body of the deceased
 
 Lifeticle's existence
 
