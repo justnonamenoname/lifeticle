@@ -136,6 +136,7 @@ Enemy robots could outnumber ours, and aliens could use such weapons to destroy 
 
 If physics allows for a superluminal drive, then such robots likely do not yet exist; otherwise, they would already be here.
 This risk might mean that humans should fill this galaxy and neighboring galaxies with robots.
+But this could leave alien life in a blocked state if humans go extinct, and potentially lead to the creation of hostile entities.
 
 ==========================
 
