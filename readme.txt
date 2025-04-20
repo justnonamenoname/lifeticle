@@ -345,7 +345,7 @@ If we assume that emergence can create qualia, then still, signals in the brain 
 otherwise, a binding problem arises, which makes the issue of emergence meaningless.
 The properties of emergence can be obtained by modeling, for example: knowing the properties of a water molecule, by modeling a multitude of molecules, 
 we can obtain the properties of water.
-The problem of pointwise binding requires a separate law, which also points to the fundamentality of qualia.
+The problem of pointwise binding requires a separate law, which also points to the fundamentality of qualia (further details in connection between qualia and the brain).
 If we find a neuron in which information about the point of red color is stored, then the question arises - why does this lead to the color red?
 Without introducing qualia as a separate entity, it cannot be avoided.
 The fact that the brain is divided into regions, and that these regions influence qualia generation, 
