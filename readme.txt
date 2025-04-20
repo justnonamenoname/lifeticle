@@ -217,6 +217,7 @@ It is unclear why the idea of the lifeticle did not become the main focus earlie
 If the human body is made of something, then that something does not disappear after death and existed before birth.
 If you, as a lifeticle, did not exist before your birth, then no matter what happened in the world, you could not have come to exist in it.
 If the matter you are made of did not exist before your birth, then no matter what happened in the world, how could you have come to exist in it?
+A theory is important to know to the same degree as it's important to know what comes after death, and to the same degree as survival is important.
 
 In our time, cryonics should become the primary approach in matters of death.
 Regardless of life extension technologies.
