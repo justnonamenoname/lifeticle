@@ -187,9 +187,9 @@ In October 2022, a baby girl was born using an embryo that had been stored in a 
 If we look back—200 years ago, technology was far less advanced,
 and 500 years ago, the difference was even greater.
 The same kind of progress will happen 200 years from now—future technologies will be highly advanced, and what about 500 years from now?
-Technology is limited only by the laws of physics. For example, a doctor cannot be instantly transported from Saturn—movement itself is limited by speed.
-This is an opportunity.
-And potentially, an opportunity for life without a time limit.
+Technology is limited only by the laws of physics. For example, a doctor cannot be instantly transported from Saturn—movement itself is limited by speed.  
+This is an opportunity.  
+And potentially, an opportunity for life without a time limit.  
 After a person’s death, they should be preserved through cryonics, not buried or cremated, scattering their particles indiscriminately.
 Cryonics centers should exist in cities.
 What to do in the event of a sudden or expected death of a person or an animal, in the context of cryonics, will be explained below.
