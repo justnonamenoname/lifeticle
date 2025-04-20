@@ -83,7 +83,7 @@ Then after death, a new life is possible.
 ---
 
 The idea of the lifeticle implies that reverse transplantation is possible.
-If the laws of physics allow lifeticle can be taken from a dying organism and placed in another, and for it, it will continue its life.
+If physical laws allow it, the lifeticle can be taken from a dying organism and placed into another one, and its life will continue.
 This provides an unlimited lifespan.
 It is possible that life for the lifeticle happens once every million, or even billion, years.
 The longer the time, the greater the chance of being born again.
