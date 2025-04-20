@@ -31,8 +31,8 @@ If nothing from the body remains from when one was a child, then that body has b
 If the particles that made up the child were gathered again, one might assume that this would be you, not the one in the current body, but this is not the case.
 Therefore, something remains, some tiny part stays, and that part is the central one in the brain.
 The brain is not an indivisible object; it is made up of indivisible particles.
-You are the entity in the brain that feels.
-What are you in the brain? The answer is: the carrier of consciousness can only be a single indivisible entity.
+You are the particle in the brain that feels.
+What are you in the brain? The answer is: the carrier of consciousness can only be a single indivisible particle.
 It is not possible to choose multiple entities, as they are separate entities.
 This means that in the brain, any particle can be replaced with an identical one, and you wouldn’t notice a difference.
 But if the central particle is replaced, your "self," being removed from the brain, would cease to feel anything.
