@@ -132,7 +132,7 @@ Even if life has not originated on another planet in this galaxy, it might have 
 And if we start creating them now, it still might not be enough.
 Enemy robots could outnumber ours, and aliens could use such weapons to destroy life on our planet.
 
-If physics allows for a hyperdrive, then such robots likely do not yet exist; otherwise, they would already be here.
+If physics allows for a superluminal drive, then such robots likely do not yet exist; otherwise, they would already be here.
 This risk might mean that humans should fill this galaxy and neighboring galaxies with robots.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/3.png" width="250">
@@ -380,7 +380,7 @@ Qualia without the so-called observer lead to the same problem-why do you live t
 To say that the particle lifeticle, which is the carrier of consciousness, the so-called observer, 
 cannot exist is equivalent to saying that there is no carrier of consciousness in the collection of particles forming the brain.  
 Quantum uncertainty is fundamental and cannot be replicated informally.  
-Time is also fundamental-it cannot be explained by any other entity, even in Wolfram's theory with the details of the hypergraph, there is no explanation of time.
+Time is also fundamental-it cannot be explained by any other entity, even in Wolfram's theory with the details of the graph, there is no explanation of time.
 If elementary particles consist of space (as in Wolfram's theory), then:
 1) indivisible elements of space
 2) time
