@@ -347,8 +347,8 @@ That particles disappear upon death, or that we are in a virtual reality, or tha
 The Orch OR theory (Orchestrated Objective Reduction) by Penrose and Hameroff makes several parallels to the lifeticle theory:
 1) Consciousness is not located in neurons.
 2) The second method of generating qualia.
-3) A solution to the problem of pointwise binding ((further details in connection between qualia and the brain))
-4) A solution to the problem of the speed of time ((further details in connection between qualia and the brain))
+3) A solution to the problem of pointwise binding (further details in connection between qualia and the brain)
+4) A solution to the problem of the speed of time (further details in connection between qualia and the brain)
 
 **CEMI Theory**
 
@@ -373,7 +373,7 @@ otherwise, a binding problem arises, which makes the issue of emergence meaningl
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/bind.png" width="400">  
 The properties of emergence can be obtained by modeling, for example: knowing the properties of a water molecule, by modeling a multitude of molecules, 
 we can obtain the properties of water.  
-The problem of pointwise binding requires a separate law, which also points to the fundamentality of qualia.  
+The problem of pointwise binding requires a separate law, which also points to the fundamentality of qualia (further details in connection between qualia and the brain).  
 If we find a neuron in which information about the point of red color is stored, then the question arises - why does this lead to the color red?
 Without introducing qualia as a separate entity, it cannot be avoided.  
 The fact that the brain is divided into regions, and that these regions influence qualia generation, 
@@ -387,7 +387,7 @@ In informational theories, there is no qualia or a carrier of consciousness to w
 Informational theories attempting to explain phenomenal consciousness do not answer the question of why you live in this brain and not in another; 
 this requires a physical connection with the brain, and a physical connection requires a physical object.  
 Qualia without the so-called observer lead to the same problem-why do you live the life of this brain and not another?  
-The absence of a so-called "observer" leads to the problem of temporal binding - why qualia experienced in the past continue to be felt in the future.
+The absence of a so-called "observer" leads to the problem of temporal binding - why qualia experienced in the past continue to be felt in the future.  
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/time.png" width="400">  
 To say that the particle lifeticle, which is the carrier of consciousness, the so-called observer, 
 cannot exist is equivalent to saying that there is no carrier of consciousness in the collection of particles forming the brain.  
