@@ -327,7 +327,7 @@ Qualia without the so-called observer lead to the same problem-why do you live t
 To say that the particle lifeticle, which is the carrier of consciousness, the so-called observer, 
 cannot exist is equivalent to saying that there is no carrier of consciousness in the collection of particles forming the brain.
 Quantum uncertainty is fundamental and cannot be replicated informally.
-Time is also fundamental-it cannot be explained by any other entity, even in Wolfram's theory with the details of the hypergraph, there is no explanation of time.
+Time is also fundamental - it cannot be explained by any other entity, even in Wolfram's theory with the details of the hypergraph, there is no explanation of time.
 From the impossibility of explaining qualia by other phenomena arose "The Hard Problem of Consciousness" and "The Explanation Gap".
 
 An example of a theory
