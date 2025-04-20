@@ -207,6 +207,7 @@ What to do in the event of a sudden or expected death of a person or an animal, 
 And you wouldn’t want to be born, or have your relatives be born, as a grasshopper or something worse.
 If there were certainty about the positivity of the next life, there would be no need to worry about it so much.
 Denying cryonics to the deceased is a rejection of a life lasting hundreds of years in favor of vast uncertainty.
+Cryonics becomes a moral obligation.
 
 ---
 
