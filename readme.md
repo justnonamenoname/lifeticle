@@ -640,7 +640,7 @@ If the location of qualia is set by a parameter, the angle of the lifeticle fiel
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/rotation.png" width="250">
 
-Volume
+**Multilayer image**
 
 Is it possible to create qualia of a multi-layered volumetric image? One object is visible behind another, and they do not overlap.
 The brain can create a volumetric image of no more than one layer due to evolutionary reasons.
