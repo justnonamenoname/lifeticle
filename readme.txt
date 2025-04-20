@@ -353,11 +353,11 @@ The effect of the lifeticle on the brain, to make the brain aware of the existen
 
 ========================
 
-Aspects of Phenomenal Consciousness
+Aspects of phenomenal consciousness
 
 Qualia-brain connection
 
-The Problem of pointwise Binding
+The problem of pointwise Binding
 
 The problem of binding means that signals for qualia must converge at one point.
 If the signals are somehow separate, then they are simply not connected.
@@ -456,7 +456,7 @@ And despite the fact that information in the brain is transmitted electrically t
 
 ========================
 
-Ideas about Qualia
+Ideas about qualia
 
 Types of qualia
 
@@ -591,7 +591,7 @@ as if there are two size parameters - height and width - while the third paramet
 
 ========================
 
-Qualia's Connection to Cosmic Destiny
+Qualia's connection to cosmic destiny
 
 Robots
 
