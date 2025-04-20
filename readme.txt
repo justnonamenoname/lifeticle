@@ -46,7 +46,7 @@ The closest description of what triggers qualia is the activity of electrons aro
 Qualia cannot be expressed through anything else, which means it is something fundamental.
 As an example: in Wolfram's physical theory, atoms are distortions of space itself.
 If the central particle does not exist, there is nothing on which the holistically formed picture of the world (qualia of vision, eye images, and other sensory organs) can converge,
-creating a problem of connectivity.
+creating a binding problem.
 The central particle can be described as a particle capable of qualia—this is its property, fundamentally distinct from the rest of the world,
 and this is life: a living particle (life + particle = lifeticle).
 
