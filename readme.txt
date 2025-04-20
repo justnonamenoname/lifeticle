@@ -587,7 +587,7 @@ If the position of qualia is determined by the position in space, the rotation a
 If qualia are aligned with the brain, the angle of the lifeticle field corresponds to the brain; if misaligned, the angle does not match the brain.
 If the location of qualia is set by a parameter, the angle of the lifeticle field may not align with the brain and can be rotated, shifted sideways, or flipped.
 
-Volume
+Multilayer image
 
 Is it possible to create qualia of a multi-layered volumetric image? One object is visible behind another, and they do not overlap.
 The brain can create a volumetric image of no more than one layer due to evolutionary reasons.
