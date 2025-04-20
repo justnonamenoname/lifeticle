@@ -344,7 +344,7 @@ That particles disappear upon death, or that we are in a virtual reality, or tha
 **Orch OR Theory**
 
 The Orch OR theory (Orchestrated Objective Reduction) by Penrose and Hameroff makes several parallels to the lifeticle theory:
-1) Consciousness is not located in neurons.
+1) Phenomenal consciousness is not located in neurons.
 2) The second method of generating qualia.
 3) A solution to the problem of pointwise binding (further details in connection between qualia and the brain)
 4) A solution to the problem of the speed of time (further details in connection between qualia and the brain)
@@ -352,7 +352,7 @@ The Orch OR theory (Orchestrated Objective Reduction) by Penrose and Hameroff ma
 **CEMI Theory**
 
 The electromagnetic CEMI theory makes certain correspondences/similarities with the lifeticle theory:
-1) Consciousness is not located in neurons.
+1) Phenomenal consciousness is not located in neurons.
 2) The 3rd method of generating qualia.
 3) The similarity of the informational transition from a point with a radius to a circle ((further details in connection between qualia and the brain))
 4) Reverse influence - the effect of the EM field on neurons.
