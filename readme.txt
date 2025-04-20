@@ -25,6 +25,7 @@ the retina does not regenerate, and brain cells are partially replaced.
 If cells were fully replaced, it would imply death.
 If nothing from the body remains from when one was a child, then that body has been destroyed and died, and what exists now is a different one.
 If the particles that made up the child were gathered again, one might assume that this would be you, not the one in the current body, but this is not the case.
+A complete brain replacement would mean that at some point during life, you would stop to experience anything, while another consciousness carrier would continue.
 Therefore, something remains, some tiny part stays, and that part is the central one in the brain.
 The brain is not an indivisible object; it is made up of indivisible particles.
 You are the particle in the brain that feels.
