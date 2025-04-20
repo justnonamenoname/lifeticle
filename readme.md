@@ -205,6 +205,22 @@ Denying cryonics to the deceased is a rejection of a life lasting hundreds of ye
 
 ---
 
+### Structure
+Structurally, consciousness in the brain consists of:
+
+1) The functional part of the brain without perception/sensations/qualia/phenomenal consciousness
+2) Phenomenal consciousness - the sum of qualia
+3) Qualia includes - the sensation of "self"
+4) The "lifeticle" - the real "self"
+
+Brain structural integrity in cryonics may potentially be secondary.
+Only brain hermeticity is essential.
+The key question is whether the lifeticle can be located and what it constitutes.
+It could be either some form of dark matter or something entirely unknown.
+If multiple lifeticles exist in the brain, it may become impossible to determine which one was primary and "alive" (the others being inactive in this case).
+
+---
+
 ### Could there be another answer?
 
 Can answers be found in religion?
