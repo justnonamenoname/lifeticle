@@ -372,7 +372,7 @@ From the sound, we can infer the engine type.
 What would disprove the engine theory?
 A contradiction of what is already known-such as a violation of the law of energy conservation or the idea that the car moves by magic.
 
-**Proof Problem**
+**Proof problem**
 
 Dark matter is considered proven, even though there has been no direct detection.
 The problem with the lifeticle is that indirect measurements and the ways of detecting the lifeticle and qualia are unknown.
@@ -389,7 +389,7 @@ The effect of the lifeticle on the brain, to make the brain aware of the existen
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/brainqualia.png" width="250">
 
-**The Problem of Pointwise Binding**
+**The problem of pointwise binding**
 
 The problem of binding means that signals for qualia must converge at one point.
 If the signals are somehow separate, then they are simply not connected.
@@ -472,7 +472,7 @@ It may be possible to transmit qualia in another way.
 The chain [Light waves - eyes - brain - generator - qualia] is replaced by [Simulation of the process in the brain - generator - qualia].
 This would mean that one could know what it is like to be another living organism - for example, a bat.
 
-**Problem of Encoding**
+**Problem of encoding**
 
 The way information is encoded for generating qualia and the fact that it is not identical to the qualia itself.
 From the perspective of the CEMI theory, this is the question of why certain electromagnetic fields lead to certain qualia while others lead to others.
@@ -498,9 +498,9 @@ And despite the fact that information in the brain is transmitted electrically t
 
 ---
 
-### Ideas about Qualia
+### Ideas about qualia
 
-**Types of Qualia**
+**Types of qualia**
 
 Oratosquilla oratoria – or Mantis shrimps have two large, branching compound eyes. These eyes have 16 types of photoreceptors (while humans have 2: cones and rods).
 Mantis shrimps are also capable of distinguishing infrared and ultraviolet colors and seeing linear and circular polarization.
@@ -526,13 +526,13 @@ The feeling of "yourself" is directed at yourself.
 However, this is just a feeling, and this feeling may not exist.
 Even though this feeling is directed at yourself, the "yourself" and the feeling of "yourself" are separate entities.
 
-**Minimal Size of Qualia**
+**Minimal size of qualia**
 
 The minimal size/unit of qualia refers to both the volume and the strength.
 Methods of determination: applying a pain signal to a large area of the leg and reducing the pain, or applying a strong pain signal and reducing the area.
 This question will be explored in the study of the qualia generator in the brain.
 
-**Artificial Intelligence**
+**Artificial intelligence**
 
 Artificial intelligence is not alive and does not have qualia, meaning it cannot have complete information about the world without the participation of life.
 If a lifeticle is placed in the center of AI, only then will it be possible, and it will be something like a living artificial intelligence.
@@ -647,7 +647,7 @@ as if there are two size parameters - height and width - while the third paramet
 
 ---
 
-### Qualia's Connection to Cosmic Destiny
+### Qualia's connection to cosmic destiny
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/cycle.png">
 
@@ -671,7 +671,7 @@ This highlights the importance of creating an organization to monitor artificial
 
 ### Lifeticle
 
-**Reverse Influence**
+**Reverse influence**
 
 If the lifeticle could not transmit information into the world, a person would not be able to speak about the existence of qualia.
 If we take the life particle and a random surrounding world that generates random sensations,
@@ -685,12 +685,12 @@ Physicists may begin to hypothesize what physical phenomenon this reverse influe
 Even if there is an undiscovered phenomenon between the known phenomenon and the reverse influence, 
 its discovery would shift its position in the chain from the side of the reverse influence to the other side.
 
-**The term Life**
+**The term life**
 
 The term "Life" lacks a precise definition and will be redefined.
 "Life" will signify the presence of an active subject/phenomenal consciousness/so-called observer/lifticle. Without it, an organism will be referred to as a biorobot.
 
-**The Meaning of Life**
+**The meaning of life**
 
 A violation of the internal causal chain in the existence of the lifeticle: if there were an external cause for its creation, 
 this would imply that the lifeticle already exists, i.e., it is its own cause for existence - as if it created itself, which is a paradox.
@@ -705,7 +705,7 @@ At the same time, there are directions of life: happiness/positive qualia, pain/
 
 In the status of death, it might be indicated: central particle/lifeticle: saved/lost.
 
-**The Fate of the Lifeticle**
+**The fate of the lifeticle**
 
 If the deceased could not be cryonized upon death, their ashes can be scattered either in a cemetery or at sea.
 It is preferable to scatter the ashes on land, 
@@ -728,7 +728,7 @@ In this case, the lifeticle does not need to be moved to appear in the brain dur
 It is more complex for the lifeticle to end up in the brain through the process of evolutionary brain development.
 However, if it were located within an atom, this additional complexity would be unneeded.
 
-**The Ship of Theseus**
+**The ship of theseus**
 
 The problem of the Ship of Theseus lies only in the fact that we define what we call a "ship".
 From a physics perspective, when planks are transferred to another ship, it would be correct to say that one ship is 80% the Ship of Theseus, and the other is 20%.
@@ -742,13 +742,13 @@ then there may have already been quasi-life within the stars with a random and u
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/star.png" width="150">
 
-**Multiplicity of Consciousness**
+**Multiplicity of consciousness**
 
 The idea of multiple consciousnesses, where many lifeticles exist in the brain and experience the same qualia, requires identical qualia to be generated for several lifeticles.
 This idea is structurally more complex, both in terms of evolution and considering the influence of the lifeticle itself, 
 and there are no reasons for such complexity; the idea is evolutionarily improbable.
 
-**The Problem of Indivisible Structure**
+**The problem of indivisible structure**
 
 An image can disappear, which means it is not part of the lifeticle but rather some external functionality.
 And the lifeticle itself has an influence on the world.
@@ -758,7 +758,7 @@ If an elementary particle had no properties, it would exist without interacting 
 In Wolfram’s theory, the elements of the hypergraph, from which elementary particles are composed, also have multiple properties.
 Perhaps this is a fundamental requirement; otherwise, reality would not form.
 
-**Elementary Particles**
+**Elementary particles**
 
 When questioning what the lifeticle is, one might ask: are the actions of elementary particles actually living actions rather than automatic ones? Several points argue against this.
 They perform actions, but phenomenal consciousness does not perform any such actions.
@@ -775,11 +775,11 @@ The theory is compatible with panpsychism concerning elementary particles, provi
 In a completed physical theory, the phenomenon of qualia must be present.
 Either a lifeticle particle must be discovered, or the property of qualia must be defined as a characteristic of an elementary particle.
 
-**Philosophical Zombie**
+**Philosophical zombie**
 
 A philosophical zombie is not physically identical to a human since it lacks the lifeticle, which has physical properties.
 
-**The Beginning of Existence**
+**The beginning of existence**
 
 If the moment when the lifeticle begins to exist is neither the moment of birth nor during the nine months of pregnancy, then what moment could it be?
 In reverse time, it cannot be infinite - that would be a paradox: no matter how far back time is rewound, there would still be more time remaining.
@@ -791,21 +791,21 @@ Some physicists suggest that in reverse time, time itself is circular at its ori
 In one direction, there is a starting point, while in the other, an endless circular loop.
 Such an idea somewhat addresses the question of the universe's starting point in time.
 
-**Other Lifeticles**
+**Other lifeticles**
 
 How is it possible that there are other lifeticles with the same properties? Does this mean they share something in common - a shared paradox? But they are separate entities.
 A possible solution would be if the universe has an end of time, and at the end of time, the lifeticle moves backward in time and lives other lives.
 This would mean that if you hit someone,you will either feel the pain in their place or have already felt it earlier.
 The problem with this idea is that the universe would need to have an endpoint, which would also include some function that transfers the lifeticle back in time.
 
-**Number of Lifeticles**
+**Number of lifeticles**
 
 Is the number of lifeticles in reality limited?
 The diameter of the universe is at least 40 times larger than the observable universe, and it is unknown whether it is infinite.
 If it is infinite, then the number of subjects would also be unlimited.
 The question of whether other universes exist is equivalent to asking whether there is more space with matter somewhere else in the universe if its size is finite.
 
-**Size of the Lifeticle**
+**Size of the lifeticle**
 
 If we assume that the lifeticle has a form other than that of a particle, for example, if it is 1 cm in size, it is still attached to something in the organism.
 This is equivalent to the idea that an atom has its own internal space the size of a kilometer.
@@ -813,16 +813,16 @@ This again leads to the idea of a central particle.
 
 ---
 
-### Incompatibility with Other Theories
+### Incompatibility with other theories
 
-**Everett's Many-Worlds Interpretation**
+**Everett's many-worlds interpretation**
 
 Everett's many-worlds interpretation of quantum mechanics is poorly compatible with lifeticles, due to the fact that the lifeticle cannot be copied.
 The idea that a lifeticle exists simultaneously in two or more worlds and lives parallel lives in parallel worlds is meaningless.
 Either the lifeticle already existed in this world before the split (which would mean there were multiple lifeticles occupying the same place at once),
 or lifeticles do not exist in other worlds, which requires that when worlds split, lifeticles go into only one world - or that the interpretation itself is incorrect.
 
-**Wolfram's Theory**
+**Wolfram's theory**
 
 The hypergraph elements in Wolfram's theory are too small relative to the size of an atom to be the main particle of an organism.
 In that case, apart from the hypergraph, there must also be life particles that attach to the organism,
@@ -834,7 +834,7 @@ In Wolfram's theory, space can have any number of dimensions.
 Either the qualia field is compatible only with a specific form of hypergraph space, or the theory is incorrect.
 This may also require two separate entities for space - hypergraph space and qualia space.
 
-**CEMI Theory**
+**CEMI theory**
 
 In the electromagnetic theory of consciousness (CEMI), there is no receiver for qualia/lifeticles.
 However, this does not imply that the theory is incorrect.
