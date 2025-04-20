@@ -15,12 +15,6 @@ Lifeticle's existence
 To the question of what happens after death, another question arises: what was there before birth?
 The particles that make up the body existed before birth and will continue to exist after death.
 There is no magic in either birth or death that destroys or creates particles.
-The state of death before birth is no different from the state of death after.
-To the question of whether there can be another life after death, the answer is:
-The so-called observer had already experienced a state of death prior to their birth, and yet they were born.
-What prevents the particles from assembling again in another form or similarly?
-Physical laws do not prohibit what has already happened according to these very same physical laws.
-If it were impossible to be born a second time, it would have been impossible to be born the first time.
 
 The body can undergo a kidney transplant and continue to live.
 With partial brain damage or the removal of certain parts, life continues as well.
@@ -50,7 +44,14 @@ As an example: in Wolfram's physical theory, atoms are distortions of space itse
 If the central particle does not exist, there is nothing on which the holistically formed picture of the world (qualia of vision, eye images, and other sensory organs) can converge,
 creating a binding problem.
 The central particle can be described as a particle capable of qualia - this is its property, fundamentally distinct from the rest of the world,
-and this is life: a living particle (life + particle = lifeticle).
+and this is life: a living particle (life + particle - lifeticle, lt).
+
+To the question of whether there can be another life after death, the answer is:
+the so-called observer had already experienced a state of death prior to their birth, and yet they were born.
+The state of lifeticle's death before birth is no different from the state of death after.
+What prevents the particles from assembling again in another form or similarly?
+Physical laws do not prohibit what has already happened according to these very same physical laws.
+If it were impossible to be born a second time, it would have been impossible to be born the first time.
 
 ==========================
 
