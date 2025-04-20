@@ -142,7 +142,7 @@ Even if millions of years have passed.
 If nothing is felt, then this time effectively does not exist for you.
 Even during life, the flow of time can feel slower or faster, while in dreamless sleep, time passes instantly.
 
-If the next life never begins and the Universe experiences the the Big Rip—what do you feel?
+If the next life never begins and the Universe experiences the the Big Rip - what do you feel?
 An infinity multiplied by zero?
 An infinity passing instantly? This is impossible; time would still remain.
 This leads to a paradox, and therefore a mystery.
