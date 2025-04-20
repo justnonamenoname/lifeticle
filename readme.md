@@ -603,7 +603,7 @@ In fact, it is the opposite – metal as a tool was used in the process of evolu
 
 For information, there are qualia, and this complicates the concept of information.
 
-**Qualia Similarity Example**
+**Qualia similarity example**
 
 An example of a physical phenomenon resembling qualia
 If we assume that the lifeticle is in the atom, there is a similarity between qualia and the electron:
