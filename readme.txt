@@ -722,6 +722,7 @@ Stars
 Carbon atoms are synthesized in stars.
 If the lifeticle is inside an atom or was in stars for other reason, and if the stars' environment generates qualia for the lifeticle, 
 then there may have already been quasi-life within the stars with a random and unknown level of qualia.
+The same question applies to the early universe in the first hundreds of thousands of years before the epoch of primordial recombination, when the universe became transparent to electromagnetic radiation.
 
 Multiplicity of consciousness
 
