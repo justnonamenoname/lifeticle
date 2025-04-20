@@ -209,7 +209,7 @@ Denying cryonics to the deceased is a rejection of a life lasting hundreds of ye
 
 Can answers be found in religion?
 
-Religious followers will not answer the questions raised in this article, as they do not engage with, discuss, or study such ideas.
+Religious followers, as organization, will not answer the questions raised in this article, as they do not engage with, discuss, or study such ideas.
 The mere fact that they have no connection to telescopes and no calls to study the world using them is enough to reduce their opinions to zero.
 They are not interested in the world; they are only interested in their cult.
 The fact that the moment of death does not exist also invalidates the concept of a religious paradise.
