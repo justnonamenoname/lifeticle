@@ -337,7 +337,7 @@ There are two options when it comes to the fundamental nature of qualia and its 
 2) Fundamental - it cannot be explained through other entities.
 
 If attempting to prove fundamentality – this is proving the impossibility of explanation, proving that no other phenomenon exists that makes qualia non-unique.  
-When proving non-fundamentality, it is enough to provide an example of an entity from which qualia may consist.
+When proving non-fundamentality, it is enough to provide an example of an entity from which qualia may consist.  
 That is, the starting point is fundamentality.  
 The search for an example of an entity is behind those who wish to attempt to prove that qualia are not fundamental and not unique.  
 If we assume that emergence can create qualia, then still, signals in the brain must converge at a single point through the method of generating qualia, 
@@ -357,7 +357,7 @@ Qualia without the so-called observer lead to the same problem-why do you live t
 To say that the particle lifeticle, which is the carrier of consciousness, the so-called observer, 
 cannot exist is equivalent to saying that there is no carrier of consciousness in the collection of particles forming the brain.  
 Quantum uncertainty is fundamental and cannot be replicated informally.  
-Time is also fundamental - it cannot be explained by any other entity, even in Wolfram's theory with the details of the graph, there is no explanation of time.
+Time is also fundamental - it cannot be explained by any other entity, even in Wolfram's theory with the details of the graph, there is no explanation of time.  
 From the impossibility of explaining qualia by other phenomena arose "The Hard Problem of Consciousness" and "The Explanation Gap".
 
 **An example of a theory**
