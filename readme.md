@@ -380,7 +380,7 @@ A contradiction of what is already known-such as a violation of the law of energ
 **Proof Problem**
 
 Dark matter is considered proven, even though there has been no direct detection.
-The problem with the lifeticle is that indirect measurements cannot be made, and the ways of detecting the lifeticle and qualia are unknown.
+The problem with the lifeticle is that indirect measurements are unknown, and the ways of detecting the lifeticle and qualia are unknown.
 It is problematic to prove the existence of another fundamental entity.
 This is known from the position of the lifeticle itself - the very sensation of visual information without the sensation of "yourself" is only possible 
 if the sensation and the so-called observer exist.
