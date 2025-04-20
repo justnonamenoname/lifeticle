@@ -97,7 +97,7 @@ Such robots could endlessly grow humans in incubators and inflict pain on them.
 On the planet, there are already species evolving in relation to each other—one species changes to efficiently eat the other,
 while the other evolves to protect itself from being eaten.
 This is hell.
-It is unlikely that after the emergence of intelligent life on Earth, evolution will lead to its re-emergence again.
+It is unlikely that after the emergence of intelligent life on Earth, evolution will lead to its re-emergence again from scratch.
 Humans with technology will be able to modify other species so they no longer engage in the struggle for survival, so one species does not eat another.
 To end the suffering of other species, to stop the existing hell for those who experience it, so that being born as another species would not evoke fear.
 Even if humanity goes extinct, other species could evolve over millions of years, with the exception of the complete destruction of life conditions on the planet.
