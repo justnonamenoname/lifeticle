@@ -558,8 +558,9 @@ Information
 
 For information, there are qualia, and this complicates the concept of information.
 
-Example of the similarity of qualia
+Qualia similarity example
 
+An example of a physical phenomenon resembling qualia
 If we assume that the lifeticle is in the atom, there is a similarity between qualia and the electron:
 1) Correspondence of the wave function with the qualia field
 2) The electron's energy is the strength of qualia
