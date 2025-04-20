@@ -349,7 +349,8 @@ The problem of pointwise binding requires a separate law, which also points to t
 If we find a neuron in which information about the point of red color is stored, then the question arises - why does this lead to the color red?
 Without introducing qualia as a separate entity, it cannot be avoided.  
 The fact that the brain is divided into regions, and that these regions influence qualia generation, 
-does not contradict the existence of signal convergence for qualia to a central point - whose absence leads to the binding problem. The functional aspects of the brain belong to the "Easy Problem of Consciousness"/"Access Consciousness".  
+does not contradict the existence of signal convergence for qualia to a central point - whose absence leads to the binding problem.
+The functional aspects of the brain belong to the "Easy Problem of Consciousness"/"Access Consciousness".  
 To say qualia don’t exist as a distinct phenomenon and are information-based is equivalent in meaning to claiming a monitor resides in a processor.  
 The non-existence of qualia would mean humans have no visual perception, no auditory experience, no pain sensation - this constitutes a dead state, 
 where the organism operates without phenomenal consciousness.  
