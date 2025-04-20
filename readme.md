@@ -51,9 +51,9 @@ creating a binding problem.
 The central particle can be described as a particle capable of qualia - this is its property, fundamentally distinct from the rest of the world,
 and this is life: a living particle (life + particle - lifeticle, lt).
 
-To the question of whether there can be another life after death, the answer is:
-the so-called observer had already experienced a state of death prior to their birth, and yet they were born.
+To the question of whether there can be another life after death, the answer is: if after death there is nonexistence, then nonexistence already existed before birth.
 The state of lifeticle's death before birth is no different from the state of death after.
+The lifeticle had already experienced a state of death prior to their birth, and yet they were born.
 What prevents the particles from assembling again in another form or similarly?
 Physical laws do not prohibit what has already happened according to these very same physical laws.
 If it were impossible to be born a second time, it would have been impossible to be born the first time.
