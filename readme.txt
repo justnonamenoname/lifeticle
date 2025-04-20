@@ -105,6 +105,9 @@ A world in a state of hell is a world of non-freedom. A world in a state of para
 This line of reasoning suggests that freedom allows one to leave paradise for hell, but leaving hell is impossible.
 One could attempt to explain to robots that life is a distinct form of matter, whose laws are of primary importance.
 However, there is no reason why robots would be obligated to follow these laws.
+Such hell could persist until the environment's destruction.
+This means billions of years—unless robots relocate to another planet when our sun dies—or until matter itself decays, or until the universe's contraction phase (if the universe is cyclical).
+
 In the future, an organization might be established to prevent a descent into a non-free hell.
 A virtual reality could be constructed where, in the base reality, people are confined to virtual reality with no means of escape.
 And within the virtual reality, there is freedom and paradise.
@@ -113,7 +116,7 @@ And in the event of the sun's death, the population could simply be transferred 
 
 ==========================
 
-But there may also be another external factor—alien life with intentions unknown to us.
+But there may also be another external factor - alien life with intentions unknown to us.
 
 The possibility that aliens could be hostile requires the development of the most powerful weapons, even during peaceful times.
 The most powerful weapon would be self-replicating robots that travel to neighboring planets and create copies of themselves.
