@@ -207,7 +207,7 @@ Once adopted, society will not deviate from it.
 Only discoveries in the field of physics can refine this concept.
 The lifeticle must have physical properties; otherwise, it could not maintain its position during motion.
 And physicists of the future may, within the next few hundred years,
-come closer to uncovering the mystery of consciousness and understanding the interaction of the lifeticle with the observable world.
+come closer to uncovering the mystery of consciousness.
 
 At one time, people struggled to understand the motion of planets, and there were various ideas.
 When the correct understanding of their motion was established, other ideas fell away as less accurate.
