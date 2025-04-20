@@ -287,7 +287,7 @@ If there is no cryocenter nearby, the organism must be prepared for transportati
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/ice.png" width="200">
 
-When handling dry ice, safety precautions must be followed:
+When handling dry ice, safety precautions must be followed:  
 Do not touch it directly.  
 Keep the room ventilated to prevent CO2 from accumulating and displacing oxygen.  
 When transporting it in a vehicle, the container should be placed in the trunk, windows should be slightly open, and delivery is recommended.  
