@@ -92,6 +92,7 @@ Future
 What will life be like in the future in terms of happiness and unhappiness? In what kind of world could the next life exist?
 
 Technological and intellectual development could create a wonderful world.
+And it would be wonderful, if not for the possible problems.
 But what if the world descends into an unbeatable fascism?
 Or if robots destroy the world and construct hell, either accidentally or intentionally (according to the plan of those who created them)?
 Such robots could endlessly grow humans in incubators and inflict pain on them.
