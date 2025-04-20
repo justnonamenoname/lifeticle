@@ -223,7 +223,7 @@ Once adopted, society will not deviate from it.
 Only discoveries in the field of physics can refine this concept.
 The lifeticle must have physical properties; otherwise, it could not maintain its position during motion.
 And physicists of the future may, within the next few hundred years,
-come closer to uncovering the mystery of consciousness and understanding the interaction of the lifeticle with the observable world.
+come closer to uncovering the mystery of consciousness.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/8.png" width="250">
 
