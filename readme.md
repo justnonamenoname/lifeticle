@@ -49,7 +49,7 @@ As an example: in Wolfram's physical theory, atoms are distortions of space itse
 If the central particle does not exist, there is nothing on which the holistically formed picture of the world (qualia of vision, eye images, and other sensory organs) can converge,
 creating a binding problem.
 The central particle can be described as a particle capable of qualia - this is its property, fundamentally distinct from the rest of the world,
-and this is life: a living particle (life + particle = lifeticle).
+and this is life: a living particle (life + particle - lifeticle, lt).
 
 To the question of whether there can be another life after death, the answer is:
 the so-called observer had already experienced a state of death prior to their birth, and yet they were born.
