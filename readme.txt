@@ -221,6 +221,8 @@ A theory is important to know to the same degree as it's important to know what 
 
 In our time, cryonics should become the primary approach in matters of death.
 Regardless of life extension technologies.
+First survival, then research.
+No confirmation is not a reason to abandon survival.
 The less time someone has left, the more critical it becomes—this is the time needed to prepare the cryochamber.
 
 Death can be defeated.
