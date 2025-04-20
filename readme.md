@@ -385,7 +385,9 @@ The effect of the lifeticle on the brain, to make the brain aware of the existen
 
 ## Aspects of Phenomenal Consciousness
 
-### Ideas about Qualia
+### Qualia-brain connection
+
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/brainqualia.png" width="250">
 
 **The Problem of Pointwise Binding**
 
@@ -396,98 +398,6 @@ This can be called the problem of pointwise binding.
 The wave function/quantum entanglement seems like a solution to this.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/point.png">
-
-**Types of Qualia**
-
-Oratosquilla oratoria – or Mantis shrimps have two large, branching compound eyes. These eyes have 16 types of photoreceptors (while humans have 2: cones and rods).
-Mantis shrimps are also capable of distinguishing infrared and ultraviolet colors and seeing linear and circular polarization.
-This raises the question – do these 16 types of photoreceptors see color in the same spectrum as humans – a mixture of 3 colors: 
-blue, red, and green, or are other types of color sensations available to them?
-In addition to color itself, there is also brightness and distance in the perception of color.
-This raises the question of what other types of sensations are available besides the basic organs.
-Music can also create sensations/impressions that have not been experienced before, and they are not repeated elsewhere.
-The organism is evolutionarily limited; for example, sharper vision leads to the brain having to process more information, 
-which is more complex, requires more attention, and reduces reaction speed.
-Similarly, enhanced hearing would require more brain power.
-A dog’s excellent sense of smell helps it find food, while an eagle’s sharp vision assists it in this task.
-The question is divided into two parts: what sensations and of what strength the brain is capable of generating, 
-and what types are generally possible, and whether their number is limited.
-
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/eye.png" width="200">
-
-**Self**
-
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/me.png">
-
-The feeling of "yourself" is directed at yourself.
-However, this is just a feeling, and this feeling may not exist.
-Even though this feeling is directed at yourself, the "yourself" and the feeling of "yourself" are separate entities.
-
-**Minimal Size of Qualia**
-
-The minimal size/unit of qualia refers to both the volume and the strength.
-Methods of determination: applying a pain signal to a large area of the leg and reducing the pain, or applying a strong pain signal and reducing the area.
-This question will be explored in the study of the qualia generator in the brain.
-
-**Artificial Intelligence**
-
-Artificial intelligence is not alive and does not have qualia, meaning it cannot have complete information about the world without the participation of life.
-If a lifeticle is placed in the center of AI, only then will it be possible, and it will be something like a living artificial intelligence.
-
-**Ethics**
-
-Studying the workings of qualia can allow for the consideration of morality/ethics from a scientific perspective, 
-and considering it from a scientific perspective can lead to the development of morality/ethics, including in relation to other forms of life.
-
-**Difference**
-
-The structures of qualia of images and sounds are different.
-It can be concluded that different people receiving the same signals for these qualia structurally see and hear the same.
-Therefore, the answer to the question - does one person see blue as blue and red as red like another person - is most likely yes, at least there is no reason to think otherwise.
-Examining feedback can clarify the question
-
-**The connection between evolution and qualia**
-
-To say that qualia appeared evolutionarily is the same as saying that metal in the body was created for the organism evolutionarily.
-In fact, it is the opposite – metal as a tool was used in the process of evolution in construction.
-
-**Information**
-
-For information, there are qualia, and this complicates the concept of information.
-
-**Example of the similarity of qualia**
-
-If we assume that the lifeticle is in the atom, there is a similarity between qualia and the electron:
-1) Correspondence of the wave function with the qualia field
-2) The electron's energy is the strength of qualia
-3) The electron's spin is the positive/negative qualia
-4) The spin influences the emitted radiation, photons – this is the particle's influence on the world
-5) The minimum energy level corresponds to the absence of qualia
-6) The atom's spin is similar to the direction of the qualia field
-7) It seems like a solution to the problem of pointwise binding
-
-The problem is that we represent the wave function as the qualia field and how the transmission of information about qualia occurs, 
-the maximum number of simultaneously experienced positive and negative qualia is 6 types each, due to the 6 energy levels of electrons in carbon (if the lifeticle is in carbon).
-
-**Time flow**
-
-It is possible that in the state of death, there may be activity around the lifeticle that generates qualia, 
-and while being dead, something might be felt, and time does not pass instantly.
-This depends on the surrounding environment; in the case of a prolonged environment generating qualia, it resembles the next life.
-However, in the case of the infinite expansion of the universe around the lifeticle, nothing alike, and this also resets time.
-This option may not work in a cyclic universe, as there is no infinite expansion, and electrical activity may remain around the lifeticle.
-It is possible that during sleep, one might feel something but not remember it. The sensation of time passing instantly could be the result of the lack of memory.
-As a counterargument – in sleep, there are no random sensations, and the speed of time can vary.
-If a person does not want to experience sensations, disabling the generation of qualia by the brain is not a solution; 
-a minimum level of qualia is necessary for time not to pass instantly. This option is excluded due to the uncertainty about what causes qualia.
-This may indicate an unlikely error in the article, for which there are no visible reasons.
-This is necessary for the introduction of "zero eternity," but it does not affect the overall concept.
-
----
-
-### Qualia-brain connection
-
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/brainqualia.png" width="250">
 
 **The methods of qualia**
 
@@ -584,6 +494,96 @@ It is possible that qualia is not caused by electrical activity, but by surround
 The eye can distinguish the difference between 100 and 200 frames per second; the speed of electrochemical interaction is sufficient.
 This is only possible with the 2nd and 3rd structural methods of qualia. The generated image – in terms of the amount of information – is measured in megabytes per second.
 And despite the fact that information in the brain is transmitted electrically through neurons, qualia themselves may not be caused by them.
+
+---
+
+### Ideas about Qualia
+
+**Types of Qualia**
+
+Oratosquilla oratoria – or Mantis shrimps have two large, branching compound eyes. These eyes have 16 types of photoreceptors (while humans have 2: cones and rods).
+Mantis shrimps are also capable of distinguishing infrared and ultraviolet colors and seeing linear and circular polarization.
+This raises the question – do these 16 types of photoreceptors see color in the same spectrum as humans – a mixture of 3 colors: 
+blue, red, and green, or are other types of color sensations available to them?
+In addition to color itself, there is also brightness and distance in the perception of color.
+This raises the question of what other types of sensations are available besides the basic organs.
+Music can also create sensations/impressions that have not been experienced before, and they are not repeated elsewhere.
+The organism is evolutionarily limited; for example, sharper vision leads to the brain having to process more information, 
+which is more complex, requires more attention, and reduces reaction speed.
+Similarly, enhanced hearing would require more brain power.
+A dog’s excellent sense of smell helps it find food, while an eagle’s sharp vision assists it in this task.
+The question is divided into two parts: what sensations and of what strength the brain is capable of generating, 
+and what types are generally possible, and whether their number is limited.
+
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/eye.png" width="200">
+
+**Self**
+
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/me.png">
+
+The feeling of "yourself" is directed at yourself.
+However, this is just a feeling, and this feeling may not exist.
+Even though this feeling is directed at yourself, the "yourself" and the feeling of "yourself" are separate entities.
+
+**Minimal Size of Qualia**
+
+The minimal size/unit of qualia refers to both the volume and the strength.
+Methods of determination: applying a pain signal to a large area of the leg and reducing the pain, or applying a strong pain signal and reducing the area.
+This question will be explored in the study of the qualia generator in the brain.
+
+**Artificial Intelligence**
+
+Artificial intelligence is not alive and does not have qualia, meaning it cannot have complete information about the world without the participation of life.
+If a lifeticle is placed in the center of AI, only then will it be possible, and it will be something like a living artificial intelligence.
+
+**Ethics**
+
+Studying the workings of qualia can allow for the consideration of morality/ethics from a scientific perspective, 
+and considering it from a scientific perspective can lead to the development of morality/ethics, including in relation to other forms of life.
+
+**Difference**
+
+The structures of qualia of images and sounds are different.
+It can be concluded that different people receiving the same signals for these qualia structurally see and hear the same.
+Therefore, the answer to the question - does one person see blue as blue and red as red like another person - is most likely yes, at least there is no reason to think otherwise.
+Examining feedback can clarify the question
+
+**The connection between evolution and qualia**
+
+To say that qualia appeared evolutionarily is the same as saying that metal in the body was created for the organism evolutionarily.
+In fact, it is the opposite – metal as a tool was used in the process of evolution in construction.
+
+**Information**
+
+For information, there are qualia, and this complicates the concept of information.
+
+**Example of the similarity of qualia**
+
+If we assume that the lifeticle is in the atom, there is a similarity between qualia and the electron:
+1) Correspondence of the wave function with the qualia field
+2) The electron's energy is the strength of qualia
+3) The electron's spin is the positive/negative qualia
+4) The spin influences the emitted radiation, photons – this is the particle's influence on the world
+5) The minimum energy level corresponds to the absence of qualia
+6) The atom's spin is similar to the direction of the qualia field
+7) It seems like a solution to the problem of pointwise binding
+
+The problem is that we represent the wave function as the qualia field and how the transmission of information about qualia occurs, 
+the maximum number of simultaneously experienced positive and negative qualia is 6 types each, due to the 6 energy levels of electrons in carbon (if the lifeticle is in carbon).
+
+**Time flow**
+
+It is possible that in the state of death, there may be activity around the lifeticle that generates qualia, 
+and while being dead, something might be felt, and time does not pass instantly.
+This depends on the surrounding environment; in the case of a prolonged environment generating qualia, it resembles the next life.
+However, in the case of the infinite expansion of the universe around the lifeticle, nothing alike, and this also resets time.
+This option may not work in a cyclic universe, as there is no infinite expansion, and electrical activity may remain around the lifeticle.
+It is possible that during sleep, one might feel something but not remember it. The sensation of time passing instantly could be the result of the lack of memory.
+As a counterargument – in sleep, there are no random sensations, and the speed of time can vary.
+If a person does not want to experience sensations, disabling the generation of qualia by the brain is not a solution; 
+a minimum level of qualia is necessary for time not to pass instantly. This option is excluded due to the uncertainty about what causes qualia.
+This may indicate an unlikely error in the article, for which there are no visible reasons.
+This is necessary for the introduction of "zero eternity," but it does not affect the overall concept.
 
 ---
 
