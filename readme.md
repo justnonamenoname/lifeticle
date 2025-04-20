@@ -440,7 +440,7 @@ If the frames of the image and sound were separate, it would lead to flickering 
 Smoothness in the passage of time occurs either by an instantaneous skip of time without qualia, or by a separate method.
 The first method of generating qualia and CEMI do not solve this issue.
 
-**Search for Qualia**
+**Search for qualia**
 
 Qualia are not found in the transmission of signals in the brain and cannot be located within them.
 The chain [signals - qualia] leads to two possibilities:
@@ -456,7 +456,7 @@ Even if there is an undiscovered phenomenon between the known phenomenon and qua
 The process, which cannot explain qualia by another entity, and that this process makes a conclusion about the fundamentality, 
 one can clarify the question of the fundamentality of qualia and the source of the confidence in it.
 
-**Change of Qualia**
+**Change of qualia**
 
 Upon seeing an image and its distorted version, one can imagine another image with this distortion.
 Upon hearing a sound and a version with a different volume/its distortion, one can imagine another sound with a different volume/distortion.
