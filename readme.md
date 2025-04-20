@@ -154,7 +154,7 @@ What if the universe in the future can no longer sustain life or generate qualia
 One such variant may be dark energy.
 
 In the distant future, dark energy will accelerate the expansion of space so much that atomic structures will no longer be able to hold themselves together.
-This marks a time when life will become impossible, and the Universe will either enter eternal expansion, experience the complete disintegration of matter in the scenario of the Big Rip.
+This marks a time when life will become impossible, and the universe will either enter eternal expansion, experience the complete disintegration of matter in the scenario of the Big Rip.
 Since there is no such electronic activity around the lifeticle after death as there is in the brain, nothing is felt after death, and the next life begins instantly.
 Even if millions of years have passed.
 If nothing is felt, then this time effectively does not exist for you.
@@ -162,13 +162,13 @@ Even during life, the flow of time can feel slower or faster, while in dreamless
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/4.png">
 
-If the next life never begins and the Universe experiences the Big Rip - what do you feel?
+If the next life never begins and the universe experiences the Big Rip - what do you feel?
 An infinity multiplied by zero?
 An infinity passing instantly? This is impossible; time would still remain.
 This leads to a paradox, and therefore a mystery.
 At the same time, there is no moment where one could definitively say that the situation has closed and some change must have occurred.
 
-If dark energy and the Universe have cycles of expansion and contraction, the next life will inevitably begin.
+If dark energy and the universe have cycles of expansion and contraction, the next life will inevitably begin.
 And the paradox is avoided.
 
 The mystery seems unsolvable, and it is unclear whether any discoveries in physics will help resolve it.
