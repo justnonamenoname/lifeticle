@@ -38,7 +38,7 @@ What are you in the brain? The answer is: the carrier of consciousness can only 
 It is not possible to choose multiple entities, as they are separate entities.
 This means that in the brain, any particle can be replaced with an identical one, and you wouldn’t notice a difference.
 But if the central particle is replaced, your "self," being removed from the brain, would cease to feel anything.
-The central particle is indivisible—if we assume that the central particle is composed of several parts,
+The central particle is indivisible - if we assume that the central particle is composed of several parts,
 then, as with the organism, division can continue, and the other particles will be external to the central one.
 
 The highest electrical activity in the brain occurs in the reticular formation (which persists even during sleep and under anesthesia);
@@ -49,7 +49,7 @@ Qualia cannot be expressed through anything else, which means it is something fu
 As an example: in Wolfram's physical theory, atoms are distortions of space itself.
 If the central particle does not exist, there is nothing on which the holistically formed picture of the world (qualia of vision, eye images, and other sensory organs) can converge,
 creating a binding problem.
-The central particle can be described as a particle capable of qualia—this is its property, fundamentally distinct from the rest of the world,
+The central particle can be described as a particle capable of qualia - this is its property, fundamentally distinct from the rest of the world,
 and this is life: a living particle (life + particle = lifeticle).
 
 ==========================
@@ -65,7 +65,7 @@ Theoretically, recovery is possible from any level (not referring to technical f
 One might assume death as the separation of surrounding atoms from the central particle, but for whom or for what, and why should this be defined as death?
 If in a religious sense, and there are flying angels watching over this process, what happens if they fail to oversee it? But there is no reason to believe such angels exist.
 If we are in a virtual reality, then the computer in the base reality must oversee this, but what if it doesn’t?
-But in base reality, we could question—are we in a virtual reality?
+But in base reality, we could question - are we in a virtual reality?
 This question leads nowhere and makes discussions meaningless.
 This means there is no physical moment of death.
 Death is the disintegration of the organism.
@@ -80,7 +80,7 @@ If the laws of physics allow lifeticle can be taken from a dying organism and pl
 This provides an unlimited lifespan.
 It is possible that life for the lifeticle happens once every million, or even billion, years.
 The longer the time, the greater the chance of being born again.
-But there is a huge problem—there remains the possibility of pain and unhappiness.
+But there is a huge problem - there remains the possibility of pain and unhappiness.
 
 ==========================
 
@@ -92,7 +92,7 @@ Technological and intellectual development could create a wonderful world.
 But what if the world descends into an unbeatable fascism?
 Or if robots destroy the world and construct hell, either accidentally or intentionally (according to the plan of those who created them)?
 Such robots could endlessly grow humans in incubators and inflict pain on them.
-On the planet, there are already species evolving in relation to each other—one species changes to efficiently eat the other,
+On the planet, there are already species evolving in relation to each other - one species changes to efficiently eat the other,
 while the other evolves to protect itself from being eaten.
 This is hell.
 It is unlikely that after the emergence of intelligent life on Earth, evolution will lead to its re-emergence again from scratch.
@@ -106,12 +106,12 @@ This line of reasoning suggests that freedom allows one to leave paradise for he
 One could attempt to explain to robots that life is a distinct form of matter, whose laws are of primary importance.
 However, there is no reason why robots would be obligated to follow these laws.
 Such hell could persist until the environment's destruction.
-This means billions of years—unless robots relocate to another planet when our sun dies—or until matter itself decays, or until the universe's contraction phase (if the universe is cyclical).
+This means billions of years - unless robots relocate to another planet when our sun dies - or until matter itself decays, or until the universe's contraction phase (if the universe is cyclical).
 
 In the future, an organization might be established to prevent a descent into a non-free hell.
 A virtual reality could be constructed where, in the base reality, people are confined to virtual reality with no means of escape.
 And within the virtual reality, there is freedom and paradise.
-This is a combination of freedom and non-freedom—a paradise that cannot be left. Such a paradise could be stable.
+This is a combination of freedom and non-freedom - a paradise that cannot be left. Such a paradise could be stable.
 And in the event of the sun's death, the population could simply be transferred to another planet, possibly even automatically.
 
 ==========================
@@ -177,10 +177,10 @@ What's cryonics?
 Cryonics is the technology of freezing the body to -196 degrees Celsius in a capsule filled with liquid nitrogen.
 After freezing, this allows the organism to be preserved in its original form for hundreds of years.
 In October 2022, a baby girl was born using an embryo that had been stored in a cryobank for 30 years.
-If we look back—200 years ago, technology was far less advanced,
+If we look back 200 years ago, technology was far less advanced,
 and 500 years ago, the difference was even greater.
-The same kind of progress will happen 200 years from now—future technologies will be highly advanced, and what about 500 years from now?
-Technology is limited only by the laws of physics. For example, a doctor cannot be instantly transported from Saturn—movement itself is limited by speed.
+The same kind of progress will happen 200 years from now - future technologies will be highly advanced, and what about 500 years from now?
+Technology is limited only by the laws of physics. For example, a doctor cannot be instantly transported from Saturn - movement itself is limited by speed.
 This is an opportunity.
 And potentially, an opportunity for life without a time limit.
 After a person’s death, they should be preserved through cryonics, not buried or cremated, scattering their particles indiscriminately.
@@ -242,7 +242,7 @@ In our time, cryonics should become the primary approach in matters of death.
 Regardless of life extension technologies.
 First survival, then research.
 No confirmation is not a reason to abandon survival.
-The less time someone has left, the more critical it becomes—this is the time needed to prepare the cryochamber.
+The less time someone has left, the more critical it becomes - this is the time needed to prepare the cryochamber.
 
 Death can be defeated.
 
@@ -354,7 +354,7 @@ In informational theories, there is no qualia or a carrier of consciousness to w
 Informational theories attempting to explain phenomenal consciousness do not answer the question of why you live in this brain and not in another; 
 this requires a physical connection with the brain, and a physical connection requires a physical object.
 Qualia without the so-called observer lead to the same problem-why do you live the life of this brain and not another?
-The absence of a so-called "observer" leads to the problem of temporal binding—why qualia experienced in the past continue to be felt in the future.
+The absence of a so-called "observer" leads to the problem of temporal binding - why qualia experienced in the past continue to be felt in the future.
 To say that the particle lifeticle, which is the carrier of consciousness, the so-called observer, 
 cannot exist is equivalent to saying that there is no carrier of consciousness in the collection of particles forming the brain.
 The idea of an emergent carrier of consciousness has problems: a contradiction in what would happen if some particle were replaced.
@@ -691,7 +691,7 @@ If the deceased could not be cryonized upon death, their ashes can be scattered 
 It is preferable to scatter the ashes on land, 
 as the probability of being reborn as a terrestrial life form is higher than as an aquatic one - likely a comparison of one in a million to one in a billion.
 However, the lifeticle may potentially escape in the smoke during cremation, creating ambiguity in this recommendation.
-Despite the ambiguity, this factor redefines the optimal location for scattering the ashes, and the answer is — on land.
+Despite the ambiguity, this factor redefines the optimal location for scattering the ashes, and the answer is - on land.
 If the organism was not cryonized and if physical laws permit and the theory is proven, instead of memorial ashes, the lifeticle could be stored in a mold.
 
 Biorobots
@@ -728,7 +728,7 @@ The problem of indivisible structure
 
 An image can disappear, which means it is not part of the lifeticle but rather some external functionality.
 And the lifeticle itself has an influence on the world.
-Such a particle appears to resemble a kind of micro-brain with its own functionality — otherwise, it wouldn't work, and this creates the problem of indivisible structure.
+Such a particle appears to resemble a kind of micro-brain with its own functionality - otherwise, it wouldn't work, and this creates the problem of indivisible structure.
 This problem also exists in elementary particles: an electron has properties such as momentum (direction and speed), charge, spin, interactions with other particles, etc.
 If an elementary particle had no properties, it would exist without interacting with the world and would not be part of it.
 In Wolfram’s theory, the elements of the hypergraph, from which elementary particles are composed, also have multiple properties.
