@@ -52,7 +52,7 @@ The lifeticle had already experienced a state of death prior to their birth, and
 What prevents the particles from assembling again in another form or similarly?
 Physical laws do not prohibit what has already happened according to these very same physical laws.
 In nature there is phenomena like the carbon cycle and cycles of other elements.
-If it were impossible to be born a second time, it would have been impossible to be born the first time.
+The possibility of being born a first time implies the possibility of being born a second time.
 
 ==========================
 
