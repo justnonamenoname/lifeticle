@@ -19,9 +19,9 @@ To the question of what happens after death, another question arises: what was t
 The particles that make up the body existed before birth and will continue to exist after death.
 There is no magic in either birth or death that destroys or creates particles.
 
+Even during life, many of the body's cells and particles are replaced.
 The body can undergo a kidney transplant and continue to live.
 With partial brain damage or the removal of certain parts, life continues as well.
-Throughout life, many of the body's cells are replaced.
 Bones are replaced over a period of 10 years, the liver renews itself over several years, the heart is replaced halfway during a lifetime,
 the retina does not regenerate, and brain cells are partially replaced.
 
