@@ -102,6 +102,7 @@ Humans with technology will be able to modify other species so they no longer en
 To end the suffering of other species, to stop the existing hell for those who experience it, so that being born as another species would not evoke fear.
 Even if humanity goes extinct, other species could evolve over millions of years, with the exception of the complete destruction of life conditions on the planet.
 Therefore, it is unlikely that the next life will follow the evolutionary path; most likely, it will either be a constructed paradise or a constructed hell.
+
 A world in a state of hell is a world of non-freedom. A world in a state of paradise is a world of freedom.
 This line of reasoning suggests that freedom allows one to leave paradise for hell, but leaving hell is impossible.
 One could attempt to explain to robots that life is a distinct form of matter, whose laws are of primary importance.
