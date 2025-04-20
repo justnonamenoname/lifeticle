@@ -327,6 +327,10 @@ Qualia without the so-called observer lead to the same problem-why do you live t
 The absence of a so-called "observer" leads to the problem of temporal binding—why qualia experienced in the past continue to be felt in the future.
 To say that the particle lifeticle, which is the carrier of consciousness, the so-called observer, 
 cannot exist is equivalent to saying that there is no carrier of consciousness in the collection of particles forming the brain.
+The idea of an emergent carrier of consciousness has problems: a contradiction in what would happen if some particle were replaced.
+If two brains have two identical emergent carriers of consciousness, then we again arrive at the brain selection problem.
+If particles are replaced with others having the same emergence, the carrier of consciousness would stop receiving qualia, which contradicts the idea of emergence.
+Emergence is about properties that can be obtained through modeling. The identity of the consciousness carrier is not about properties, but about what physically constitutes the carrier.
 To say that particles with qualia properties do not exist is to say that an organism does not consist of particles, or that qualia does not exist or is not related to particles.
 An organism consists of particles, and the phenomenon of qualia exists - one must necessarily be connected to the other.
 The fundamentality of qualia implies that the capacity to experience qualia is likewise fundamental.
