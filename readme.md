@@ -275,7 +275,7 @@ If the organism was not brought to a cryocenter before death, the body must be p
 In the case of limbs, they should be tucked in; ears should be pressed to the head.
 If there is no cryocenter nearby, the organism must be prepared for transportation:
 1) Wrap the organism in cloth. Place it in a plastic bag.
-2) If the transfer to the cryocenter will take no more than a few days, place the organism in a refrigerator at no higher than 0°C to prevent the formation of ice crystals.
+2) If the transfer to the cryocenter will take no more than a few days, place the organism in a refrigerator at no lower than 0°C to prevent the formation of ice crystals.
 3) If the transfer will take longer than a few days, purchase dry ice (read the safety instructions).
 4) If there is no insulated container available, use thermal insulation tape inside the container.
 5) Use smaller dry ice pellets to reduce pressure on the organism.
