@@ -126,7 +126,7 @@ Even if life has not originated on another planet in this galaxy, it might have 
 And if we start creating them now, it still might not be enough.
 Enemy robots could outnumber ours, and aliens could use such weapons to destroy life on our planet.
 
-If physics allows for a hyperdrive, then such robots likely do not yet exist; otherwise, they would already be here.
+If physics allows for a superluminal drive, then such robots likely do not yet exist; otherwise, they would already be here.
 This risk might mean that humans should fill this galaxy and neighboring galaxies with robots.
 
 ==========================
