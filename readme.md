@@ -238,8 +238,10 @@ If you, as a lifeticle, did not exist before your birth, then no matter what hap
 If the matter you are made of did not exist before your birth, then no matter what happened in the world, how could you have come to exist in it?
 A theory is important to know to the same degree as it's important to know what comes after death, and to the same degree as survival is important.
 
-In our time, cryonics should become the primary approach in matters of death.
+In our time, cryonics should become the primary approach in matters of death.  
 Regardless of life extension technologies.
+First survival, then research.  
+No confirmation is not a reason to abandon survival.  
 The less time someone has left, the more critical it becomes—this is the time needed to prepare the cryochamber.
 
 Death can be defeated.
