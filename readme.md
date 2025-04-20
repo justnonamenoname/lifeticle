@@ -356,6 +356,9 @@ Qualia without the so-called observer lead to the same problem-why do you live t
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/time.png" width="400">  
 To say that the particle lifeticle, which is the carrier of consciousness, the so-called observer, 
 cannot exist is equivalent to saying that there is no carrier of consciousness in the collection of particles forming the brain.  
+To say that particles with qualia properties do not exist is to say that an organism does not consist of particles, or that qualia does not exist or is not related to particles.
+An organism consists of particles, and the phenomenon of qualia exists - one must necessarily be connected to the other.  
+The fundamentality of qualia implies that the capacity to experience qualia is likewise fundamental.  
 Quantum uncertainty is fundamental and cannot be replicated informally.  
 Time is also fundamental - it cannot be explained by any other entity, even in Wolfram's theory with the details of the graph, there is no explanation of time.  
 From the impossibility of explaining qualia by other phenomena arose "The Hard Problem of Consciousness" and "The Explanation Gap".
