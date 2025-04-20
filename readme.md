@@ -383,7 +383,7 @@ The effect of the lifeticle on the brain, to make the brain aware of the existen
 
 ---
 
-## Aspects of Phenomenal Consciousness
+## Aspects of phenomenal consciousness
 
 ### Qualia-brain connection
 
