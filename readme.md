@@ -152,7 +152,7 @@ Even during life, the flow of time can feel slower or faster, while in dreamless
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/4.png">
 
-If the next life never begins and the Universe experiences the Big Freeze or the Big Rip—what do you feel?
+If the next life never begins and the Universe experiences the Big Rip - what do you feel?
 An infinity multiplied by zero?
 An infinity passing instantly? This is impossible; time would still remain.
 This leads to a paradox, and therefore a mystery.
