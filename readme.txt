@@ -324,6 +324,7 @@ In informational theories, there is no qualia or a carrier of consciousness to w
 Informational theories attempting to explain phenomenal consciousness do not answer the question of why you live in this brain and not in another; 
 this requires a physical connection with the brain, and a physical connection requires a physical object.
 Qualia without the so-called observer lead to the same problem-why do you live the life of this brain and not another?
+The absence of a so-called "observer" leads to the problem of temporal binding—why qualia experienced in the past continue to be felt in the future.
 To say that the particle lifeticle, which is the carrier of consciousness, the so-called observer, 
 cannot exist is equivalent to saying that there is no carrier of consciousness in the collection of particles forming the brain.
 To say that particles with qualia properties do not exist is to say that an organism does not consist of particles, or that qualia does not exist or is not related to particles.
