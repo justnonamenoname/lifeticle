@@ -303,27 +303,6 @@ The electromagnetic CEMI theory makes certain correspondences/similarities with 
 3) The similarity of the informational transition from a point with a radius to a circle (further details below)
 4) Reverse influence - the effect of the EM field on neurons.
 
-Proof Problem
-
-Dark matter is considered proven, even though there has been no direct detection.
-The problem with the lifeticle is that indirect measurements cannot be made, and the ways of detecting the lifeticle and qualia are unknown.
-It is problematic to prove the existence of another fundamental entity.
-This is known from the position of the lifeticle itself - the very sensation of visual information without the sensation of "yourself" is only possible 
-if the sensation and the so-called observer exist.
-The effect of the lifeticle on the brain, to make the brain aware of the existence of qualia, is also unknown.
-
-An example of a theory
-
-Example with car
-A car moves without an external force-based on this, we develop a theory about the existence of an engine.
-Knowing the law of energy conservation, we assume that the engine requires energy.
-Knowing atoms and that a single atom cannot perform this function, we assume that the engine consists of many atoms.
-Knowing the car's weight, we can estimate its energy consumption at a given speed.
-From the maximum speed or acceleration, we can roughly estimate the engine’s power.
-From the sound, we can infer the engine type.
-What would disprove the engine theory?
-A contradiction of what is already known-such as a violation of the law of energy conservation or the idea that the car moves by magic.
-
 Fundamentality
 
 There are two options when it comes to the fundamental nature of qualia and its uniqueness as a phenomenon: 
@@ -356,6 +335,27 @@ If elementary particles consist of space (as in Wolfram's theory), then:
 3) quantum randomness
 These are enough to construct reality except for one thing-the carriers of consciousness and qualia.
 Hence the emergence of the so-called Hard Problem of Consciousness / Explanatory gap -attempting to explain one entity through another entity.
+
+An example of a theory
+
+Example with car
+A car moves without an external force-based on this, we develop a theory about the existence of an engine.
+Knowing the law of energy conservation, we assume that the engine requires energy.
+Knowing atoms and that a single atom cannot perform this function, we assume that the engine consists of many atoms.
+Knowing the car's weight, we can estimate its energy consumption at a given speed.
+From the maximum speed or acceleration, we can roughly estimate the engine’s power.
+From the sound, we can infer the engine type.
+What would disprove the engine theory?
+A contradiction of what is already known-such as a violation of the law of energy conservation or the idea that the car moves by magic.
+
+Proof Problem
+
+Dark matter is considered proven, even though there has been no direct detection.
+The problem with the lifeticle is that indirect measurements cannot be made, and the ways of detecting the lifeticle and qualia are unknown.
+It is problematic to prove the existence of another fundamental entity.
+This is known from the position of the lifeticle itself - the very sensation of visual information without the sensation of "yourself" is only possible 
+if the sensation and the so-called observer exist.
+The effect of the lifeticle on the brain, to make the brain aware of the existence of qualia, is also unknown.
 
 ========================
 
