@@ -136,8 +136,7 @@ What if the universe in the future can no longer sustain life or generate qualia
 One such variant may be dark energy.
 
 In the distant future, dark energy will accelerate the expansion of space so much that atomic structures will no longer be able to hold themselves together.
-This marks a time when life will become impossible, and the Universe will either enter eternal expansion, known as Big Freeze,
-or experience the complete disintegration of matter in the scenario of the Big Rip.
+This marks a time when life will become impossible, and the Universe will either enter eternal expansion, experience the complete disintegration of matter in the scenario of the Big Rip.
 Since there is no such electronic activity around the lifeticle after death as there is in the brain, nothing is felt after death, and the next life begins instantly.
 Even if millions of years have passed.
 If nothing is felt, then this time effectively does not exist for you.
