@@ -159,7 +159,7 @@ This leads to a paradox, and therefore a mystery.
 At the same time, there is no moment where one could definitively say that the situation has closed and some change must have occurred.
 
 If dark energy and the universe have cycles of expansion and contraction, the next life will inevitably begin.
-And the paradox is avoided.
+And the paradox is not encountered.
 
 The mystery seems unsolvable, and it is unclear whether any discoveries in physics will help resolve it.
 
