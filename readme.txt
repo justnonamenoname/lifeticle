@@ -64,7 +64,7 @@ One might assume death as the separation of surrounding atoms from the central p
 If in a religious sense, and there are flying angels watching over this process, what happens if they fail to oversee it? But there is no reason to believe such angels exist.
 If we are in a virtual reality, then the computer in the base reality must oversee this, but what if it doesn’t?
 But in base reality, we could question—are we in a virtual reality?
-This question leads nowhere and makes discussions about death meaningless.
+This question leads nowhere and makes discussions meaningless.
 This means there is no physical moment of death.
 Death is the disintegration of the organism.
 What the organism consists of continues to exist in the world.
