@@ -18,7 +18,6 @@ Theoretical reflections on death, the necessity of cryonics, and the importance 
 To the question of what happens after death, another question arises: what was there before birth?
 The particles that make up the body existed before birth and will continue to exist after death.
 There is no magic in either birth or death that destroys or creates particles.
-The state of death before birth is no different from the state of death after.
 
 The body can undergo a kidney transplant and continue to live.
 With partial brain damage or the removal of certain parts, life continues as well.
@@ -54,6 +53,7 @@ and this is life: a living particle (life + particle = lifeticle).
 
 To the question of whether there can be another life after death, the answer is:
 the so-called observer had already experienced a state of death prior to their birth, and yet they were born.
+The state of lifeticle's death before birth is no different from the state of death after.
 What prevents the particles from assembling again in another form or similarly?
 Physical laws do not prohibit what has already happened according to these very same physical laws.
 If it were impossible to be born a second time, it would have been impossible to be born the first time.
