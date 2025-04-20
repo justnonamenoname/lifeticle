@@ -450,7 +450,9 @@ If there are quantum effects between the signals and qualia, this will complicat
 2) A physical phenomenon leads to qualia, and physicists may start to speculate about which phenomenon it could be.
 
 Even if there is an undiscovered phenomenon between the known phenomenon and qualia, its discovery will shift its location in the chain from the side of qualia to the other side.
-Fundamentality in the Brain
+
+**Fundamentality in the brain**
+
 The process, which cannot explain qualia by another entity, and that this process makes a conclusion about the fundamentality, 
 one can clarify the question of the fundamentality of qualia and the source of the confidence in it.
 
