@@ -328,12 +328,7 @@ To say that the particle lifeticle, which is the carrier of consciousness, the s
 cannot exist is equivalent to saying that there is no carrier of consciousness in the collection of particles forming the brain.
 Quantum uncertainty is fundamental and cannot be replicated informally.
 Time is also fundamental-it cannot be explained by any other entity, even in Wolfram's theory with the details of the hypergraph, there is no explanation of time.
-If elementary particles consist of space (as in Wolfram's theory), then:
-1) indivisible elements of space
-2) time
-3) quantum randomness
-These are enough to construct reality except for one thing-the carriers of consciousness and qualia.
-Hence the emergence of the so-called Hard Problem of Consciousness / Explanatory gap -attempting to explain one entity through another entity.
+From the impossibility of explaining qualia by other phenomena arose "The Hard Problem of Consciousness" and "The Explanation Gap".
 
 An example of a theory
 
