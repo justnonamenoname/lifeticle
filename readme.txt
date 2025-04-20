@@ -120,7 +120,7 @@ And in the event of the sun's death, the population could simply be transferred 
 
 ==========================
 
-But there may also be another external factor - alien life with intentions unknown to us.
+But there may also be another external factor - alien life.
 
 The possibility that aliens could be hostile requires the development of the most powerful weapons, even during peaceful times.
 The most powerful weapon would be self-replicating robots that travel to neighboring planets and create copies of themselves.
