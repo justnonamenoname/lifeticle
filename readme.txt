@@ -306,13 +306,13 @@ Verification
 Experimental methods
 
 Experimental methods for confirming the theory in the study of the brain:
-1) Study where the streams for qualia converge (further details below), and they must converge at a single particle using the method of qualia generation.
+1) Study where the streams for qualia converge (further details in connection between qualia and the brain), and they must converge at a single particle using the method of qualia generation.
 If they do not converge, it does not disprove the theory, because the question is not whether an image and sound are perceived simultaneously, but how it happens.
 2) The effect of the lifeticle and information about qualia on the brain.
 3) The lifeticle must not be replaced by something else throughout life.
 The theory is a direct consequence of the organism's structure.
 In studying the brain, one must start from the principle of maximum divisibility, 
-meaning the brain consists of indivisible particles and that the carrier of consciousness is located somewhere in the brain (further details below).
+meaning the brain consists of indivisible particles and that the carrier of consciousness is located somewhere in the brain (further details on the necessity of a consciousness carrier in fundamentality).
 To disprove the theory, one must disprove what is already known, for example: 
 That particles disappear upon death, or that we are in a virtual reality, or that there is a moment of death and flying angels are indeed arriving.
 
@@ -321,15 +321,15 @@ Orch OR Theory
 The Orch OR theory (Orchestrated Objective Reduction) by Penrose and Hameroff makes several parallels to the lifeticle theory:
 1) Consciousness is not located in neurons.
 2) The second method of generating qualia.
-3) A solution to the problem of pointwise binding (further details below)
-4) A solution to the problem of the speed of time (further details below)
+3) A solution to the problem of pointwise binding (further details in connection between qualia and the brain)
+4) A solution to the problem of the speed of time (further details in connection between qualia and the brain)
 
 CEMI Theory
 
 The electromagnetic CEMI theory makes certain correspondences/similarities with the lifeticle theory:
 1) Consciousness is not located in neurons.
 2) The 3rd method of generating qualia.
-3) The similarity of the informational transition from a point with a radius to a circle (further details below)
+3) The similarity of the informational transition from a point with a radius to a circle (further details in connection between qualia and the brain)
 4) Reverse influence - the effect of the EM field on neurons.
 
 Fundamentality
