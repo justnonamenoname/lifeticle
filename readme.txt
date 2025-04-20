@@ -367,14 +367,13 @@ The wave function/quantum entanglement seems like a solution to this.
 
 The methods of qualia
 
-Suggested possible structural methods for generating qualia-there are several options, each with its own drawbacks:
+Suggested possible structural methods for generating qualia-there are several options:
 1) It can be imagined that electrical activity near the lifeticle serves as a generator.
 The visual image from the eye, in terms of the amount of information, not only has an enormous size in megapixels and megabytes, but also has depth and brightness.
 To generate the image, signals must transmit information at a megabit speed.
 This creates a simultaneity problem; the time of the event must also be transmitted, and the method is not the same in the reverse direction of time.
 It does not resolve the speed issue and leads to the overlap of qualia.
 2) Particles are quantumly entangled with each other, and the electrical activity around them creates qualia in them, which is felt by the lifeticle connected to them.
-This creates the problem of distance.
 The method corresponds to the Orch OR theory (Orchestrated Objective Reduction) by Penrose and Hameroff.
 In Orch OR, the issue of speed is addressed through frames caused by the collapse of the wave function.
 3) The lifeticle has its own field.
