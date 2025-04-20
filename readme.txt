@@ -122,7 +122,7 @@ Aliens could also create such robots, but theirs might be offensive.
 Humans might think: if aliens can create such a weapon, then humans should create it too.
 Aliens might think the same: if another form of life can create such a weapon, then we must create it for defense.
 
-Even if life has not originated on another planet in this galaxy, it might have originated in a neighboring galaxy, and in a million years, our galaxy could be filled with robots.
+Even if life has not originated on another planet in this galaxy, it might have originated in a neighboring galaxy.
 And if we start creating them now, it still might not be enough.
 Enemy robots could outnumber ours, and aliens could use such weapons to destroy life on our planet.
 
