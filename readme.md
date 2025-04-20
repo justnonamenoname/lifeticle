@@ -681,6 +681,7 @@ Two options:
 1) Not at the moment of sensation, but later (the life particle influencing random quantum processes).
 2) At the moment of sensation itself, the influence of positive and negative qualia is opposite - negative qualia have a repulsive effect, 
 and the strength of repulsion depends on the intensity of pain. Qualia require energy, and the reverse influence expends energy.
+
 Physicists may begin to hypothesize what physical phenomenon this reverse influence could be.
 Even if there is an undiscovered phenomenon between the known phenomenon and the reverse influence, 
 its discovery would shift its position in the chain from the side of the reverse influence to the other side.
