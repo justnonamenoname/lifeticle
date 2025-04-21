@@ -53,7 +53,7 @@ The state of lifeticle's death before birth is no different from the state of de
 The lifeticle had already experienced a state of death prior to their birth, and yet they were born.
 What prevents the particles from assembling again in another form or similarly?
 Physical laws do not prohibit what has already happened according to these very same physical laws.
-In nature there is phenomena like the carbon cycle and cycles of other elements.
+In nature, there is a phenomenon known as the cycle of carbon and other elements.
 The possibility of being born a first time implies the possibility of being born a second time.
 
 ==========================
