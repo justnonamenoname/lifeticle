@@ -244,7 +244,7 @@ The fact that the moment of death does not exist also invalidates the concept of
 
 ### Verdict
 
-This concept does not contradict the laws of physics.
+This concept of phenomenal consciousness does not contradict the laws of physics.
 If it is accepted as correct, there will be no reason to think otherwise.
 Once adopted, society will not deviate from it.
 Only discoveries in the field of physics can refine this concept.
