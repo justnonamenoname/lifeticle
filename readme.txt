@@ -189,7 +189,8 @@ This is an opportunity.
 And potentially, an opportunity for life without a time limit.
 After a person’s death, they should be preserved through cryonics, not buried or cremated, scattering their particles indiscriminately.
 Cryonics centers should exist in cities.
-What to do in the event of a sudden or expected death of a person or an animal, in the context of cryonics, will be explained below.
+In the event of an animal's death, if there is no cryonics center in the city, it can be frozen for later transport to another city.
+Within a week, neuronal degradation will not cause any displacement; the brain will remain sealed.
 
 And you wouldn’t want to be born, or have your relatives be born, as a grasshopper or something worse.
 If there were certainty about the positivity of the next life, there would be no need to worry about it so much.
