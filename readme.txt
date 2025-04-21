@@ -338,7 +338,7 @@ Fundamentality
 There are two options when it comes to the fundamental nature of qualia and its uniqueness as a phenomenon: 
 1) Not fundamental - it is possibly explained through other entities.
 2) Fundamental - it cannot be explained through other entities.
-If attempting to prove fundamentality – this is proving the impossibility of explanation, proving that no other phenomenon exists that makes qualia non-unique.
+If attempting to prove fundamentality, this is proving the impossibility of explanation, proving that no other phenomenon exists that makes qualia non-unique.
 When proving non-fundamentality, it is enough to provide an example of an entity from which qualia may consist.
 That is, the starting point is fundamentality.
 The search for an example of an entity is behind those who wish to attempt to prove that qualia are not fundamental and not unique.
