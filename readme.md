@@ -45,7 +45,7 @@ The highest electrical activity in the brain occurs in the reticular formation (
 the central part of the brain is either the reticular formation itself or a neighboring area.
 The reticular formation is the ancient part of the brain from an evolutionary point of view.
 Without the brain's electrical activity, a person feels nothing.
-The closest description of what triggers qualia is the activity of electrons around the central particle.
+The closest description of what triggers qualia is the electrical activity around the lifeticle.
 Qualia cannot be expressed through anything else, which means it is something fundamental.
 As an example: in Wolfram's physical theory, atoms are distortions of space itself.
 If the central particle does not exist, there is nothing on which the holistically formed picture of the world (qualia of vision, eye images, and other sensory organs) can converge,
