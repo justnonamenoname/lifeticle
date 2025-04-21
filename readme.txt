@@ -386,7 +386,7 @@ Knowing the car's weight, we can estimate its energy consumption at a given spee
 From the maximum speed or acceleration, we can roughly estimate the engine’s power.
 From the sound, we can infer the engine type.
 What would disprove the engine theory?
-A contradiction of what is already known-such as a violation of the law of energy conservation or the idea that the car moves by magic.
+A contradiction of what is already known - such as a violation of the law of energy conservation or the idea that the car moves by magic.
 
 Proof problem
 
