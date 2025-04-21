@@ -5,7 +5,7 @@ Lifeticle is a particle that acts as a subject, the so-called observer in the br
 2) Attachment to the organism.
 3) Feedback influence on the brain.
 
-The lifeticle remains in the brain after its death
+The lifeticle remains in the brain after its death.  
 Phenomenal consciousness is the sum of sensations/qualia. Other brain functions are not part of phenomenal consciousness.
 
 ## Survival
