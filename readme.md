@@ -387,7 +387,7 @@ Qualia are not something separate, they are connected to the carrier of consciou
 In informational theories, there is no qualia or a carrier of consciousness to which qualia are directed.
 Informational theories attempting to explain phenomenal consciousness do not answer the question of why you live in this brain and not in another; 
 this requires a physical connection with the brain, and a physical connection requires a physical object.  
-Qualia without the so-called observer lead to the same problem-why do you live the life of this brain and not another?  
+Qualia without the so-called observer lead to the same problem - why do you live the life of this brain and not another?  
 The absence of a so-called "observer" leads to the problem of temporal binding - why qualia experienced in the past continue to be felt in the future.  
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/time.png" width="400">  
 To say that the particle lifeticle, which is the carrier of consciousness, the so-called observer, 
