@@ -708,7 +708,8 @@ This scenario of an incomplete cyclic universe is equivalent to the scenario of 
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/universestatecycle.png">
 
-Robots can destroy life if the universe is cyclic - this allows the robots to be destroyed, but it leads again to an evolutionary path.
+Robots can destroy life.
+If the universe is cyclic - this allows the robots to be destroyed, but it leads again to an evolutionary path.
 There is no scenario where robots are destroyed without a new evolutionary path emerging.
 This may mean that full happiness does not exist in the world.
 This highlights the importance of creating an organization to monitor artificial intelligence or other possible transitions into negative qualia states.
