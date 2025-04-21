@@ -324,6 +324,7 @@ Quantum theory The Orch OR theory (Orchestrated Objective Reduction) by Penrose 
 2) The second method of generating qualia.
 3) A solution to the problem of pointwise binding (further details in connection between qualia and the brain)
 4) A solution to the problem of the speed of time (further details in connection between qualia and the brain)
+Supporters of the quantum theory of consciousness also include Federico Faggin and Giacomo Mauro D'Ariano.
 
 CEMI Theory
 
