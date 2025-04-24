@@ -374,7 +374,7 @@ An organism consists of particles, and the phenomenon of qualia exists - one mus
 The fundamentality of qualia implies that the capacity to experience qualia is likewise fundamental.
 Quantum uncertainty is fundamental and cannot be replicated informally.
 To say that qualia can be replicated informationally is equivalent in meaning to the idea that quantum uncertainty can be replicated informationally.
-Time is also fundamental - it cannot be explained by any other entity, even in Wolfram's theory with the details of the hypergraph, there is no explanation of time.
+Time is also fundamental - it cannot be explained by any other entity.
 From the impossibility of explaining qualia by other phenomena arose "The Hard Problem of Consciousness" and "The Explanation Gap".
 
 An example of a theory
