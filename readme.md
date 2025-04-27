@@ -372,7 +372,7 @@ When proving non-fundamentality, it is enough to provide an example of an entity
 That is, the starting point is fundamentality.  
 The search for an example of an entity is behind those who wish to attempt to prove that qualia are not fundamental and not unique.  
 If we assume that emergence can create qualia, then still, signals in the brain must converge at a single point through the method of generating qualia, 
-otherwise, a binding problem arises, which makes the issue of emergence meaningless.
+otherwise, a binding problem arises, which makes the issue of emergence meaningless.  
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/bind.png" width="400">  
 The properties of emergence can be obtained by modeling, for example: knowing the properties of a water molecule, by modeling a multitude of molecules, 
 we can obtain the properties of water.  
