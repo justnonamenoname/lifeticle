@@ -666,7 +666,7 @@ Reverse influence
 If the lifeticle could not transmit information into the world, a person would not be able to speak about the existence of qualia.
 If we take the life particle and a random surrounding world that generates random sensations,
 there would be no reason for a positively perceived structure to develop without the life particle influencing the world.
-This means the life particle can somehow influence the world (not just transmit information; transmission alone could not have an effect).
+This means the life particle can influence the world and transmit information.
 If we assume that the inverse influence is behind non-random processes, then these processes can be modeled,
 but then the existence of qualia could be known without qualia itself, and qualia would not have a backward influence.
 It means that qualia cannot stand behind non-random processes and is connected with random quantum processes.
