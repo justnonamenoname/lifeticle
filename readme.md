@@ -8,10 +8,10 @@ Lifeticle is a particle that acts as a subject, the so-called observer in the br
 The lifeticle remains in the brain after its death.  
 Phenomenal consciousness is the sum of sensations/qualia. Other brain functions are not part of phenomenal consciousness.
 
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/1.png" width="250">
+
 ## Survival
 The necessity of cryonics
-
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/1.png" width="250">
 
 ### Lifeticle's existence
 
