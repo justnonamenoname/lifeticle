@@ -47,7 +47,6 @@ The reticular formation is the ancient part of the brain from an evolutionary po
 Without the brain's electrical activity, a person feels nothing.
 The closest description of what triggers qualia is the electrical activity around the lifeticle.
 Qualia cannot be expressed through anything else, which means it is something fundamental.
-As an example: in Wolfram's physical theory, atoms are distortions of space itself.
 If the central particle does not exist, there is nothing on which the holistically formed picture of the world (qualia of vision, eye images, and other sensory organs) can converge,
 creating a binding problem.
 The central particle can be described as a particle capable of qualia - this is its property, fundamentally distinct from the rest of the world,
