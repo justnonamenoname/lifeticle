@@ -667,13 +667,13 @@ If the lifeticle could not transmit information into the world, a person would n
 If we take the life particle and a random surrounding world that generates random sensations,
 there would be no reason for a positively perceived structure to develop without the life particle influencing the world.
 This means the life particle can somehow influence the world (not just transmit information; transmission alone could not have an effect).
-Two options:
-1) Not at the moment of sensation, but later (the life particle influencing random quantum processes).
-2) At the moment of sensation itself, the influence of positive and negative qualia is opposite - negative qualia have a repulsive effect, 
-and the strength of repulsion depends on the intensity of pain. Qualia require energy, and the reverse influence expends energy.
-Physicists may begin to hypothesize what physical phenomenon this reverse influence could be.
-Even if there is an undiscovered phenomenon between the known phenomenon and the reverse influence, 
-its discovery would shift its position in the chain from the side of the reverse influence to the other side.
+If we assume that the inverse influence is behind non-random processes, then these processes can be modeled,
+but then the existence of qualia could be known without qualia itself, and qualia would not have a backward influence.
+It means that qualia cannot stand behind non-random processes and is connected with random quantum processes.
+2 possible options of backward influence on random quantum processes:
+1) Not at the moment of sensation, but later
+2) At the moment of sensation itself, we can assume that in the case of negative qualia, the greater the pain, the greater the influence on random quantum processes.
+Physicists may begin to hypothesize what quantum phenomenon this reverse influence could be.
 
 The term life
 
