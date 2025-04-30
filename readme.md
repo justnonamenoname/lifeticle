@@ -425,7 +425,6 @@ The problem with the lifeticle is that indirect measurements and the ways of det
 It is problematic to prove the existence of another fundamental entity.
 This is known from the position of the lifeticle itself - the very sensation of visual information without the sensation of "yourself" is only possible 
 if the sensation and the so-called observer exist.
-The effect of the lifeticle on the brain, to make the brain aware of the existence of qualia, is also unknown.
 
 ---
 
