@@ -492,10 +492,8 @@ The chain [signals - qualia] leads to two possibilities:
 1) Qualia cannot be detected, and then the signals appear as leading nowhere without effect.
 2) Qualia may be detectable as an effect of reverse influence.
 
-If there are quantum effects between the signals and qualia, this will complicate the search.
-A physical phenomenon leads to qualia.
-Physicists may start to speculate about which phenomenon it could be.
-Even if there is an undiscovered phenomenon between the known phenomenon and qualia, its discovery will shift its location in the chain from the side of qualia to the other side.
+​​​​​​​A quantum phenomenon leads to qualia.
+Physicists may start to speculate about which quantum phenomenon it could be.
 
 **Fundamentality in the brain**
 
