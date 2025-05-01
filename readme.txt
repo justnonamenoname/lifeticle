@@ -325,7 +325,7 @@ Quantum theory The Orch OR theory (Orchestrated Objective Reduction) by Penrose 
 4) A solution to the problem of the speed of time (further details in connection between qualia and the brain)
 Supporters of the quantum theory of consciousness also include Federico Faggin and Giacomo Mauro D'Ariano.
 
-CEMI Theory
+CEMI theory
 
 The electromagnetic CEMI theory makes certain correspondences/similarities with the lifeticle theory:
 1) Phenomenal consciousness is not located in neurons.
