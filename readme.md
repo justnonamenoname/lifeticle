@@ -342,7 +342,7 @@ meaning the brain consists of indivisible particles and that the carrier of cons
 To disprove the theory, one must disprove what is already known, for example: 
 That particles disappear upon death, or that we are in a virtual reality, or that there is a moment of death and flying angels are indeed arriving.
 
-**Orch OR Theory**
+**Orch OR theory**
 
 Quantum theory The Orch OR theory (Orchestrated Objective Reduction) by Penrose and Hameroff makes several parallels to the lifeticle theory:
 1) Phenomenal consciousness is not located in neurons.
@@ -352,7 +352,7 @@ Quantum theory The Orch OR theory (Orchestrated Objective Reduction) by Penrose 
 
 Supporters of the quantum theory of consciousness also include Federico Faggin and Giacomo Mauro D'Ariano.
 
-**CEMI Theory**
+**CEMI theory**
 
 The electromagnetic CEMI theory makes certain correspondences/similarities with the lifeticle theory:
 1) Phenomenal consciousness is not located in neurons.
