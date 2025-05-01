@@ -11,7 +11,7 @@ Phenomenal consciousness is the sum of sensations/qualia. Other brain functions 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/1.png" width="250">
 
 ## Survival
-The necessity of cryonics
+Necessity of cryonics
 
 ### Lifeticle's existence
 
