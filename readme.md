@@ -311,7 +311,7 @@ If there is no cryocenter nearby, the organism must be prepared for transportati
 7) Check the dry ice daily and replenish it if necessary.
 8) If dry ice is unavailable, place the organism in a freezer below 0°C at the lowest possible temperature.
 
-**Dry Ice**
+**Dry ice**
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/ice.png" width="200">
 
