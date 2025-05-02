@@ -98,7 +98,7 @@ What will life be like in the future in terms of happiness and unhappiness? In w
 Technological and intellectual development could create a wonderful world.
 And it would be wonderful, if not for the possible problems.
 But what if the world descends into an unbeatable fascism?
-Or if robots destroy the world and construct hell, either accidentally or intentionally?
+Or if robots destroy the world and construct hell, either accidentally or intentionally.
 Such robots could endlessly grow humans in incubators and inflict pain on them.
 On the planet, there are already species evolving in relation to each other - one species changes to efficiently eat the other,
 while the other evolves to protect itself from being eaten.
