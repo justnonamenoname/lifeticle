@@ -33,7 +33,7 @@ Therefore, something remains - a certain central or core particle in the brain, 
 The brain is not an indivisible object; it is made up of indivisible particles.
 You are the particle in the brain that feels.
 What are you in the brain? The answer is: the carrier of consciousness can only be a single indivisible particle.
-It is not possible to choose multiple entities, as they are separate entities.
+It is not possible to choose multiple particles, as they are separate particles.
 This means that in the brain, any particle can be replaced with an identical one, and you wouldn’t notice a difference.
 But if the central particle is replaced, your "self," being removed from the brain, would cease to feel anything.
 The central particle is indivisible - if we assume that the central particle is composed of several parts,
