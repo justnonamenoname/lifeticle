@@ -276,7 +276,7 @@ Donation-based programs can help make cryopreservation more accessible for those
 Charitable organizations, crowdfunding efforts, or non-profits can play a role in subsidizing the costs.
 These organizations may collaborate with cryonics companies to provide financial assistance to individuals who cannot afford the full cost of cryopreservation.
 
-Actions Upon Death
+Actions upon death
 
 If the organism was not brought to a cryocenter before death, the body must be positioned straight upon death.
 In the case of limbs, they should be tucked in; ears should be pressed to the head.
