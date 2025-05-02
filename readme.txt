@@ -37,8 +37,8 @@ The central particle is indivisible - if we assume that the central particle is 
 then, as with the organism, division can continue, and the other particles will be external to the central one.
 
 The highest electrical activity in the brain occurs in the reticular formation (which persists even during sleep).
-The central part of the brain is either the reticular formation itself or a neighboring area.
 The reticular formation is the ancient part of the brain from an evolutionary point of view.
+The central part of the brain is either the reticular formation itself or a neighboring area.
 Without the brain's electrical activity, a person feels nothing.
 The closest description of what triggers qualia is the electrical activity around the lifeticle.
 Qualia cannot be expressed through anything else, which means it is something fundamental.
