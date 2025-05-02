@@ -485,6 +485,21 @@ If the frames of the image and sound were separate, it would lead to flickering 
 Smoothness in the passage of time occurs either by an instantaneous skip of time without qualia, or by a separate method.
 The first method of generating qualia and CEMI do not solve this issue.
 
+**Reverse influence**
+
+If the lifeticle could not transmit information into the world, a person would not be able to speak about the existence of qualia.
+If we take the life particle and a random surrounding world that generates random sensations,
+there would be no reason for a positively perceived structure to develop without the life particle influencing the world.
+This means the life particle can influence the world and transmit information.
+If we assume that the inverse influence is behind non-random processes, then these processes can be modeled,
+but then the existence of qualia could be known without qualia itself, and qualia would not have a backward influence.
+It means that qualia cannot stand behind non-random processes and is connected with random quantum processes.
+2 possible options of backward influence on random quantum processes:
+1) Not at the moment of sensation, but later
+2) At the moment of sensation itself, we can assume that in the case of negative qualia, the greater the pain, the greater the influence on random quantum processes.
+
+Physicists may begin to hypothesize what quantum phenomenon this reverse influence could be.
+
 **Search for qualia**
 
 Qualia are not found in the transmission of signals in the brain and cannot be located within them.
@@ -710,21 +725,6 @@ This highlights the importance of creating an organization to monitor artificial
 ---
 
 ### Lifeticle
-
-**Reverse influence**
-
-If the lifeticle could not transmit information into the world, a person would not be able to speak about the existence of qualia.
-If we take the life particle and a random surrounding world that generates random sensations,
-there would be no reason for a positively perceived structure to develop without the life particle influencing the world.
-This means the life particle can influence the world and transmit information.
-If we assume that the inverse influence is behind non-random processes, then these processes can be modeled,
-but then the existence of qualia could be known without qualia itself, and qualia would not have a backward influence.
-It means that qualia cannot stand behind non-random processes and is connected with random quantum processes.
-2 possible options of backward influence on random quantum processes:
-1) Not at the moment of sensation, but later
-2) At the moment of sensation itself, we can assume that in the case of negative qualia, the greater the pain, the greater the influence on random quantum processes.
-
-Physicists may begin to hypothesize what quantum phenomenon this reverse influence could be.
 
 **The term life**
 
