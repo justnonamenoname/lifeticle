@@ -438,7 +438,7 @@ if the sensation and the so-called observer exist.
 
 **The problem of pointwise binding**
 
-The problem of binding means that signals for qualia must converge at one point.
+The problem of binding means that signals for qualia must converge on a single particle.
 If the signals are somehow separate, then they are simply not connected.
 The visual information from the eye – it has a left part and a right part, and they seem to be separate, but if they were truly separate, we would again face the binding problem.
 This can be called the problem of pointwise binding.
