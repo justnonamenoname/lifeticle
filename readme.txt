@@ -656,7 +656,6 @@ Qualia's connection to cosmic destiny
 Robots
 
 A scenario of a cyclic universe that does not fully contract, leaving room for a robot.
-A single copying robot is enough to destroy life over millions of years and prevent life from emerging.
 Such a robot is easy to create, but it is unclear whether it is possible to destroy millions of such robots.
 This scenario of an incomplete cyclic universe is equivalent to the scenario of an infinitely expanding universe, since in both cases life can no longer exist.
 
