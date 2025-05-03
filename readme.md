@@ -814,7 +814,7 @@ Quarks are far too small relative to atoms, which are likely the level at which 
 Space itself is something.
 It is difficult to imagine that the elements composing space are alive, or that qualia could be directed to such elements.
 Qualia appear as a non-living, automatic mechanism.
-This suggests that reality functions independently of consciousness.
+This shows that reality functions independently of consciousness.
 If we are in a virtual reality, this applies to the base reality as well - life and independent elementary particles exist there.
 As a counterargument, the function of lifeticle attachment is automatic.
 The fact that the lifeticle has physical properties in some way brings the world/reality and consciousness closer together,
