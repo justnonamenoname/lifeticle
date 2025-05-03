@@ -627,7 +627,7 @@ Space
 
 Qualia space may be connected to real space.
 This may mean that qualia cannot participate in 4-dimensional space.
-Space can be distorted according to the theory of relativity-how is this related to qualia space?
+Space can be distorted according to the theory of relativity. How is this related to qualia space?
 1) The qualia field has its own internal space
 2) The qualia field itself is distorted along with the distortion of space, and for example, a huge gravitational wave can distort the image.
 
