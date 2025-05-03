@@ -427,6 +427,7 @@ The method corresponds to the Orch OR theory (Orchestrated Objective Reduction) 
 In Orch OR, the issue of speed is addressed through frames caused by the collapse of the wave function.
 3) The lifeticle has its own field.
 The problem of distance is compounded by an unclear entity, and the size of the field should be determined.
+It is necessary to keep the lifeticle at an angle in accordance with spatial rotations.
 It does not solve the speed issue.
 The method corresponds to the CEMI theory.
 
