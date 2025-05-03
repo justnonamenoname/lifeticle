@@ -698,7 +698,7 @@ If the location of qualia is set by a parameter, the angle of the lifeticle fiel
 
 **Multilayer image**
 
-Is it possible to create qualia of a multi-layered volumetric image? One object is visible behind another, and they do not overlap.
+Is it possible to create qualia of a volumetric image with multiple layers? One object is visible behind another, and they do not overlap.
 The brain can create a volumetric image of no more than one layer due to evolutionary reasons.
 The question pertains not to the brain, but to the very nature of qualia.
 At the same time, the image layer does not appear as something that occupies volume, 
