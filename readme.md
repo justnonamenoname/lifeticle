@@ -442,6 +442,8 @@ The problem of binding means that signals for qualia must converge on a single p
 If the signals are somehow separate, then they are simply not connected.
 The visual information from the eye – it has a left part and a right part, and they seem to be separate, but if they were truly separate, we would again face the binding problem.
 This can be called the problem of pointwise binding.
+The problem concerns both the binding of qualia to each other and their binding to the lifeticle.
+Introducing the particle, the receiver of qualia, does not create a new problem of how it receives signals — the problem already exists with qualia even without the particle.
 The wave function/quantum entanglement seems like a solution to this.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/point.png">
