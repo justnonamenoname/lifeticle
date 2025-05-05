@@ -309,7 +309,6 @@ Experimental methods
 
 Experimental methods for confirming the theory in the study of the brain:
 1) The streams for qualia must converge on a single particle using the method of qualia generation (further details in connection between qualia and the brain).
-If they do not converge, it does not disprove the theory, because the question is not whether an image and sound are perceived simultaneously, but how it happens.
 2) The effect of the lifeticle and information about qualia on the brain.
 3) The lifeticle must not be replaced by something else throughout life.
 The theory is a direct consequence of the organism's structure.
