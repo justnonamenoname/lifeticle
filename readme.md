@@ -713,7 +713,7 @@ as if there are two size parameters - height and width - while the third paramet
 **Robots**
 
 A scenario of a cyclic universe that does not fully contract, leaving room for a robot.
-Such a robot is easy to create, but it is unclear whether it is possible to destroy millions of such robots.
+A single self-replicating robot is enough to prevent life from emerging.
 This scenario of an incomplete cyclic universe is equivalent to the scenario of an infinitely expanding universe, since in both cases life can no longer exist.
 
 **Cyclicality**
