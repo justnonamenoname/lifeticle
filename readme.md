@@ -522,7 +522,7 @@ Qualia are not found in the transmission of signals in the brain and cannot be l
 The fact that qualia are fundamental and the reverse effect is due to random quantum processes means that the information for qualia needs to go to the quantum level.
 The chain [signals - qualia] leads to two possibilities:
 1) Qualia cannot be detected, and then the signals appear as leading nowhere without effect.
-2) Qualia may be detectable as an effect of reverse influence.
+2) Qualia is detectable as a quantum reverse influence effect
 
 ​​​​​​​A quantum phenomenon leads to qualia. Physicists may start to speculate about which quantum phenomenon it could be.
 
