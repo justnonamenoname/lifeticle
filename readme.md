@@ -541,7 +541,7 @@ This would mean that one could know what it is like to be another living organis
 
 The way information is encoded for generating qualia and the fact that it is not identical to the qualia itself.
 The issue of encoding and decoding appears as a problem of conversion, where the decoder is on the side of the lifeticle.
-The solution to the problem of the decoder on the lifeticle side would be the existence of qualia without a lifeticle.
+The solution to the problem of the decoder on the lifeticle side would be the existence of qualia object without a lifeticle.
 In this case, the object representing the qualia exists, but is not perceived by anyone.
 For example: If the qualia fields are a wave function, then the wave function exists without the lifeticle.
 
