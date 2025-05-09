@@ -448,7 +448,7 @@ The minimum size of qualia in an image - the smaller the size of the point in th
 This may mean that the point of the image has size parameter, and the point has the shape of a circle, or some other way of forming a volume.
 This may imply that the qualia of the image looks like to have more information than what is used for the generation itself.
 A circle has more information than a point with a radius.
-Such a transition exists in the electromagnetic theory of consciousness, CEMI, which corresponds to the third method of generating qualia.
+The transition can be resolved by the wave function and the CEMI theory, which corresponds to the third method of qualia generation.
 Part of the image may have the form of a volume of an object, and individual points of the image are linked to the volumetric form.
 Some qualia are connected to others. This indicates a complex structure of qualia and its generation.
 
