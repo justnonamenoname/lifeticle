@@ -320,7 +320,7 @@ That particles disappear upon death, or that we are in a virtual reality, or tha
 Orch OR theory
 
 Quantum theory The Orch OR theory (Orchestrated Objective Reduction) by Penrose and Hameroff makes several parallels to the lifeticle theory:
-1) Phenomenal consciousness is not located in neurons.
+1) Phenomenal consciousness is not located in neurons, but is related to quantum phenomena.
 2) The second method of generating qualia.
 3) A solution to the problem of pointwise binding (further details in connection between qualia and the brain)
 4) A solution to the problem of the speed of time (further details in connection between qualia and the brain)
