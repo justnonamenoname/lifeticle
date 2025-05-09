@@ -516,6 +516,13 @@ The issue of encoding and decoding appears as a problem of conversion, where the
 The solution to the problem of the decoder on the lifeticle side would be the existence of qualia object without a lifeticle.
 In this case, the object representing the qualia exists, but is not perceived by anyone.
 For example: If the qualia fields are a wave function, then the wave function exists without the lifeticle.
+Then the generation of qualia is the construction of a qualia-object from qualia-elements.
+And instead of the question, how qualia is generated, there appears the question, what is the property of qualia of a physical object or what is a qualia-object having the property of physical interaction.
+The correct question can be: not what physical law creates qualia, but what law of qualia allows to influence it.
+Thus information alone could not create pain, it could be set by spin, for example.
+The strength of pain must depend on the number of signals, otherwise it would be possible to set any level of pain only by a parameter.
+How the information for qualia is encoded will be explored when studying the qualia generator.
+
 
 Attention
 
