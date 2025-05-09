@@ -532,7 +532,7 @@ This should be discovered when studying the brain.
 Qualia are not information, if a person has never seen the color red, it cannot be explained to them.
 Once the person has seen the color red, it is possible to reimagine it.
 Information about the sensation of color is stored in the brain, and the brain, using this information, is capable of reproducing the color through the method of generating qualia.
-It may be possible to transmit qualia in another way.  
+It is possible to transmit qualia in another way.  
 The chain [Light waves - eyes - brain - generator - qualia]  
 is replaced by [Simulation of the process in the brain - generator - qualia].  
 This would mean that one could know what it is like to be another living organism - for example, a bat.
