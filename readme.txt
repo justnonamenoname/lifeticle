@@ -419,7 +419,7 @@ Qualia-brain connection
 The problem of pointwise binding
 
 The problem of binding means that signals for qualia must converge on a single particle.
-If the signals are somehow separate, then they are simply not connected.
+If the signals do not converge but are merely located close to each other at the atomic level, then they are not bound.
 The visual information from the eye - it has a left part and a right part, and they seem to be separate, but if they were truly separate, we would again face the binding problem.
 This can be called the problem of pointwise binding.
 The problem concerns both the binding of qualia to each other and their binding to the lifeticle.
