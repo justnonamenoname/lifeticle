@@ -475,7 +475,6 @@ A circle has more information than a point with a radius.
 Such a transition exists in the electromagnetic theory of consciousness, CEMI, which corresponds to the third method of generating qualia.
 Part of the image may have the form of a volume of an object, and individual points of the image are linked to the volumetric form.
 Some qualia are connected to others. This indicates a complex structure of qualia and its generation.
-The structure must be studied when examining the method of generating qualia.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/round.png">
 
