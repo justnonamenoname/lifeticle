@@ -540,10 +540,7 @@ This would mean that one could know what it is like to be another living organis
 **Problem of encoding**
 
 The way information is encoded for generating qualia and the fact that it is not identical to the qualia itself.
-From the perspective of the CEMI theory, this is the question of why certain electromagnetic fields lead to certain qualia while others lead to others.
 The issue of encoding and decoding appears as a problem of conversion, where the decoder is on the side of the lifeticle.
-In the case of placement in CEMI, it is determined by direct position, but not by the type of color.
-In the case of the qualia field as a wave function, placement is the same parameter as the color type.
 The solution to the problem of the decoder on the lifeticle side would be the existence of qualia without a lifeticle.
 In this case, the object representing the qualia exists, but is not perceived by anyone.
 For example: If the qualia fields are a wave function, then the wave function exists without the lifeticle.
