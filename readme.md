@@ -426,7 +426,7 @@ It is problematic to prove the existence of another fundamental entity.
 This is known from the position of the lifeticle itself - the very sensation of visual information without the sensation of "yourself" is only possible 
 if the sensation and the so-called observer exist.  
 Detecting a lifeticle will lead to the question: how do we understand that it has the qualia property and it is a lifeticle?  
-Research the convergence of signals for qualia will help to figure this out.
+Research the convergence of signals for qualia will help to figure this out.  
 The reasons why there are reasons to consider the lifeticle to exist are:
 1) Addressing the issue of non-existence before birth
 2) Addressing the issue of living in this brain and not another brain
