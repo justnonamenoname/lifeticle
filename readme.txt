@@ -817,7 +817,8 @@ Incompatibility with other theories
 
 Everett's many-worlds interpretation
 
-Everett's many-worlds interpretation of quantum mechanics is poorly compatible with lifeticles, due to the fact that the lifeticle cannot be copied.
+The influence of qualia on the collapse of the wave function negates Everett's many-worlds interpretation of quantum mechanics.
+It is also poorly compatible with lifeticles, since a lifeticle cannot be copied.
 The idea that a lifeticle exists simultaneously in two or more worlds and lives parallel lives in parallel worlds is meaningless.
 Either the lifeticle already existed in this world before the split (which would mean there were multiple lifeticles occupying the same place at once),
 or lifeticles do not exist in other worlds, which requires that when worlds split, lifeticles go into only one world - or that the interpretation itself is incorrect.
