@@ -358,7 +358,7 @@ Supporters of the quantum theory of consciousness also include Federico Faggin a
 The electromagnetic CEMI theory makes certain correspondences/similarities with the lifeticle theory:
 1) Phenomenal consciousness is not located in neurons.
 2) The 3rd method of generating qualia.
-3) The similarity of the informational transition from a point with a radius to a circle ((further details in connection between qualia and the brain))
+3) The similarity of the informational transition from a point with a radius to a circle (further details in connection between qualia and the brain)
 
 **Fundamentality**
 
