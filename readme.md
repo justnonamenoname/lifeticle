@@ -421,10 +421,23 @@ A contradiction of what is already known - such as a violation of the law of ene
 **Proof problem**
 
 Dark matter is considered proven, even though there has been no direct detection.
-The problem with the lifeticle is that indirect measurements and the ways of detecting the lifeticle and qualia are unknown.
+The problem with the lifeticle is that the ways of detecting qualia property is unknown.
 It is problematic to prove the existence of another fundamental entity.
 This is known from the position of the lifeticle itself - the very sensation of visual information without the sensation of "yourself" is only possible 
-if the sensation and the so-called observer exist.
+if the sensation and the so-called observer exist.  
+Detecting a lifeticle will lead to the question: how do we understand that it has the qualia property and it is a lifeticle?  
+Research the convergence of signals for qualia will help to figure this out.
+The reasons why there are reasons to consider the lifeticle to exist are:
+1) Addressing the issue of non-existence before birth
+2) Addressing the issue of living in this brain and not another brain
+3) If one considers that sound and visual image signals converge on different particles, then either one or the other would be perceived
+4) If one considers that there is no particle, then the carrier of consciousness is the qualia generator, the multiplicity of particles leads to the problem that they are separate particles
+5) Solving the problem of replacing the brain by particles
+6) The problem of temporal binding, why qualia in the past, continue to be felt in the future
+7) The fundamentality of qualia points to the fundamentality of the property of experiencing qualia, which cannot be emergent or composite and is a property of an indivisible particle
+8) The reverse influence of qualia is related to quantum laws, this itself points to a particle
+9) The point binding problem is solved by quantum processes
+10) The transition from point and radius to circle is solved by quantum processes
 
 ---
 
