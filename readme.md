@@ -620,7 +620,7 @@ If we assume that the lifeticle is in the atom, there is a similarity between qu
 1) Correspondence of the wave function with the qualia field
 2) The electron's energy is the strength of qualia
 3) The electron's spin is the positive/negative qualia
-4) The spin influences the emitted radiation, photons - this is the particle's influence on the world
+4) The spin influences the emitted radiation, photons are particle's influence on the world
 5) The minimum energy level corresponds to the absence of qualia
 6) The atom's spin is similar to the direction of the qualia field
 7) It seems like a solution to the problem of pointwise binding
