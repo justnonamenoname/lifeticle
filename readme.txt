@@ -523,6 +523,9 @@ Thus information alone could not create pain, it could be set by spin, for examp
 The strength of pain must depend on the number of signals, otherwise it would be possible to set any level of pain only by a parameter.
 How the information for qualia is encoded will be explored when studying the qualia generator.
 
+Interpretation of quantum mechanics
+
+Qualia affects random quantum processes, means that a refinement of the interpretation of quantum mechanics is in the brain in the qualia generator.
 
 Attention
 
