@@ -447,7 +447,7 @@ Time in qualia would lead to its overlapping.
 There remains an option where speed is set by the number of frames, a method used in quantum theory Orch OR.
 If the frames of the image and sound were separate, it would lead to flickering of both the image and the sound. But this appears as a violation of continuity.
 Smoothness in the passage of time occurs either by an instantaneous skip of time without qualia, or by a separate method.
-The first method of generating qualia and CEMI do not solve this issue.
+The first method of generating qualia.
 
 Reverse influence
 
