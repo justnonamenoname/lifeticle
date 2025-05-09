@@ -47,7 +47,7 @@ The central part of the brain is either the reticular formation itself or a neig
 Without the brain's electrical activity, a person feels nothing.
 The closest description of what triggers qualia is the electrical activity around the lifeticle.
 Qualia cannot be expressed through anything else, which means it is something fundamental.
-If the central particle does not exist, there is nothing on which the holistically formed picture of the world (qualia of vision, eye images, and other sensory organs) can converge,
+If the lifeticle does not exist, there is nothing on which to converge the signals of the holistically formed picture of the world (qualia of vision, eye images, and other sensory organs) can converge,
 creating a binding problem.
 The central particle can be described as a particle capable of qualia - this is its property, fundamentally distinct from the rest of the world,
 and this is life: a living particle (life + particle - lifeticle, lt).
