@@ -493,6 +493,7 @@ Information about the sensation of color is stored in the brain, and the brain, 
 It is possible to transmit qualia in another way.
 The chain [Light waves - eyes - brain - generator - qualia]
 is replaced by [Simulation of the process in the brain - generator - qualia].
+The generator transmits information to the quantum level.
 This would mean that one could know what it is like to be another living organism - for example, a bat.
 
 Problem of encoding
