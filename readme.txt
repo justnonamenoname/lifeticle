@@ -315,6 +315,9 @@ In studying the brain, one must start from the principle of maximum divisibility
 meaning that the brain consists of indivisible particles and that the carrier of consciousness is located somewhere in the brain (further details in the necessity of a consciousness carrier in fundamentality).
 To disprove the theory, it is necessary, for example, to prove: 
 That particles disappear upon death, or that we are in a virtual reality, or that there is a moment of death and undiscovered angels really arrive.
+The law of conservation of energy and the circulation of particles in nature lead to the main idea of the theory - the possibility of a next birth.
+To refute it, it is necessary to refute either the law of conservation of energy or the circulation of particles.
+The question: what happens if the brain’s particles end up in different brains of other organisms, leads to the idea of the consciousness carrier as a single particle.
 
 Orch OR theory
 
