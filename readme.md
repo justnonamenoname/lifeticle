@@ -317,7 +317,7 @@ If there is no cryocenter nearby, the organism must be prepared for transportati
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/ice.png" width="200">
 
 When handling dry ice, safety precautions must be followed:  
-Do not touch without protective gloves; with gloves, no longer than a few seconds, since the temperature of dry ice is - 78°C.  
+Do not touch without protective gloves; with gloves, no longer than a few seconds, since the temperature of dry ice is -78°C.  
 Keep the room ventilated to prevent CO2 from accumulating and displacing oxygen.  
 When transporting it in a vehicle, the container should be placed in the trunk, windows should be slightly open, and delivery is recommended.  
 Dry ice must not be placed in an airtight container.  
