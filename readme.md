@@ -408,7 +408,7 @@ To say that qualia can be replicated informationally is equivalent in meaning to
 Time is also fundamental - it cannot be explained by any other entity.  
 From the impossibility of explaining qualia by other phenomena arose "The Hard Problem of Consciousness" and "The Explanation Gap".
 
-**An example of a theory**
+**Theory example**
 
 Example with car
 A car moves without an external force - based on this, we develop a theory about the existence of an engine.
