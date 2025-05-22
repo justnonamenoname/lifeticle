@@ -803,7 +803,7 @@ Other lifeticles
 
 How is it possible that there are other lifeticles with the same properties? Does this mean they share something in common - a shared paradox? But they are separate particles.
 A possible solution would be if the universe has an end of time, and at the end of time, the lifeticle moves backward in time and lives other lives.
-This would mean that if you hit someone,you will either feel the pain in their place or have already felt it earlier.
+This would mean that if you hit someone, you will either feel the pain in their place or have already felt it earlier.
 The problem with this idea is that the universe would need to have an endpoint, which would also include some function that transfers the lifeticle back in time.
 
 Number of lifeticles
