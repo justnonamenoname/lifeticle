@@ -459,7 +459,8 @@ Time in qualia would lead to its overlapping.
 There remains an option where speed is set by the number of frames, a method used in quantum theory Orch OR.
 If the frames of the image and sound were separate, it would lead to flickering of both the image and the sound. But this appears as a violation of continuity.
 Smoothness in the passage of time occurs either by an instantaneous skip of time without qualia, or by a separate method.
-The first method of generating qualia.
+To remove information from a superposition, a collapse is required; in order for some qualia not to exist in the next second, collapse is a necessary condition.
+The first method of generating qualia generation does not solve this question.
 
 Reverse influence
 
