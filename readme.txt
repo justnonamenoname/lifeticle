@@ -518,6 +518,8 @@ For example: If the qualia fields are a wave function, then the wave function ex
 Then the generation of qualia is the construction of a qualia-object from qualia-elements.
 And instead of the question of how qualia are generated, the question arises: what is the property of qualia in a physical object, or what is a qualia-object that has the property of physical interaction.
 The correct question may be: not what physical law creates qualia, but what law of qualia allows it to influence the physical.
+To the question why some signals lead to one color and others to another, the answer is: this is the construction of the qualia object, and another question arises - how is the qualia object constructed.
+If qualia is constructed gradually, and the frame of phenomenal consciousness is triggered by a collapse, this gives grounds to consider that the qualia object can exist separately.
 Thus information alone could not create pain, it could be set by spin, for example.
 The strength of pain must depend on the number of signals, otherwise it would be possible to set any level of pain only by a parameter.
 How the information for qualia is encoded will be explored when studying the qualia generator.
