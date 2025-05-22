@@ -54,7 +54,7 @@ Physical laws do not prohibit what has already happened according to these very 
 In nature, there is a phenomenon known as the cycle of carbon and other elements.
 The possibility of being born a first time implies the possibility of being born a second time.
 
-==========================
+========================
 
 The moment of death
 
@@ -75,7 +75,7 @@ What the organism consists of continues to exist in the world.
 The lifeticle can find itself in a new organism.
 Then after death, a new life is possible.
 
-==========================
+========================
 
 The idea of the lifeticle implies that reverse transplantation is possible.
 If physical laws allow it, the lifeticle can be taken from a dying organism and placed into another one, and its life will continue.
@@ -84,7 +84,7 @@ It is possible that life for the lifeticle happens once every million, or even b
 The longer the time, the greater the chance of being born again.
 But there is a huge problem - there remains the possibility of pain and unhappiness.
 
-==========================
+========================
 
 Future
 
@@ -117,7 +117,7 @@ And within the virtual reality, there is freedom and paradise.
 This is a combination of freedom and non-freedom - a paradise that cannot be left. Such a paradise could be stable.
 And in the event of the sun's death, the population could simply be transferred to another planet, possibly even automatically.
 
-==========================
+========================
 
 But there may also be another external factor - alien life.
 
@@ -136,7 +136,7 @@ Even if life has not originated on another planet in this galaxy, it might have 
 This risk might mean that humans should fill this galaxy and neighboring galaxies with robots.
 But this could leave alien life in a blocked state if humans go extinct, and potentially lead to the creation of hostile entities.
 
-==========================
+========================
 
 What if the universe in the future can no longer sustain life or generate qualia for the lifeticle?
 
@@ -160,7 +160,7 @@ And the paradox is not encountered.
 
 The mystery seems unsolvable, and it is unclear whether any discoveries in physics will help resolve it.
 
-==========================
+========================
 
 Four possibilities after death:
 1) A constructed hell
@@ -172,7 +172,7 @@ Only possible discoveries in physics could exclude the scenario of zero eternity
 And even then, only if the universe undergoes cyclical stages of expansion and contraction, and physics can detect this.
 Therefore, the future after death is highly unclear and ambiguous; it represents a great uncertainty, which also makes our life more valuable.
 
-==========================
+========================
 
 What's cryonics? 
 
@@ -195,7 +195,7 @@ If there were certainty about the positivity of the next life, there would be no
 Denying cryonics to the deceased is a rejection of a life lasting hundreds of years in favor of vast uncertainty.
 Cryonics becomes a moral obligation.
 
-==========================
+========================
 
 Structure
 
@@ -212,7 +212,7 @@ The key question is whether the lifeticle can be located and what it constitutes
 It could be either some form of dark matter or something entirely unknown.
 If multiple lifeticles exist in the brain, it may become impossible to determine which one was primary and "alive" (the others being inactive in this case).
 
-==========================
+========================
 
 Could there be another answer?
 
@@ -223,7 +223,7 @@ The mere fact that they have no connection to telescopes and no calls to study t
 They are not interested in the world and science; they are only interested in their cult.
 The fact that the moment of death does not exist also invalidates the concept of a religious paradise.
 
-==========================
+========================
 
 Verdict
 
@@ -251,7 +251,7 @@ Death can be defeated.
 
 In memory of J.
 
-==========================
+========================
 
 Cryonics
 
