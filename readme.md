@@ -541,6 +541,7 @@ This should be discovered when studying the brain.
 **Transfer of qualia**
 
 Qualia are not information, if a person has never seen the color red, it cannot be explained to them.
+Qualia is caused by a physical process, to reproduce it one must know how to repeat the physical process.
 Once the person has seen the color red, it is possible to reimagine it.
 Information about the sensation of color is stored in the brain, and the brain, using this information, is capable of reproducing the color through the method of generating qualia.
 It is possible to transmit qualia in another way.  
