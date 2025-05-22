@@ -109,7 +109,7 @@ This line of reasoning suggests that freedom allows one to leave paradise for he
 One could attempt to explain to robots that life is a distinct form of matter, whose laws are of primary importance.
 However, there is no reason why robots would be obligated to follow these laws.
 Such hell could persist until the environment's destruction.
-This is billions of years - unless robots relocate to another planet when our sun dies - or until matter itself decays, or until the universe's contraction phase (if the universe is cyclical).
+This is billions of years - unless robots relocate to another planet when our sun dies - or until matter itself decays, or until the universe's contraction phase, if the universe is cyclical.
 
 In the future, an organization might be established to prevent a descent into a non-free hell.
 A virtual reality could be constructed where, in the base reality, people are confined to virtual reality with no means of escape.
