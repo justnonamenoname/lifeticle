@@ -204,7 +204,7 @@ Structurally, consciousness in the brain consists of:
 1) The functional part of the brain without perception/s/qualia/phenomenal consciousness
 2) Phenomenal consciousness - the sum of qualia
 3) Qualia includes - the sense of "self"
-4) The "lifeticle" - the real "self"
+4) Lifeticle - the real "self"
 
 Brain structural integrity in cryonics may potentially be secondary.
 Only brain hermeticity is essential.
