@@ -338,8 +338,8 @@ The electromagnetic CEMI theory makes certain correspondences/similarities with 
 Fundamentality
 
 There are two options when it comes to the fundamental nature of qualia and its uniqueness as a phenomenon: 
-1) Not fundamental - it is possibly explained through other entities.
-2) Fundamental - it cannot be explained through other entities.
+1) Not fundamental - it is possibly explained through other phenomena.
+2) Fundamental - it cannot be explained through other phenomena.
 If attempting to prove fundamentality, this is proving the impossibility of explanation, proving that no other phenomenon exists that makes qualia non-unique.
 When proving non-fundamentality, it is enough to provide an example of an entity from which qualia may consist.
 That is, the starting point is fundamentality.
