@@ -27,8 +27,8 @@ If nothing from the body remains from when one was a child, then that body has b
 If the particles that made up the child were gathered again, one might assume that this would be you, not the one in the current body, but this is not the case.
 A complete brain replacement would mean that at some point during life, you would stop to experience anything, while another consciousness carrier would continue.
 Therefore, something remains - a certain central or core particle in the brain, which is the so-called observer (lifeticle).
+You are the particle in the brain that feels - the so-called observer (lifeticle).
 The brain is not an indivisible object; it is made up of indivisible particles.
-You are the particle in the brain that feels.
 What are you in the brain? The answer is: the carrier of consciousness can only be a single indivisible particle.
 It is not possible to choose multiple particles, as they are separate particles.
 This means that in the brain, any particle can be replaced with an identical one, and you wouldn’t notice a difference.
