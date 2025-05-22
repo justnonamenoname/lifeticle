@@ -656,7 +656,7 @@ It is possible that in the state of death, there may be activity around the life
 and while being dead, something might be felt, and time does not pass instantly.
 This depends on the surrounding environment; in the case of a prolonged environment generating qualia, it resembles the next life.
 However, in the case of the infinite expansion of the universe around the lifeticle, nothing alike, and this also resets time.
-This option may not work in a cyclic universe, as there is no infinite expansion, and electrical activity may remain around the lifeticle.
+This option may not work in a cyclic universe, as there is no infinite expansion, and activity that generates qualia may remain around the lifeticle.
 It is possible that during sleep, one might feel something but not remember it. The sensation of time passing instantly could be the result of the lack of memory.
 As a counterargument - in sleep, there are no random sensations, and the speed of time can vary.
 If a person does not want to experience sensations, disabling the generation of qualia by the brain is not a solution; 
