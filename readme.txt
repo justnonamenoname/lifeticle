@@ -312,7 +312,7 @@ Experimental methods for confirming the theory in the study of the brain:
 3) The lifeticle must not be replaced by something else throughout life.
 The theory is a direct consequence of the organism's structure.
 In studying the brain, one must start from the principle of maximum divisibility, 
-meaning the brain consists of indivisible particles and that the carrier of consciousness is located somewhere in the brain (further details in the necessity of a consciousness carrier in fundamentality).
+meaning that the brain consists of indivisible particles and that the carrier of consciousness is located somewhere in the brain (further details in the necessity of a consciousness carrier in fundamentality).
 To disprove the theory, one must disprove what is already known, for example: 
 That particles disappear upon death, or that we are in a virtual reality, or that there is a moment of death and flying angels are indeed arriving.
 
