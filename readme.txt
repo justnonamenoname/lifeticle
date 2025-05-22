@@ -677,7 +677,7 @@ as if there are two size parameters - height and width - while the third paramet
 
 ========================
 
-Qualia's connection to cosmic destiny
+Link between qualia and universe’s fate
 
 Robots
 
