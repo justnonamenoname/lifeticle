@@ -409,7 +409,7 @@ From the impossibility of explaining qualia by other phenomena arose "The Hard P
 **An example of a theory**
 
 Example with car
-A car moves without an external force-based on this, we develop a theory about the existence of an engine.
+A car moves without an external force - based on this, we develop a theory about the existence of an engine.
 Knowing the law of energy conservation, we assume that the engine requires energy.
 Knowing atoms and that a single atom cannot perform this function, we assume that the engine consists of many atoms.
 Knowing the car's weight, we can estimate its energy consumption at a given speed.
