@@ -439,6 +439,8 @@ The reasons why there are reasons to consider the lifeticle to exist are:
 9) The point binding problem is solved by quantum processes
 10) The transition from point and radius to circle is solved by quantum processes
 
+The theory of phenomenal consciousness must answer these questions, and the answers to them lead to the theory of the lifeticle.
+
 ---
 
 ## Aspects of phenomenal consciousness
