@@ -860,7 +860,7 @@ If the moment when the lifeticle begins to exist is neither the moment of birth 
 In reverse time, it cannot be infinite - that would be a paradox: no matter how far back time is rewound, there would still be more time remaining.
 But this would also mean that an infinite amount of time has already passed, which is impossible.
 The answer implies that the universe has a beginning of time, and one might assume that this is also the beginning of the lifeticle's existence.
-The idea that existence begins at birth does not make sense, since the organism is constructed from particles that already existed before; 
+The moment of beginning at birth makes no sense, since the organism is constructed from particles that already existed before; 
 birth is simply the movement of certain atoms/particles from one position to another.
 Some physicists suggest that in reverse time, time itself is circular at its origin, making it potentially infinite - it loops back on itself.
 In one direction, there is a starting point, while in the other, an endless circular loop.
