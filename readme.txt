@@ -428,7 +428,7 @@ The problem concerns both the binding of qualia to each other and their binding 
 Introducing the particle, the receiver of qualia, does not create a new problem of how it receives signals - the problem already exists with qualia even without the particle.
 The wave function/quantum entanglement seems like a solution to this.
 
-The methods of qualia
+Qualia methods
 
 Suggested possible structural methods for generating qualia-there are several options:
 1) It can be imagined that electrical activity near the lifeticle serves as a generator.
