@@ -201,7 +201,7 @@ Structure
 
 Structurally, consciousness in the brain consists of:
 
-1) The functional part of the brain without perception/s/qualia/phenomenal consciousness
+1) A functional part of the brain without perception/s/qualia/phenomenal consciousness
 2) Phenomenal consciousness - the sum of qualia
 3) Qualia includes - the sense of "self"
 4) Lifeticle - the real "self"
