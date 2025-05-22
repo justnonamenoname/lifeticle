@@ -709,6 +709,8 @@ The fact that qualia have a position means that the field qualia possesses a dir
 If the position of qualia is determined by the position in space, the rotation angles of the lifeticle field’s direction must be maintained in accordance with spatial rotations.
 If qualia are aligned with the brain, the angle of the lifeticle field corresponds to the brain; if misaligned, the angle does not match the brain.
 If the location of qualia is set by a parameter, the angle of the lifeticle field may not align with the brain and can be rotated, shifted sideways, or flipped.
+Maintaining the angle of the lifeticle requires separate functionality, which suggests that the coordinate of qualia is most likely set by a parameter, not a spatial coordinate.  
+The direction of the qualia field is similar to the spin of a particle.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/rotation.png" width="250">
 
