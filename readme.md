@@ -647,8 +647,7 @@ If we assume that the lifeticle is in the atom, there is a similarity between qu
 6) The atom's spin is similar to the direction of the qualia field
 7) It seems like a solution to the problem of pointwise binding
 
-The problem is that we represent the wave function as the qualia field and how the transmission of information about qualia occurs, 
-the maximum number of simultaneously experienced 10 types positive/negative qualia, due to the 6 energy levels of electrons in carbon and additional 4 in ion (if the lifeticle is in carbon).
+The problem is that we represent the wave function as the qualia field and how the transmission of information about qualia occurs.
 
 **Time flow**
 
