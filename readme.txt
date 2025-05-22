@@ -38,7 +38,7 @@ then, as with the organism, division can continue, and the other particles will 
 
 The highest electrical activity in the brain occurs in the reticular formation (which persists even during sleep).
 The reticular formation is one of the ancient part of the brain from an evolutionary point of view.
-The central part of the brain is either the reticular formation itself, the periaqueductal gray matter (where streams from other areas converge) or a neighboring area.
+The central part of the brain is either the reticular formation, the periaqueductal gray matter (where streams from other areas converge) or a neighboring area.
 Without the brain's electrical activity, a person feels nothing.
 Qualia cannot be expressed through anything else, which means it is something fundamental.
 If the lifeticle does not exist, there is nothing on which to converge the signals of the holistically formed picture of the world (qualia of vision, eye images, and other sensory organs) can converge,
