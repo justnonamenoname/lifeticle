@@ -902,7 +902,7 @@ This may indicate that Wolfram's theory is incorrect.
 If the qualia field is three-dimensional, it is poorly connected with Wolfram's theory:
 In Wolfram's theory, space can have any number of dimensions.
 Either the qualia field is compatible only with a specific form of hypergraph space, or the theory is incorrect.
-This may also require two separate entities for space - hypergraph space and qualia space.
+This may also require two separate spaces - hypergraph space and qualia space.
 
 **CEMI theory**
 
