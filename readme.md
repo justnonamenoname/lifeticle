@@ -463,7 +463,7 @@ The wave function/quantum entanglement seems like a solution to this.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/point.png">
 
-**The methods of qualia**
+**Qualia methods**
 
 Suggested possible structural methods for generating qualia-there are several options:
 1) It can be imagined that electrical activity near the lifeticle serves as a generator.
