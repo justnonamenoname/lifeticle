@@ -418,7 +418,7 @@ Aspects of phenomenal consciousness
 
 Qualia-brain connection
 
-The problem of pointwise binding
+Pointwise binding problem
 
 The problem of binding means that signals for qualia must converge on a single particle.
 If the signals do not converge but are merely located close to each other at the atomic level, then they are not bound.
