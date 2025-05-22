@@ -446,7 +446,7 @@ The method corresponds to the CEMI theory.
 
 Transition from point to circle
 
-The minimum size of qualia in an image - the smaller the size of a point in the image, the more points are needed to generate the image.
+The minimum size of qualia in an image - the smaller the size of a point in the image, the more points are needed to generate the it.
 This may mean that the point of the image has size parameter, and the point has the shape of a circle, or some other way of forming a volume.
 This may imply that the qualia of the image looks like to have more information than what is used for the generation itself.
 A circle has more information than a point with a radius.
