@@ -33,7 +33,7 @@ What are you in the brain? The answer is: the carrier of consciousness can only 
 It is not possible to choose multiple particles, as they are separate particles.
 This means that in the brain, any particle can be replaced with an identical one, and you wouldn’t notice a difference.
 But if the central particle is replaced, your "self," being removed from the brain, would cease to feel anything.
-The central particle is indivisible - if we assume that the central particle is composed of several parts,
+The lifeticle is indivisible - if we assume that the central particle is composed of several parts,
 then, as with the organism, division can continue, and the other particles will be external to the central one.
 
 The highest electrical activity in the brain occurs in the reticular formation (which persists even during sleep).
