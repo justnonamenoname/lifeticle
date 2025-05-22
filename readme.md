@@ -847,8 +847,7 @@ As a counterargument, the function of lifeticle attachment is automatic.
 The fact that the lifeticle has physical properties in some way brings the world/reality and consciousness closer together,
  which may raise the question of whether elementary particles are alive.
 The theory is compatible with panpsychism concerning elementary particles, provided this does not contradict quantum field theory.
-In a completed physical theory, the phenomenon of qualia must be present.
-Either a lifeticle particle must be discovered, or the property of qualia must be defined as a characteristic of an elementary particle.
+In a completed physical theory, the phenomenon of qualia must be present, either a lifeticle particle must be discovered, or the property of qualia must be defined as a characteristic of an elementary particle.
 
 **Philosophical zombie**
 
