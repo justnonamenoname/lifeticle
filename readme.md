@@ -895,5 +895,4 @@ This may also require two separate entities for space - hypergraph space and qua
 
 **CEMI theory**
 
-In the electromagnetic theory of consciousness (CEMI), there is no receiver for qualia/lifeticles.
-However, this does not imply that the theory is incorrect.
+For the correctness of the theory, information must be transferred to the quantum level, the receiver of which must be the lifeticle.
