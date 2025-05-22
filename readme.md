@@ -340,7 +340,7 @@ The theory is a direct consequence of the organism's structure.
 In studying the brain, one must start from the principle of maximum divisibility, 
 meaning that the brain consists of indivisible particles and that the carrier of consciousness is located somewhere in the brain (further details in the necessity of a consciousness carrier in fundamentality).
 To disprove the theory, it is necessary, for example, to prove: 
-That particles disappear upon death, or that we are in a virtual reality, or that there is a moment of death and flying angels are indeed arriving.
+That particles disappear upon death, or that we are in a virtual reality, or that there is a moment of death and undiscovered angels really arrive.
 
 **Orch OR theory**
 
