@@ -759,7 +759,7 @@ and there are no reasons for such complexity; the idea is evolutionarily improba
 The problem of indivisible structure
 
 An image can disappear, which means it is not part of the lifeticle but rather some external functionality.
-And the lifeticle itself has an influence on the world.
+And the lifeticle exerts a reverse influence.
 Such a particle appears to resemble a kind of micro-brain with its own functionality - otherwise, it wouldn't work, and this creates the problem of indivisible structure.
 This problem also exists in elementary particles: an electron has properties such as momentum (direction and speed), charge, spin, interactions with other particles, etc.
 If an elementary particle had no properties, it would exist without interacting with the world and would not be part of it.
