@@ -562,6 +562,7 @@ The correct question may be: not what physical law creates qualia, but what law 
 Thus information alone could not create pain, it could be set by spin, for example.
 The strength of pain must depend on the number of signals, otherwise it would be possible to set any level of pain only by a parameter.
 How the information for qualia is encoded will be explored when studying the qualia generator.
+Since the size of the point of the visual image is nonzero, this means that we are directly observing wave functions.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/decode.png" width="150">
 
