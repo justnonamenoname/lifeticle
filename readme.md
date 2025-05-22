@@ -321,7 +321,7 @@ Do not touch it directly.
 Keep the room ventilated to prevent CO2 from accumulating and displacing oxygen.  
 When transporting it in a vehicle, the container should be placed in the trunk, windows should be slightly open, and delivery is recommended.  
 Dry ice must not be placed in an airtight container.  
-Dry ice should only be disposed of in a well-ventilated area or an open outdoor space.  
+Dry ice should only be disposed of in a well-ventilated area or an open outdoor space, do not dispose by pouring water over it.
 
 ---
 
