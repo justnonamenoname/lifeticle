@@ -870,12 +870,6 @@ The diameter of the universe is at least 40 times larger than the observable uni
 If it is infinite, then the number of subjects would also be unlimited.
 The question of whether other universes exist is equivalent to asking whether there is more space with matter somewhere else in the universe if its size is finite.
 
-**Size of the lifeticle**
-
-If we assume that the lifeticle has a form other than that of a particle, for example, if it is 1 cm in size, it is still attached to something in the organism.
-This is equivalent to the idea that an atom has its own internal space the size of a kilometer.
-This again leads to the idea of a central particle.
-
 ---
 
 ### Incompatibility with other theories
