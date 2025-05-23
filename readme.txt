@@ -708,7 +708,8 @@ The meaning of life
 A violation of the internal causal chain in the existence of the lifeticle: if there were an external cause for its creation, 
 this would imply that the lifeticle already exists, i.e., it is its own cause for existence - as if it created itself, which is a paradox.
 This also means that it cannot not exist.
-This also answers the question of the meaning of life: the purpose of the lifticle’s creation is the meaning of life, but since the lifticle’s existence is a paradox, 
+This also answers the question of the meaning of life.
+The purpose of the lifticle’s creation is the meaning of life, but since the lifticle’s existence is a paradox, 
 the meaning of life lies in the paradox.
 At the same time, there are directions of life: happiness/positive qualia, pain/negative qualia, and "zero eternity".
 
