@@ -753,8 +753,8 @@ The same question applies to the early universe in the first hundreds of thousan
 Multiplicity of consciousness
 
 The idea of multiple consciousnesses, where many lifeticles exist in the brain and experience the same qualia, requires identical qualia to be generated for several lifeticles.
-This idea is structurally more complex, both in terms of evolution and considering the influence of the lifeticle itself, 
-and there are no reasons for such complexity; the idea is evolutionarily improbable.
+This idea is structurally more complex, both in terms of evolution and considering the influence of the lifeticle itself.
+There are no reasons for such complexity; the idea is evolutionarily improbable.
 
 The problem of indivisible structure
 
