@@ -718,7 +718,7 @@ In the status of death, it might be indicated: central particle/lifeticle: saved
 
 The fate of the lifeticle
 
-If the deceased could not be cryonized upon death, their ashes can be scattered either on the ground or at sea.
+If the deceased could not be cryonized upon death, their ashes can be scattered either on the ground or into the sea.
 It is preferable to scatter the ashes on land, 
 as the probability of being reborn as a terrestrial life form is higher than as an aquatic one - likely a comparison of one in a million to one in a billion.
 However, the lifeticle may potentially escape in the smoke during cremation, creating ambiguity in this recommendation.
