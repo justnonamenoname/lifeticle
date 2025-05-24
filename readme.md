@@ -48,7 +48,7 @@ Without the brain's electrical activity, a person feels nothing.
 Qualia cannot be expressed through anything else, which means it is something fundamental.
 If the lifeticle does not exist, there is nothing on which to converge the signals of the holistically formed picture of the world (qualia of vision, eye images, and other sensory organs) can converge,
 creating a binding problem.
-The central particle can be described as a particle capable of qualia - this is its property, fundamentally distinct from the rest of the world,
+The lifeticle can be described as a particle capable of qualia - this is its property, fundamentally distinct from the rest of the world,
 and this is life: a living particle (life + particle - lifeticle, lt).
 
 To the question of whether there can be another life after death, the answer is: if after death there is nonexistence, then nonexistence already existed before birth.
