@@ -815,6 +815,32 @@ The question of whether other universes exist is equivalent to asking whether th
 
 ========================
 
+A comparison of theories of phenomenal consciousness
+
+1) Compatibility with the principle of locality
+2) Solution the binding problem
+3) Size of the qualia point
+4) Number of frames
+5) The physical impact of qualia
+6) The question of non-existence before birth
+7) The question of being in this or another brain
+8) Particle-by-particle brain replacement question
+
+IIT and information theories: 1- 2- 3- 4- 5- 6- 7- 8-
+CEMI: 1+- 2+- 3+ 4- 5+- 6- 7- 8-
+Orch OR: 1+ 2+- 3+ 4+ 5+ 6- 7- 8-
+LT: 1+ 2+ 3+ 4+ 5+ 6+ 7+ 8+
+
+Clarification +-
+CEMI:
+1) Limiting binding to the speed of light
+2) Lack of boundary definition
+5) Absence of physical influence depending on the version and violation of the law of conservation of energy in case of influence
+Orch OR:
+2) No model of signal convergence qualia or central division for signals, but not inconsistent with solving the binding problem
+
+========================
+
 Incompatibility with other theories
 
 Everett's many-worlds interpretation
