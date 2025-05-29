@@ -400,6 +400,7 @@ If two brains have two identical emergent carriers of consciousness, then we aga
 If particles are replaced with others having the same emergence, the carrier of consciousness would stop receiving qualia, which contradicts the idea of emergence.
 Emergence is about properties that can be obtained through modeling. The identity of the consciousness carrier is not about properties, but about what physically constitutes the carrier.  
 Qualia have a parameter of location; qualia possess a space where the carrier of consciousness resides at the center.  
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/position.png">  
 To say that particles with qualia properties do not exist is to say that an organism does not consist of particles, or that qualia does not exist or is not related to particles.
 An organism consists of particles, and the phenomenon of qualia exists - one must necessarily be connected to the other. The theory does not introduce something new, but connects one thing with another.  
 The fundamentality of qualia implies that the capacity to experience qualia is likewise fundamental.  
