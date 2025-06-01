@@ -645,20 +645,6 @@ In fact, it is the opposite - metal as a tool was used in the process of evoluti
 
 For information, there are qualia, and this complicates the concept of information.
 
-**Qualia similarity example**
-
-An example of a physical phenomenon resembling qualia
-If we assume that the lifeticle is in the atom, there is a similarity between qualia and the electron:
-1) Correspondence of the wave function with the qualia field
-2) The electron's energy is the strength of qualia
-3) The electron's spin is the positive/negative qualia
-4) The spin influences the emitted radiation, photons are particle's influence on the world
-5) The minimum energy level corresponds to the absence of qualia
-6) The atom's spin is similar to the direction of the qualia field
-7) It seems like a solution to the problem of pointwise binding
-
-The problem is that we represent the wave function as the qualia field and how the transmission of information about qualia occurs.
-
 **Time flow**
 
 It is possible that in the state of death, there may be activity around the lifeticle that generates qualia, 
