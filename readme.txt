@@ -552,7 +552,7 @@ In addition to color itself, there is also brightness and distance in the percep
 This raises the question of what other types of sensations are available besides the basic organs.
 Music can also create sensations/impressions that have not been experienced before, and they are not repeated elsewhere.
 The organism is evolutionarily limited; for example, sharper vision leads to the brain having to process more information, 
-which is more complex, requires more attention, and reduces reaction speed.
+which is more complex, requires more attention, and slows reaction speed.
 Similarly, enhanced hearing would require more brain power.
 A dog's excellent sense of smell helps it find food, while an eagle's sharp vision assists it in this task.
 The question is divided into two parts: what sensations and of what strength the brain is capable of generating, 
