@@ -706,7 +706,7 @@ Status
 
 In the status of death, it might be indicated: central particle/lifeticle: saved/lost.
 
-The fate of the lifeticle
+Fate of the lifeticle
 
 If the deceased could not be cryonized upon death, their ashes can be scattered either on the ground or into the sea.
 It is preferable to scatter the ashes on land, 
