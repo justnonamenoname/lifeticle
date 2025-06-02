@@ -188,7 +188,7 @@ Therefore, the future after death is highly unclear and ambiguous; it represents
 
 ### What's cryonics? 
 
-Cryonics is a technology of freezing an organism to -196 degrees Celsius.
+Cryonics is a technology of freezing an organism to -196 degrees Celsius in a capsule.
 After freezing, this allows the organism to be preserved in its original form for hundreds of years.
 In October 2022, a baby girl was born using an embryo that had been stored in a cryobank for 30 years.
 If we look back 200 years ago, technology was far less advanced,
