@@ -247,7 +247,7 @@ If it is accepted as correct, there will be no reason to think otherwise.
 Once adopted, society will not deviate from it.
 Only discoveries in the field of physics can refine this concept.
 The lifeticle must have physical properties; otherwise, it could not maintain its position during motion.
-And scientists of the future may, within the next few hundred years, come closer to uncovering the mystery of consciousness and they will answer the questions posed in the theory.
+And in the future, scientists may be able to come closer to the mystery of consciousness and the question of the central particle, and answer the questions posed in the theory.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/8.png" width="250">
 
