@@ -557,6 +557,8 @@ Similarly, enhanced hearing would require more brain power.
 A dog's excellent sense of smell helps it find food, while an eagle's sharp vision assists it in this task.
 The question is divided into two parts: what sensations and of what strength the brain is capable of generating, 
 and what types are generally possible, and whether their number is limited.
+This may mean that the potential for happiness and its diversity has not been revealed.
+The study of the qualia generator is a path to the revelation of the potential of happiness.
 
 Self
 
