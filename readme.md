@@ -331,13 +331,13 @@ Dry ice should only be disposed of in a well-ventilated area or an open outdoor 
 **Experimental methods**
 
 Experimental methods for confirming the theory in the study of the brain:
-1) The streams for qualia must converge on a single particle using the method of qualia generation (further details in connection between qualia and the brain).
+1) The streams for qualia must converge on a single particle using the method of qualia generation (the issue is discussed in connection between qualia and the brain).
 2) The effect of the lifeticle and information about qualia on the brain.
 3) The lifeticle must not be replaced by something else throughout life.
 
 The theory is a direct consequence of the organism's structure.
 In studying the brain, one must start from the principle of maximum divisibility, 
-meaning that the brain consists of indivisible particles and that the carrier of consciousness is located somewhere in the brain (further details in the necessity of a consciousness carrier in fundamentality).
+meaning that the brain consists of indivisible particles and that the carrier of consciousness is located somewhere in the brain (the issue is discussed in the necessity of a consciousness carrier in fundamentality).
 To disprove the theory, it is necessary, for example, to prove: 
 That particles disappear at death, or that we are in a virtual reality, or that there is a moment of death and undiscovered angels really arrive.  
 The law of conservation of energy and the circulation of particles in nature lead to the main idea of the theory - the possibility of a next birth.
@@ -349,9 +349,9 @@ The question: what happens if the brain's particles end up in different brains o
 Quantum theory The Orch OR theory (Orchestrated Objective Reduction) by Penrose and Hameroff makes several parallels to the lifeticle theory:
 1) Phenomenal consciousness is not located in neurons, but is related to quantum phenomena.
 2) The second method of generating qualia.
-3) A solution to the problem of pointwise binding (further details in connection between qualia and the brain)
-4) A solution to the problem of the speed of time (further details in connection between qualia and the brain)
-5) A solution of information transition from a point with radius to a circle (further details in the section of qualia-brain connection)
+3) A solution to the problem of pointwise binding (the issue is discussed in connection between qualia and the brain)
+4) A solution to the problem of the speed of time (the issue is discussed in connection between qualia and the brain)
+5) A solution of information transition from a point with radius to a circle (the issue is discussed in the section of qualia-brain connection)
 
 Supporters of the quantum theory of consciousness also include Federico Faggin and Giacomo Mauro D'Ariano.
 
@@ -360,7 +360,7 @@ Supporters of the quantum theory of consciousness also include Federico Faggin a
 The electromagnetic CEMI theory makes certain correspondences/similarities with the lifeticle theory:
 1) Phenomenal consciousness is not located in neurons.
 2) The 3rd method of generating qualia.
-3) The similarity of the informational transition from a point with a radius to a circle (further details in connection between qualia and the brain)
+3) The similarity of the informational transition from a point with a radius to a circle (the issue is discussed in connection between qualia and the brain)
 
 **Fundamentality**
 
@@ -377,7 +377,7 @@ otherwise, a binding problem arises, which makes the issue of emergence meaningl
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/bind.png" width="400">  
 The properties of emergence can be obtained by modeling, for example: knowing the properties of a water molecule, by modeling a multitude of molecules, 
 we can obtain the properties of water.  
-The problem of pointwise binding requires a separate law, which also points to the fundamentality of qualia (further details in connection between qualia and the brain).  
+The problem of pointwise binding requires a separate law, which also points to the fundamentality of qualia (the issue is discussed in connection between qualia and the brain).  
 If we find a neuron that contains information about a red color point, then the question arises: why does this lead to the color red?
 Without introducing qualia as a separate entity, it cannot be avoided.  
 The fact that the brain is divided into regions, and that these regions influence qualia generation, 
