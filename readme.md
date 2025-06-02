@@ -495,7 +495,7 @@ Some qualia are connected to others. This indicates a complex structure of quali
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/round.png">
 
-**The speed of time**
+**Speed of time**
 
 The speed of the passage of time cannot be set for sensations, as the speed of time is common for them and cannot be different at the same time.
 However, if it is set by a separate signal, then without the signal, the speed is not chosen.
@@ -638,7 +638,7 @@ It can be concluded that different people receiving the same signals for these q
 Therefore, the answer to the question - does one person see blue as blue and red as red like another person - is most likely yes, at least there is no reason to think otherwise.
 Examining feedback can clarify the question
 
-**The connection between evolution and qualia**
+**Connection between evolution and qualia**
 
 To say that qualia appeared evolutionarily is the same as saying that metal in the body was created for the organism evolutionarily.
 In fact, it is the opposite - metal as a tool was used in the process of evolution in construction.
@@ -753,7 +753,7 @@ This highlights the importance of creating an organization to monitor artificial
 The term "Life" lacks a precise definition and will be redefined.
 "Life" will signify the presence of an active subject/phenomenal consciousness/so-called observer/lifticle. Without it, an organism will be referred to as a biorobot.
 
-**The meaning of life**
+**Meaning of life**
 
 A violation of the internal causal chain in the existence of the lifeticle: if there were an external cause for its creation, 
 this would imply that the lifeticle already exists, i.e., it is its own cause for existence - as if it created itself, which is a paradox.
@@ -769,7 +769,7 @@ At the same time, there are directions of life: happiness/positive qualia, pain/
 
 In the status of death, it might be indicated: central particle/lifeticle: saved/lost.
 
-**The fate of the lifeticle**
+**Fate of the lifeticle**
 
 If the deceased could not be cryonized upon death, their ashes can be scattered either on the ground or into the sea.
 It is preferable to scatter the ashes on land, 
@@ -792,7 +792,7 @@ In this case, the lifeticle does not need to be moved to appear in the brain dur
 It is more complex for the lifeticle to end up in the brain through the process of evolutionary brain development.
 However, if it were located within an atom, this additional complexity would be unneeded.
 
-**The ship of theseus**
+**Ship of theseus**
 
 The problem of the Ship of Theseus lies only in the fact that we define what we call a "ship".
 From a physics perspective, when planks are transferred to another ship, it would be correct to say that one ship is 80% the Ship of Theseus, and the other is 20%.
@@ -813,7 +813,7 @@ The idea of multiple consciousnesses, where many lifeticles exist in the brain a
 This idea is structurally more complex, both in terms of evolution and considering the influence of the lifeticle itself.
 There are no reasons for such complexity; the idea is evolutionarily improbable.
 
-**The problem of indivisible structure**
+**Problem of indivisible structure**
 
 An image can disappear, which means it is not part of the lifeticle but rather some external functionality.
 And the lifeticle exerts a reverse influence.
@@ -843,7 +843,7 @@ In a completed physical theory, the phenomenon of qualia must be present, either
 
 A philosophical zombie is not physically identical to a human since it lacks the lifeticle, which has physical properties.
 
-**The beginning of existence**
+**Beginning of existence**
 
 If the moment when the lifeticle begins to exist is neither the moment of birth nor during the nine months of pregnancy, then what moment could it be?
 In reverse time, it cannot be infinite - that would be a paradox: no matter how far back time is rewound, there would still be more time remaining.
