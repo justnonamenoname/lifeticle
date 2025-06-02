@@ -31,7 +31,7 @@ You are the particle in the brain that feels - the so-called observer (lifeticle
 The brain is not an indivisible object; it is made up of indivisible particles.
 What are you in the brain? The answer is: the carrier of consciousness can only be a single indivisible particle.
 It is not possible to choose multiple particles, as they are separate particles.
-This means that in the brain, any particle can be replaced with an identical one, and you wouldn’t notice a difference.
+This means that in the brain, any particle can be replaced with an identical one, and you wouldn't notice a difference.
 But if the central particle is replaced, your "self," being removed from the brain, would cease to feel anything.
 The lifeticle is indivisible - if we assume that the central particle is composed of several parts,
 then, as with the organism, division can continue, and the other particles will be external to the central one.
@@ -66,7 +66,7 @@ If we consider the moment of loss of consciousness, a person can feel nothing du
 Theoretically, recovery is possible from any level (not referring to technical feasibility at this time).
 One might assume death as the separation of surrounding atoms from the central particle, but for whom or for what, and why should this be defined as death?
 If in a religious sense, and there are flying angels watching over this process, what happens if they fail to oversee it? But there is no reason to believe such angels exist.
-If we are in a virtual reality, then the computer in the base reality must oversee this, but what if it doesn’t?
+If we are in a virtual reality, then the computer in the base reality must oversee this, but what if it doesn't?
 But in base reality, we could question - are we in a virtual reality?
 This question leads nowhere and makes discussions meaningless.
 This means there is no physical moment of death.
@@ -185,12 +185,12 @@ The same kind of progress will happen 200 years from now - future technologies w
 Technology is limited only by the laws of physics. For example, a doctor cannot be instantly transported from Saturn - movement itself is limited by speed.
 This is an opportunity.
 And potentially, an opportunity for life without a time limit.
-After a person’s death, they should be preserved through cryonics, not buried or cremated, scattering their particles indiscriminately.
+After a person's death, they should be preserved through cryonics, not buried or cremated, scattering their particles indiscriminately.
 Cryonics centers should exist in cities.
 In the event of an animal's death, if there is no cryonics center in the city, it can be frozen for later transport to another city.
 Within a week, neuronal degradation will not cause any displacement; the brain will remain sealed.
 
-And you wouldn’t want to be born, or have your relatives be born, as a grasshopper or something worse.
+And you wouldn't want to be born, or have your relatives be born, as a grasshopper or something worse.
 If there were certainty about the positivity of the next life, there would be no need to worry about it so much.
 Denying cryonics to the deceased is a rejection of a life lasting hundreds of years in favor of vast uncertainty.
 Cryonics becomes a moral obligation.
@@ -316,7 +316,7 @@ To disprove the theory, it is necessary, for example, to prove:
 That particles disappear at death, or that we are in a virtual reality, or that there is a moment of death and undiscovered angels really arrive.
 The law of conservation of energy and the circulation of particles in nature lead to the main idea of the theory - the possibility of a next birth.
 To refute it, it is necessary to refute either the law of conservation of energy or the circulation of particles.
-The question: what happens if the brain’s particles end up in different brains of other organisms, leads to the idea of the consciousness carrier as a single particle.
+The question: what happens if the brain's particles end up in different brains of other organisms, leads to the idea of the consciousness carrier as a single particle.
 
 Orch OR theory
 
@@ -354,7 +354,7 @@ Without introducing qualia as a separate entity, it cannot be avoided.
 The fact that the brain is divided into regions, and that these regions influence qualia generation, 
 does not contradict the existence of signal convergence for qualia to a central point - whose absence leads to the binding problem.
 The functional aspects of the brain belong to the "Easy Problem of Consciousness"/"Access Consciousness".
-To say qualia don’t exist as a distinct phenomenon and based on information is equivalent in meaning to claiming a monitor resides in a processor.
+To say qualia don't exist as a distinct phenomenon and based on information is equivalent in meaning to claiming a monitor resides in a processor.
 The non-existence of qualia would mean humans have no visual perception, no auditory experience, no pain sensation - this constitutes a dead state, 
 where the organism operates without phenomenal consciousness.
 Qualia are not something separate, they are connected to the carrier of consciousness.
@@ -385,7 +385,7 @@ A car moves without an external force - based on this, we develop a theory about
 Knowing the law of energy conservation, we assume that the engine requires energy.
 Knowing atoms and that a single atom cannot perform this function, we assume that the engine consists of many atoms.
 Knowing the car's weight, we can estimate its energy consumption at a given speed.
-From the maximum speed or acceleration, we can roughly estimate the engine’s power.
+From the maximum speed or acceleration, we can roughly estimate the engine's power.
 From the sound, we can infer the engine type.
 What would disprove the engine theory?
 A contradiction of what is already known - such as a violation of the law of energy conservation or the idea that the car moves by magic.
@@ -554,7 +554,7 @@ Music can also create sensations/impressions that have not been experienced befo
 The organism is evolutionarily limited; for example, sharper vision leads to the brain having to process more information, 
 which is more complex, requires more attention, and reduces reaction speed.
 Similarly, enhanced hearing would require more brain power.
-A dog’s excellent sense of smell helps it find food, while an eagle’s sharp vision assists it in this task.
+A dog's excellent sense of smell helps it find food, while an eagle's sharp vision assists it in this task.
 The question is divided into two parts: what sensations and of what strength the brain is capable of generating, 
 and what types are generally possible, and whether their number is limited.
 
@@ -648,7 +648,7 @@ The image sent from the eye: its left part on the left, the right part on the ri
 You can close your eyes and visualize this.
 You can shift it to the right - then the left part will be in the center, the central part on the right, and the right part sideways to the right.
 The fact that qualia have a position means that the field qualia possesses a direction that has a center.
-If the position of qualia is determined by the position in space, the rotation angles of the lifeticle field’s direction must be maintained in accordance with spatial rotations.
+If the position of qualia is determined by the position in space, the rotation angles of the lifeticle field's direction must be maintained in accordance with spatial rotations.
 If qualia are aligned with the brain, the angle of the lifeticle field corresponds to the brain; if misaligned, the angle does not match the brain.
 If the location of qualia is set by a parameter, the angle of the lifeticle field may not align with the brain and can be rotated, shifted sideways, or flipped.
 Maintaining the angle of the lifeticle requires separate functionality, which suggests that the coordinate of qualia is most likely set by a parameter, not a spatial coordinate.
@@ -664,7 +664,7 @@ as if there are two size parameters - height and width - while the third paramet
 
 ========================
 
-Link between qualia and universe’s fate
+Link between qualia and universe's fate
 
 Robots
 
@@ -696,7 +696,7 @@ A violation of the internal causal chain in the existence of the lifeticle: if t
 this would imply that the lifeticle already exists, i.e., it is its own cause for existence - as if it created itself, which is a paradox.
 This also means that it cannot not exist.
 This also answers the question of the meaning of life.
-The purpose of the lifticle’s creation is the meaning of life, but since the lifticle’s existence is a paradox, 
+The purpose of the lifticle's creation is the meaning of life, but since the lifticle's existence is a paradox, 
 the meaning of life lies in the paradox.
 At the same time, there are directions of life: happiness/positive qualia, pain/negative qualia, and "zero eternity".
 
@@ -751,7 +751,7 @@ And the lifeticle exerts a reverse influence.
 Such a particle appears to resemble a kind of micro-brain with its own functionality - otherwise, it wouldn't work, and this creates the problem of indivisible structure.
 This problem also exists in elementary particles: an electron has properties such as momentum (direction and speed), charge, spin, interactions with other particles, etc.
 If an elementary particle had no properties, it would exist without interacting with the world and would not be part of it.
-In Wolfram’s theory, the elements of the hypergraph, from which elementary particles are composed, also have multiple properties.
+In Wolfram's theory, the elements of the hypergraph, from which elementary particles are composed, also have multiple properties.
 Perhaps this is a fundamental requirement; otherwise, reality would not form.
 
 Elementary particles
