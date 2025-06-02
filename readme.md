@@ -454,7 +454,7 @@ The theory of phenomenal consciousness must answer these questions, and the answ
 
 **Pointwise binding problem**
 
-The problem of binding means that signals for qualia must converge on a single particle.
+The binding problem means that signals for qualia must converge on a single particle.
 If the signals do not converge but are merely located close to each other at the atomic level, then they are not bound.
 The visual information from the eye - it has a left part and a right part, and they seem to be separate, but if they were truly separate, we would again face the binding problem.
 This can be called the problem of pointwise binding.
