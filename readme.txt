@@ -804,6 +804,13 @@ The question of whether other universes exist is equivalent to asking whether th
 
 ========================
 
+Formula
+
+Preliminary general formula of qualia:
+|ψqualia⟩ = ∑(i,j,...)cij...(|vision(i)⟩⊗|sound(j)⟩⊗...)
+
+========================
+
 A comparison of theories of phenomenal consciousness
 
 1) Compatibility with the principle of locality
