@@ -745,6 +745,10 @@ Multiplicity of consciousness
 The idea of multiple consciousnesses, where many lifeticles exist in the brain and experience the same qualia, requires identical qualia to be generated for several lifeticles.
 This idea is structurally more complex, both in terms of evolution and considering the influence of the lifeticle itself.
 There are no reasons for such complexity; the idea is evolutionarily improbable.
+If the recipient of the wave function is particles that are part of the wave function, then it is different at different moments, 
+both in the type and in the quantity of qualia, and therefore in the number of participating particles.
+Then some lifeticles would live life only during certain qualia, for example, only when there is a specific pain, which looks self-contradictory.
+The variant in which several lifeticles are the recipients is possible, but also redundant and evolutionarily complex.
 
 Problem of indivisible structure
 
