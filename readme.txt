@@ -815,16 +815,16 @@ Preliminary general formula of qualia:
 
 ========================
 
-A comparison of theories of phenomenal consciousness
+Phenomenal consciousness theory comparison
 
 1) Compatibility with the principle of locality
 2) Solution the binding problem
 3) Size of the qualia point
 4) Number of frames
-5) The physical impact of qualia
+5) Physical influence of qualia
 6) The question of non-existence before birth
 7) The question of being in this or another brain
-8) Particle-by-particle brain replacement question
+8) The question of brain replacement by particles
 
 IIT and information theories: 1- 2- 3- 4- 5- 6- 7- 8-
 CEMI: 1+- 2+- 3+ 4- 5+- 6- 7- 8-
