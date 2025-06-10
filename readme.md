@@ -882,7 +882,7 @@ Preliminary general formula of qualia:
 
 ---
 
-### A comparison of theories of phenomenal consciousness
+### Phenomenal consciousness theory comparison
 
 |                                                 | IIT and inf. theories | CEMI  | Orch OR | Lifeticle |
 | :---:                                           | :---:                 | :---: | :---:   | :---:     |
@@ -890,10 +890,10 @@ Preliminary general formula of qualia:
 | Solution the binding problem                    | -                     | +-    | +-      | `+`       |
 | Size of the qualia point                        | -                     | `+`   | `+`     | `+`       |
 | Number of frames                                | -                     | -     | `+`     | `+`       |
-| The physical impact of qualia                   | -                     | +-    | `+`     | `+`       |
+| Physical influence of qualia                    | -                     | +-    | `+`     | `+`       |
 | The question of non-existence before birth      | -                     | -     | -       | `+`       |
 | The question of being in this or another brain  | -                     | -     | -       | `+`       |
-| Particle-by-particle brain replacement question | -                     | -     | -       | `+`       |
+| The question of brain replacement by particles  | -                     | -     | -       | `+`       |
 
 Clarification +-
 
