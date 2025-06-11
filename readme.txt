@@ -808,10 +808,17 @@ The question of whether other universes exist is equivalent to asking whether th
 
 ========================
 
-Formula
+Formulas
 
-Preliminary general formula of qualia:
-|ψqualia⟩ = ∑(i,j,...)cij...(|vision(i)⟩⊗|sound(j)⟩⊗...)
+General formula of qualia:
+|ψqualia⟩ = ∑(i,j,...)cij...(|vision_i⟩⊗|sound_j⟩⊗...)
+
+Vision
+|ψvision⟩ = i[1,N]∑energy_i*|color_i⟩⊗|2d coordinate_i⟩⊗|size_i⟩⊗|distance_i⟩⊗...
+
+Brightness level depends on the energy level
+
+|color⟩ = red|red range⟩+green|green range⟩+blue|blue range⟩+...
 
 ========================
 
