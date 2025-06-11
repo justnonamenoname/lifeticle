@@ -883,7 +883,7 @@ General formula of qualia:
 
 Vision
 
-|ψvision⟩ = i[1,N]∑energy<sub>i</sub>⋅|color<sub>i</sub>⟩⊗|2d coordinate<sub>i</sub>⟩⊗|size<sub>i</sub>⟩⊗|distance<sub>i</sub>⟩⊗...
+|ψ<sub>vision</sub>⟩ = i[1,N]∑energy<sub>i</sub>⋅|color<sub>i</sub>⟩⊗|2d coordinate<sub>i</sub>⟩⊗|size<sub>i</sub>⟩⊗|distance<sub>i</sub>⟩⊗...
 
 Brightness level depends on the energy level
 
