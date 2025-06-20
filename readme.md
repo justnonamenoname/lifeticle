@@ -720,6 +720,7 @@ The question pertains not to the brain, but to the very nature of qualia.
 At the same time, the image layer does not appear as something that occupies volume, 
 as if there are two size parameters - height and width - while the third parameter, depth, is absent.
 
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/layerposition.png">
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/layer.png" width="250">
 
 ---
