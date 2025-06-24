@@ -935,6 +935,8 @@ Orch OR:
 ru.wikipedia.org/wiki/Проблема_связывания
 ru.wikipedia.org/wiki/Трудная_проблема_сознания
 ru.wikipedia.org/wiki/Разрыв_в_объяснении
+ru.wikipedia.org/wiki/Квалиа
+ru.wikipedia.org/wiki/Крионика
 ru.wikipedia.org/wiki/Квантовое_сознание
 ru.wikipedia.org/wiki/Электромагнитные_теории_сознания
 ru.wikipedia.org/wiki/Теория_интегрированной_информации
@@ -944,4 +946,12 @@ ru.wikipedia.org/wiki/Тёмная_материя
 ru.wikipedia.org/wiki/Тёмная_энергия
 ru.wikipedia.org/wiki/Расширение_Вселенной
 ru.wikipedia.org/wiki/Многомировая_интерпретация
+ru.wikipedia.org/wiki/Закон_сохранения_энергии
+ru.wikipedia.org/wiki/Микротрубочки
+ru.wikipedia.org/wiki/Волновая_функция
+ru.wikipedia.org/wiki/Интерпретация_квантовой_механики
+ru.wikipedia.org/wiki/Квантовая_запутанность
+ru.wikipedia.org/wiki/Квантовая_механика
+ru.wikipedia.org/wiki/Гильбертово_пространство
+ru.wikipedia.org/wiki/Постоянная_Планка
 Теория Вольфрама habr.com/ru/articles/649483
