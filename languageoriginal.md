@@ -1003,6 +1003,7 @@ Orch OR:
 
 ### Ссылки на связанные темы  
 <a href="ru.wikipedia.org/wiki/Проблема_связывания">http://ru.wikipedia.org/wiki/Проблема_связывания</a>    
+<a href="ru.wikipedia.org/wiki/Принцип_локальности">http://ru.wikipedia.org/wiki/Принцип_локальности</a>   
 <a href="ru.wikipedia.org/wiki/Трудная_проблема_сознания">http://ru.wikipedia.org/wiki/Трудная_проблема_сознания</a>    
 <a href="ru.wikipedia.org/wiki/Разрыв_в_объяснении">http://ru.wikipedia.org/wiki/Разрыв_в_объяснении</a>    
 <a href="ru.wikipedia.org/wiki/Квалиа">http://ru.wikipedia.org/wiki/Квалиа</a>    
@@ -1010,7 +1011,6 @@ Orch OR:
 <a href="ru.wikipedia.org/wiki/Квантовое_сознание">http://ru.wikipedia.org/wiki/Квантовое_сознание</a>    
 <a href="ru.wikipedia.org/wiki/Электромагнитные_теории_сознания">http://ru.wikipedia.org/wiki/Электромагнитные_теории_сознания</a>   
 <a href="ru.wikipedia.org/wiki/Теория_интегрированной_информации">http://ru.wikipedia.org/wiki/Теория_интегрированной_информации</a>   
-<a href="ru.wikipedia.org/wiki/Принцип_локальности">http://ru.wikipedia.org/wiki/Принцип_локальности</a>   
 <a href="ru.wikipedia.org/wiki/Философский_зомби">http://ru.wikipedia.org/wiki/Философский_зомби</a>    
 <a href="ru.wikipedia.org/wiki/Эмерджентность">http://ru.wikipedia.org/wiki/Эмерджентность</a>   
 <a href="ru.wikipedia.org/wiki/Тёмная_материя">http://ru.wikipedia.org/wiki/Тёмная_материя</a>    
