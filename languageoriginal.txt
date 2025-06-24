@@ -933,6 +933,7 @@ Orch OR:
 
 Ссылки на связанные темы
 ru.wikipedia.org/wiki/Проблема_связывания
+ru.wikipedia.org/wiki/Принцип_локальности
 ru.wikipedia.org/wiki/Трудная_проблема_сознания
 ru.wikipedia.org/wiki/Разрыв_в_объяснении
 ru.wikipedia.org/wiki/Квалиа
@@ -940,7 +941,6 @@ ru.wikipedia.org/wiki/Крионика
 ru.wikipedia.org/wiki/Квантовое_сознание
 ru.wikipedia.org/wiki/Электромагнитные_теории_сознания
 ru.wikipedia.org/wiki/Теория_интегрированной_информации
-ru.wikipedia.org/wiki/Принцип_локальности
 ru.wikipedia.org/wiki/Философский_зомби
 ru.wikipedia.org/wiki/Эмерджентность
 ru.wikipedia.org/wiki/Тёмная_материя
