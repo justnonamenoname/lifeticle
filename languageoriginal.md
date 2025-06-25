@@ -1035,5 +1035,6 @@ Orch OR:
 <a href="ru.wikipedia.org/wiki/Квантовая_запутанность">http://ru.wikipedia.org/wiki/Квантовая_запутанность</a>   
 <a href="ru.wikipedia.org/wiki/Квантовая_механика">http://ru.wikipedia.org/wiki/Квантовая_механика</a>   
 <a href="ru.wikipedia.org/wiki/Гильбертово_пространство">http://ru.wikipedia.org/wiki/Гильбертово_пространство</a>   
+<a href="ru.wikipedia.org/wiki/Теорема_о_запрете_клонирования">http://ru.wikipedia.org/wiki/Теорема_о_запрете_клонирования</a>   
 <a href="ru.wikipedia.org/wiki/Постоянная_Планка">http://ru.wikipedia.org/wiki/Постоянная_Планка</a>   
 Теория Вольфрама <a href="habr.com/ru/articles/649483/">http://habr.com/ru/articles/649483/</a>  
