@@ -965,5 +965,6 @@ ru.wikipedia.org/wiki/Интерпретация_квантовой_механи
 ru.wikipedia.org/wiki/Квантовая_запутанность
 ru.wikipedia.org/wiki/Квантовая_механика
 ru.wikipedia.org/wiki/Гильбертово_пространство
+ru.wikipedia.org/wiki/Теорема_о_запрете_клонирования
 ru.wikipedia.org/wiki/Постоянная_Планка
 Теория Вольфрама habr.com/ru/articles/649483
