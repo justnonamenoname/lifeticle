@@ -279,10 +279,10 @@ If the organism was not brought to a cryocenter before death, the body must be p
 In the case of limbs, they should be tucked in; ears should be pressed to the head.
 If there is no cryocenter nearby, the organism must be prepared for transportation:
 1) Wrap the organism in cloth. Place it in a plastic bag
-2) If the transfer to the cryocenter will take no more than a few days, place the organism in a refrigerator at no lower than 1°C to prevent the formation of ice crystals
+2) If there are no more than a few days before transfer to the cryocenter, place the organism in a refrigerator at a temperature of 2 degrees, but not lower than 1 degree, to avoid the formation of ice crystals
 3) If the transfer will take longer than a few days, purchase dry ice (read the safety instructions)
-4) If there is no insulated container available, use thermal insulation tape inside the container
-5) Use smaller dry ice pellets to reduce pressure on the organism
+4) If the container is not thermally insulated, apply insulation tape to the inside
+5) Dry ice pellets must be smaller to avoid exerting pressure on the organism and to ensure even cooling
 6) Surround the organism with dry ice inside the container
 7) Check the dry ice daily and replenish it if necessary
 8) If dry ice is unavailable, place the organism in a freezer below 0°C at the lowest possible temperature
@@ -372,7 +372,9 @@ An organism consists of particles, and the phenomenon of qualia exists - one mus
 The fundamentality of qualia implies that the capacity to experience qualia is likewise fundamental.
 Quantum uncertainty is fundamental and cannot be replicated informally.
 To say that qualia can be replicated informationally is equivalent in meaning to the idea that quantum uncertainty can be replicated informationally.
-From the impossibility of explaining qualia by other phenomena arose "The Hard Problem of Consciousness" and "The Explanation Gap".
+To say that qualia appeared evolutionarily is the same as saying that metal in the body was created for the organism evolutionarily.
+In fact, it is the opposite - metal as a tool was used in the process of evolution in construction.
+The Hard "Problem of Consciousness" and the "Explanatory Gap" arose from the inability to explain qualia through other phenomena.
 
 Theory example
 
@@ -396,16 +398,14 @@ if the sensation and the so-called observer exist.
 Detecting a lifeticle will lead to the question: how do we understand that it has the qualia property and it is a lifeticle?
 Research the convergence of signals for qualia will help to figure this out.
 The reasons why there are reasons to consider the lifeticle to exist are:
-1) Addressing the issue of non-existence before birth
-2) Addressing the issue of living in this brain and not another brain
-3) If one considers that sound and visual image signals converge on different particles, then either one or the other would be perceived
-4) If one considers that there is no particle, then the carrier of consciousness is the qualia generator, the multiplicity of particles leads to the problem that they are separate particles
-5) Solving the problem of replacing the brain by particles
-6) The problem of temporal binding, why qualia in the past, continue to be felt in the future
+1) Solution to the question of non-being before birth
+2) Solution to the question of living in this brain and not another
+3) If we assume that the signals of sound and visual image converge on different particles, then either one or the other would be perceived
+4) If we assume that there is no particle, then the carrier of consciousness is the generator of qualia; the multitude of particles leads to the problem that these are separate particles
+5) Solution to the question of brain replacement by particles
+6) The problem of temporal binding - why qualia from the past continue to be felt in the future
 7) The fundamentality of qualia points to the fundamentality of the property of experiencing qualia, which cannot be emergent or composite and is a property of an indivisible particle
-8) The reverse influence of qualia is related to quantum laws, this itself points to a particle
-9) The point binding problem is solved by quantum processes
-10) The transition from point and radius to circle is solved by quantum processes
+8) The reverse influence of qualia is connected with quantum laws, this by itself points to a particle
 The theory of phenomenal consciousness must answer these questions, and the answers to them lead to the theory of the lifeticle.
 
 ========================
@@ -426,18 +426,18 @@ The wave function/quantum entanglement seems like a solution to this.
 
 Qualia methods
 
-Suggested possible structural methods for generating qualia-there are several options:
 1) It can be imagined that electrical activity near the lifeticle serves as a generator.
 The visual image from the eye, in terms of the amount of information, not only has an enormous size in megapixels and megabytes, but also has depth and brightness.
 To generate the image, signals must transmit information at a megabit speed.
 This creates a simultaneity problem; the time of the event must also be transmitted, and the method is not the same in the reverse direction of time.
+This contradicts the fact that an atom cannot store a lot of different information, however in this case a law of qualia is assumed that allows to bypass this.
 It does not resolve the speed issue and leads to the overlap of qualia.
+It is not realistic and is provided only as an example of a search.
 2) Particles are quantumly entangled with each other, and the electrical activity around them creates qualia in them, which is felt by the lifeticle connected to them.
 The method corresponds to the Orch OR theory (Orchestrated Objective Reduction) by Penrose and Hameroff.
 In Orch OR, the issue of speed is addressed through frames caused by the collapse of the wave function.
 3) Field.
 Must transmit information to the quantum level to generate.
-The size of the field depends on how the information is transmitted.
 The method corresponds to the CEMI theory.
 
 Transition from point to circle
@@ -446,7 +446,7 @@ The minimum size of qualia in an image - the smaller the size of a point in the 
 This may mean that the point of the image has size parameter, and the point has the shape of a circle, or some other way of forming a volume.
 This may imply that the qualia of the image looks like to have more information than what is used for the generation itself.
 A circle has more information than a point with a radius.
-The transition can be resolved by the wave function and the CEMI theory, which corresponds to the third method of qualia generation.
+The transition can be resolved by the wave function.
 Part of the image may have the form of a volume of an object, and individual points of the image are linked to the volumetric form.
 Some qualia are connected to others. This indicates a complex structure of qualia and its generation.
 
@@ -459,7 +459,6 @@ There remains an option where speed is set by the number of frames, a method use
 If the frames of the image and sound were separate, it would lead to flickering of both the image and the sound. But this appears as a violation of continuity.
 Smoothness in the passage of time occurs either by an instantaneous skip of time without qualia, or by a separate method.
 To remove information from a superposition, a collapse is required; in order for some qualia not to exist in the next second, collapse is a necessary condition.
-The 1st method of qualia generation does not solve this question.
 
 Reverse influence
 
@@ -468,9 +467,9 @@ If we take the life particle and a random surrounding world that generates rando
 there would be no reason for a positively perceived structure to develop without the life particle influencing the world.
 This means that the lifeticle can influence its surroundings and transmit information.
 If it is assumed that reverse influence lies behind non-random processes, then these processes could be modeled,
-but then the existence of qualia could be known without qualia itself, and qualia would not exert backward influence.
+but then the existence of qualia could be known without qualia itself, and qualia would not exert reverse influence.
 This means that qualia cannot stand behind non-random processes and is connected to random quantum ones.
-2 possible variants of backward influence on random quantum processes:
+2 possible variants of reverse influence on random quantum processes:
 1) Not at the moment of sensation, but later
 2) At the moment of sensation, it can be assumed that in the case of negative qualia, the stronger the pain, the stronger the influence on random quantum processes.
 Physicists may begin to hypothesize about which quantum phenomenon this reverse influence could be.
@@ -506,7 +505,6 @@ Information about the sensation of color is stored in the brain, and the brain, 
 It is possible to transmit qualia in another way.
 The chain [Light waves - eyes - brain - generator - qualia]
 is replaced by [Simulation of the process in the brain - generator - qualia].
-The generator transmits information to the quantum level.
 This would mean that one could know what it is like to be another living organism - for example, a bat.
 
 Problem of encoding
@@ -584,11 +582,6 @@ The structures of qualia of images and sounds are different.
 It can be concluded that different people receiving the same signals for these qualia structurally see and hear the same.
 Therefore, the answer to the question - does one person see blue as blue and red as red like another person - is most likely yes, at least there is no reason to think otherwise.
 Examining feedback can clarify the question
-
-Connection between evolution and qualia
-
-To say that qualia appeared evolutionarily is the same as saying that metal in the body was created for the organism evolutionarily.
-In fact, it is the opposite - metal as a tool was used in the process of evolution in construction.
 
 Information
 
@@ -713,7 +706,7 @@ If the organism was not cryonized and if physical laws permit and the theory is 
 
 Biorobots
 
-The answer to the question of what a lifeticle is and how qualia are triggered will also answer the question of whether viruses or biorobots are considered alive.
+The answer to what a lifeticle is and how qualia are generated will also determine whether viruses are considered alive or biorobots.
 
 Atom
 
@@ -760,7 +753,6 @@ Elementary particles
 
 When questioning what the lifeticle is, one might ask: are the actions of elementary particles actually living actions rather than automatic ones? Several points argue against this.
 They perform actions, but phenomenal consciousness does not perform any such actions.
-Quarks are far too small relative to atoms, which are likely the level at which qualia generation occurs.
 Space itself is something.
 It is difficult to imagine that the elements composing space are alive, or that qualia could be directed to such elements.
 Qualia appear as a non-living, automatic mechanism.
@@ -821,7 +813,7 @@ Brightness level depends on the energy level
 Phenomenal consciousness theory comparison
 
 1) Compatibility with the principle of locality
-2) Solution the binding problem
+2) Solution to the binding problem
 3) Size of the qualia point
 4) Number of frames
 5) Physical influence of qualia
@@ -836,7 +828,7 @@ LT: 1+ 2+ 3+ 4+ 5+ 6+ 7+ 8+
 
 Clarification +-
 CEMI:
-1) Limiting binding to the speed of light
+1) Binding limited by the speed of light
 2) Lack of boundary definition
 5) Absence of physical influence depending on the version and violation of the law of conservation of energy in case of influence
 Orch OR:
@@ -856,15 +848,14 @@ or lifeticles do not exist in other worlds, which requires that when worlds spli
 
 Wolfram's theory
 
-The hypergraph elements in Wolfram's theory are too small relative to the size of an atom to be the main particle of an organism.
-In that case, apart from the hypergraph, there must also be life particles that attach to the organism,
-but they cannot attach to elements of the hypergraph that are too small.
+The elements of the hypergraph in Wolfram's theory are too small compared to the size of an atom to serve as the main particle of an organism.
+So in addition to the hypergraph, there must be life particles that attach to the organism but cannot attach to elements of the hypergraph that are too small.
 This may indicate that Wolfram's theory is incorrect.
 
-If the qualia field is three-dimensional, it is poorly connected with Wolfram's theory:
+If the qualia field is three-dimensional, it fits poorly with the space of Wolfram's theory:
 In Wolfram's theory, space can have any number of dimensions.
-Either the qualia field is compatible only with a specific form of hypergraph space, or the theory is incorrect.
-This may also require two separate spaces - hypergraph space and qualia space.
+Either the qualia field is compatible only with a certain form of hypergraph space, or the theory is incorrect.
+This may also require two separate spaces - the hypergraph space and the qualia space.
 
 CEMI theory
 
