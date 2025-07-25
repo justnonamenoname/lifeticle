@@ -7,7 +7,7 @@ Lifeticle is a particle that acts as a subject, the so-called observer in the br
 The lifeticle remains in the brain after its death.
 Phenomenal consciousness is the sum of sensations/qualia. Other brain functions are not part of phenomenal consciousness.
 
-Survival
+Part 1. Survival
 Necessity of cryonics
 
 Lifeticle's existence
@@ -250,7 +250,7 @@ In memory of J.
 
 ========================
 
-Cryonics
+Part 2. Cryonics
 
 Economic problem
 
@@ -298,7 +298,7 @@ Dry ice should only be disposed of in a well-ventilated area or an open outdoor 
 
 ========================
 
-Verification
+Part 3. Verification
 
 Experimental methods
 
@@ -410,7 +410,7 @@ The theory of phenomenal consciousness must answer these questions, and the answ
 
 ========================
 
-Aspects of phenomenal consciousness
+Part 4. Aspects of phenomenal consciousness
 
 Qualia-brain connection
 
