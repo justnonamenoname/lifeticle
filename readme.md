@@ -422,8 +422,8 @@ A contradiction of what is already known - such as a violation of the law of ene
 **Proof problem**
 
 Dark matter is considered proven, even though there has been no direct detection.
-The problem with the lifeticle is that the ways of detecting qualia property is unknown.
-It is problematic to prove the existence of another fundamental entity.
+The problem in the case of the lifeticle is that the way to detect the property of qualia is unknown.
+It is problematic to prove the existence of another fundamental phenomenon.
 This is known from the position of the lifeticle itself - the very sensation of visual information without the sensation of "yourself" is only possible 
 if the sensation and the so-called observer exist.  
 Detecting a lifeticle will lead to the question: how do we understand that it has the qualia property and it is a lifeticle?  
@@ -481,7 +481,7 @@ The method corresponds to the CEMI theory.
 
 **Size of qualia**
 
-The minimum size of qualia in an image - the smaller the size of a point in the image, the more points are needed to generate the it.
+The minimum size of qualia in an image - the smaller the size of a point in the image, the more points are needed to generate it.
 This may mean that the point of the image has size parameter, and the point has the shape of a circle, or some other way of forming a volume.
 This may imply that the qualia of the image looks like to have more information than what is used for the generation itself.
 A circle has more information than a point with a radius.
@@ -507,13 +507,17 @@ If the lifeticle could not transmit information into the world, a person would n
 If we take the life particle and a random surrounding world that generates random sensations,
 there would be no reason for a positively perceived structure to develop without the life particle influencing the world.
 This means that the lifeticle can influence its surroundings and transmit information.
+If initially the direction of the feedback from pain was random, then a random mutation that causes avoidance to increase the chance of survival would be fixed in DNA, reinforcing the effect.
+This may be the reason why phenomenal consciousness became fixed in evolution.
+The information sent to the qualia generator cannot be identical to the information about the existence of qualia transmitted through feedback; otherwise, it would be impossible to learn about the existence of qualia.
 If it is assumed that reverse influence lies behind non-random processes, then these processes could be modeled,
 but then the existence of qualia could be known without qualia itself, and qualia would not exert reverse influence.
 This means that qualia cannot stand behind non-random processes and is connected to random quantum ones.
 2 possible variants of reverse influence on random quantum processes:
 1) Not at the moment of sensation, but later
-2) At the moment of sensation, it can be assumed that in the case of negative qualia, the stronger the pain, the stronger the influence on random quantum processes.
+2) At the moment of sensation, the influence of qualia on the collapse of the wave function
 
+Determining whether free will exists at the level of the lifeticle is only possible by studying reverse influence.
 Physicists may begin to hypothesize about which quantum phenomenon this reverse influence could be.
 
 **Search for qualia**
