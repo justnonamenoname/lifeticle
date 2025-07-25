@@ -400,7 +400,7 @@ Qualia have a parameter of location; qualia possess a space where the carrier of
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/position.png">  
 To say that particles with qualia properties do not exist is to say that an organism does not consist of particles, or that qualia does not exist or is not related to particles.
 An organism consists of particles, and the phenomenon of qualia exists - one must necessarily be connected to the other. The theory does not introduce something new, but connects one thing with another.  
-The fundamentality of qualia implies that the capacity to experience qualia is likewise fundamental.  
+The fundamentality of qualia means that the ability to experience qualia is also fundamental.
 Quantum uncertainty is fundamental and cannot be replicated informally.  
 To say that qualia can be replicated informationally is equivalent in meaning to the idea that quantum uncertainty can be replicated informationally.   
 To say that qualia appeared evolutionarily is the same as saying that metal in the body was created for the organism evolutionarily.
@@ -428,7 +428,7 @@ This is known from the position of the lifeticle itself - the very sensation of 
 if the sensation and the so-called observer exist.  
 Detecting a lifeticle will lead to the question: how do we understand that it has the qualia property and it is a lifeticle?  
 Research the convergence of signals for qualia will help to figure this out.  
-The reasons why there are reasons to consider the lifeticle to exist are:
+Reasons why there are grounds to consider the lifeticle as existing:
 1) Solution to the question of non-being before birth
 2) Solution to the question of living in this brain and not another
 3) If we assume that the signals of sound and visual image converge on different particles, then either one or the other would be perceived
@@ -479,7 +479,7 @@ Must transmit information to the quantum level to generate.
 The method corresponds to the CEMI theory.
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/method3.png">
 
-**Transition from point to circle**
+**Size of qualia**
 
 The minimum size of qualia in an image - the smaller the size of a point in the image, the more points are needed to generate the it.
 This may mean that the point of the image has size parameter, and the point has the shape of a circle, or some other way of forming a volume.
@@ -630,7 +630,7 @@ and considering it from a scientific perspective can lead to the development of 
 The structures of qualia of images and sounds are different.
 It can be concluded that different people receiving the same signals for these qualia structurally see and hear the same.
 Therefore, the answer to the question - does one person see blue as blue and red as red like another person - is most likely yes, at least there is no reason to think otherwise.
-Examining feedback can clarify the question
+The information that is transferred during the reverse influence will help to clarify the question.
 
 **Information**
 
@@ -670,7 +670,7 @@ instead a signal comes from the leg to the brain
 It can be assumed that they operate at the atomic level, for example: a distance of 1 meter is 1 thousandth of an atom, 
 a sensation at a distance of a kilometer is at a distance of an atom.
 In this case, you cannot feel anything further than a kilometer.
-Qualia have a real spatial location, but the size of this is very small, qualia are smaller than a molecule.
+Qualia have a real spatial location, but their size is extremely small - comparable to that of a molecule.
 As you grow older, objects are felt to be of a different size, and even if there is a separate area of space around the lifeticle and the sizes of sensations are larger, 
 then they still do not correspond to real sizes, but are relative.
 Furthermore, one's own spatial domain is a more complex structure.
@@ -684,7 +684,7 @@ Qualia space may be connected to real space.
 This may mean that qualia cannot participate in 4-dimensional space.
 Space can be distorted according to the theory of relativity. How is this related to qualia space?
 1) The qualia field has its own internal space
-2) The qualia field itself is distorted along with the distortion of space, and for example, a huge gravitational wave can distort the image.
+2) The qualia field itself is distorted along with the distortion of space; for example, a massive gravitational wave can distort the image
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/wave.png">
 
 **Angle of rotation**
@@ -761,7 +761,7 @@ In the status of death, it might be indicated: central particle/lifeticle: saved
 
 **Fate of the lifeticle**
 
-If the deceased could not be cryonized upon death, their ashes can be scattered either on the ground or into the sea.
+If the deceased could not be cryonized, their ashes can be scattered either on the ground or into the sea.
 It is preferable to scatter the ashes on land, 
 as the probability of being reborn as a terrestrial life form is higher than as an aquatic one - likely a comparison of one in a million to one in a billion.
 However, the lifeticle may potentially escape in the smoke during cremation, creating ambiguity in this recommendation.
@@ -791,9 +791,9 @@ In the case of a living organism, the key factor is the subject (the main partic
 **Stars**
 
 Carbon atoms are synthesized in stars.  
-If the lifeticle is inside an atom or was in stars for other reason, and if the star's environment generates qualia for the lifeticle, 
-then there may have already been quasi-life within the stars with a random and unknown level of qualia.  
-The same question applies to the early universe in the first hundreds of thousands of years before the epoch of primordial recombination, when the universe became transparent to electromagnetic radiation.
+If the lifeticle is located in an atom or was in a star for some other reason, and if the star's environment generates qualia for the lifeticle, 
+then we have already had "lives" inside stars with random and unknown levels of qualia.
+A similar question applies to the early universe - the first hundreds of thousands of years before the epoch of recombination, when the universe became transparent to electromagnetic radiation.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/star.png" width="150">
 
@@ -829,7 +829,7 @@ If we are in a virtual reality, this applies to the base reality as well - life 
 As a counterargument, the function of lifeticle attachment is automatic.
 The fact that the lifeticle has physical properties in some way brings the world/reality and consciousness closer together, 
 which may raise the question of whether elementary particles are alive.
-The theory is compatible with panpsychism concerning elementary particles, provided this does not contradict quantum field theory.
+The theory is compatible with panpsychism in relation to elementary particles, if this does not contradict quantum field theory, since particles are based on fields.
 In a completed physical theory, the phenomenon of qualia must be present, either a lifeticle particle must be discovered, or the property of qualia must be defined as a characteristic of an elementary particle.
 
 **Philosophical zombie**
@@ -842,8 +842,8 @@ If the moment when the lifeticle begins to exist is neither the moment of birth 
 In reverse time, it cannot be infinite - that would be a paradox: no matter how far back time is rewound, there would still be more time remaining.
 But this would also mean that an infinite amount of time has already passed, which is impossible.
 The answer implies that the universe has a beginning of time, and one might assume that this is also the beginning of the lifeticle's existence.
-The moment of beginning at birth makes no sense, since the organism is constructed from particles that already existed before; 
-birth is simply the movement of certain atoms/particles from one position to another.
+The moment of beginning at birth makes no sense, since the organism is built from particles that existed previously;
+birth is merely the relocation of specific atoms or particles from one position to another.
 Some physicists suggest that in reverse time, time itself is circular at its origin, making it potentially infinite - it loops back on itself.
 In one direction, there is a starting point, while in the other, an endless circular loop.
 Such an idea somewhat addresses the question of the universe's starting point in time.
