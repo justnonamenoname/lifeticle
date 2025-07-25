@@ -60,7 +60,7 @@ The possibility of being born a first time implies the possibility of being born
 
 ---
 
-### The moment of death
+### Moment of death
 
 For a person, death occurs at the moment of loss of consciousness, but even after this moment, a person can still be resuscitated.
 Death is currently considered to be the destruction of brain cells due to a lack of oxygen.
@@ -84,6 +84,7 @@ Then after death, a new life is possible.
 The idea of the lifeticle implies that reverse transplantation is possible.
 If physical laws allow it, the lifeticle can be taken from a dying organism and placed into another one, and its life will continue.
 This provides an unlimited lifespan.
+
 It is possible that life for the lifeticle happens once every million, or even billion, years.
 The longer the time, the greater the chance of being born again.
 But there is a huge problem - there remains the possibility of pain and unhappiness.
@@ -102,7 +103,7 @@ Such robots could endlessly grow humans in incubators and inflict pain on them.
 On the planet, there are already species evolving in relation to each other - one species changes to efficiently eat the other,
 while the other evolves to protect itself from being eaten.
 This is hell.
-It is unlikely that after the emergence of intelligent life on Earth, evolution will lead to its re-emergence again from scratch.
+It is unlikely that after intelligent life has emerged on Earth, evolution will lead to its re-emergence again from scratch.
 Humans with technology will be able to modify other species so they no longer engage in the struggle for survival, so one species does not eat another.
 To end the suffering of other species, to stop the existing hell for those who experience it, so that being born as another species would not evoke fear.
 Even if humanity goes extinct, other species could evolve over millions of years, with the exception of the complete destruction of life conditions on the planet.
@@ -113,7 +114,7 @@ This line of reasoning suggests that freedom allows one to leave paradise for he
 One could attempt to explain to robots that life is a distinct form of matter, whose laws are of primary importance.
 However, there is no reason why robots would be obligated to follow these laws.  
 Such hell could persist until the environment's destruction.
-This is billions of years - unless robots relocate to another planet when our sun dies or until matter itself decays, or until the universe's contraction phase, if the universe is cyclical.
+This is billions of years - unless robots relocate to another planet when our sun dies - or until matter itself decays, or until the universe's contraction phase, if the universe is cyclical.
 
 In the future, an organization might be established to prevent a descent into a non-free hell.
 A virtual reality could be constructed where, in the base reality, people are confined to virtual reality with no means of escape.
@@ -130,7 +131,6 @@ But there may also be another external factor - alien life.
 The possibility that aliens could be hostile requires the development of the most powerful weapons, even during peaceful times.
 The most powerful weapon would be self-replicating robots that travel to neighboring planets and create copies of themselves.
 The speed of their spread increases geometrically, and in a million years, they could completely colonize the galaxy.
-
 These robots would not necessarily attack alien life; their purpose could be defensive. Such robots could restrict the development of alien life.
 Aliens could also create such robots, but theirs might be offensive.
 Humans might think: if aliens can create such a weapon, then humans should create it too.
@@ -138,9 +138,9 @@ Aliens might think the same: if another form of life can create such a weapon, t
 And if we start creating them now, it still might not be enough.
 Enemy robots could outnumber ours, and aliens could use such weapons to destroy life on our planet.
 If physics allows for a superluminal drive, then such robots likely do not yet exist; otherwise, they would already be here.
-Even if life has not originated on another planet in this galaxy, it might have originated in a neighboring galaxy.
+Even if life did not originate on another planet in this galaxy, it might have originated in a neighboring one.
 This risk might mean that humans should fill this galaxy and neighboring galaxies with robots.
-But this could leave alien life in a blocked state if humans go extinct, and potentially lead to the creation of hostile entities.
+But this could leave alien life in a locked state if humanity goes extinct, potentially leading to the creation of offensive systems.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/3.png" width="250">
 
@@ -148,10 +148,8 @@ But this could leave alien life in a blocked state if humans go extinct, and pot
 
 What if the universe in the future can no longer sustain life or generate qualia for the lifeticle?
 
-One such variant may be dark energy.
-
-In the distant future, dark energy will accelerate the expansion of space so much that atomic structures will no longer be able to hold themselves together.
-This marks a time when life will become impossible, and the universe will either enter eternal expansion, experience the complete disintegration of matter in the scenario of the Big Rip.
+One of such variants is the variant of dark energy, in which in the distant future dark energy will start expanding space more and more strongly, and so strongly that atomic structures will no longer be able to hold themselves together. 
+It is a time when life will no longer be possible, and the universe will enter eternal expansion.
 Since there is no such electronic activity around the lifeticle after death as there is in the brain, nothing is felt after death, and the next life begins instantly.
 Even if millions of years have passed.
 If nothing is felt, then this time effectively does not exist for you.
@@ -165,7 +163,7 @@ An infinity passing instantly? This is impossible; time would still remain.
 This leads to a paradox, and therefore a mystery.
 At the same time, there is no moment where one could definitively say that the situation has closed and some change must have occurred.
 
-If dark energy and the universe have cycles of expansion and contraction, the next life will inevitably begin.
+If dark energy and the universe go through cycles of expansion and contraction, then the next life will inevitably begin.
 And the paradox is not encountered.
 
 The mystery seems unsolvable, and it is unclear whether any discoveries in physics will help resolve it.
@@ -188,16 +186,15 @@ Therefore, the future after death is highly unclear and ambiguous; it represents
 
 ### What's cryonics? 
 
-Cryonics is a technology of freezing an organism to -196 degrees Celsius in a capsule.
+Cryonics is a technology for freezing an organism to -196 degrees Celsius in a capsule.
 After freezing, this allows the organism to be preserved in its original form for hundreds of years.
-In October 2022, a baby girl was born using an embryo that had been stored in a cryobank for 30 years.
 If we look back 200 years ago, technology was far less advanced,
 and 500 years ago, the difference was even greater.
 The same kind of progress will happen 200 years from now - future technologies will be highly advanced, and what about 500 years from now?
 Technology is limited only by the laws of physics. For example, a doctor cannot be instantly transported from Saturn - movement itself is limited by speed.  
 This is an opportunity.  
 And potentially, an opportunity for life without a time limit.  
-After a person's death, they should be preserved through cryonics, not buried or cremated, scattering their particles indiscriminately.
+And when a person dies, they should be cryopreserved, not buried or cremated, scattering their main particle - the carrier of consciousness - anywhere.
 Cryonics centers should exist in cities.
 In the event of an animal's death, if there is no cryonics center in the city, it can be frozen for later transport to another city.
 Within a week, neuronal degradation will not cause any displacement; the brain will remain sealed.
@@ -219,11 +216,11 @@ Structurally, consciousness in the brain consists of:
 3) Qualia includes the sense of "self"
 4) Lifeticle - the real "self"
 
-Brain structural integrity in cryonics may potentially be secondary.
+The integrity of the brain in cryonics may, perhaps, be secondary.
 Only brain hermeticity is essential.
-The key question is whether the lifeticle can be located and what it constitutes.
-It could be either some form of dark matter or something entirely unknown.
-If multiple lifeticles exist in the brain, it may become impossible to determine which one was primary and "alive" (the others being inactive in this case).
+The question is whether the lifeticle can be found and what it actually is.
+It could be a form of dark matter or something entirely unknown.
+If there are many lifeticles in the brain, it may be impossible to determine which one was primary and alive (the others may have been inactive).
 
 ---
 
@@ -231,7 +228,7 @@ If multiple lifeticles exist in the brain, it may become impossible to determine
 
 Can answers be found in religion?
 
-Religious organizations will not answer the questions raised in this article, as they do not engage with, discuss, or study such ideas.
+Religious organizations will not answer the questions raised in the article - they show no interest, do not discuss, and do not study such ideas.
 The mere fact that they have no connection to telescopes and no calls to study the world using them is enough to reduce their opinions to zero.
 They are not interested in the world and science; they are only interested in their cult.
 The fact that the moment of death does not exist also invalidates the concept of a religious paradise.
@@ -254,9 +251,9 @@ And in the future, scientists may be able to come closer to the mystery of consc
 At one time, people struggled to understand the motion of planets, and there were various ideas.
 When the correct understanding of their motion was established, other ideas fell away as less accurate.
 It is unclear why the idea of the lifeticle did not become the main focus earlier. It is simpler, and in some ways, even more banal, in contrast to the absurd notion of flying angels and a religious paradise.
-If the human body is made of something, then that something does not disappear after death and existed before birth.
+The human body is made of something, then that something does not disappear after death and existed before birth.
 If you, as a lifeticle, did not exist before your birth, then no matter what happened in the world, you could not have come to exist in it.
-A theory is important to know to the same degree as it's important to know what comes after death, and to the same degree as survival is important.
+It is as important to know the theory as it is to know what happens after death and to understand the importance of survival.
 
 In our time, cryonics should become the primary approach in matters of death.  
 Regardless of life extension technologies.
