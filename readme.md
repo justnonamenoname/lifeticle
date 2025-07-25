@@ -10,7 +10,7 @@ Phenomenal consciousness is the sum of sensations/qualia. Other brain functions 
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/1.png" width="250">
 
-## Survival
+## Part 1. Survival
 Necessity of cryonics
 
 ### Lifeticle's existence
@@ -267,7 +267,7 @@ In memory of J.
 
 ---
 
-## Cryonics
+## Part 2. Cryonics
 
 **Economic problem**
 
@@ -321,7 +321,7 @@ Dry ice should only be disposed of in a well-ventilated area or an open outdoor 
 
 ---
 
-## Verification
+## Part 3. Verification
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/verification.png" width="150">
 
@@ -442,7 +442,7 @@ The theory of phenomenal consciousness must answer these questions, and the answ
 
 ---
 
-## Aspects of phenomenal consciousness
+## Part 4. Aspects of phenomenal consciousness
 
 ### Qualia-brain connection
 
