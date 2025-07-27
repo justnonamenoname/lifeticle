@@ -27,7 +27,7 @@ If nothing from the body remains from when one was a child, then that body has b
 If the particles that made up the child were gathered again, one might assume that this would be you, not the one in the current body, but this is not the case.
 A complete brain replacement would mean that at some point during life, you would stop to experience anything, while another consciousness carrier would continue.
 Therefore, something remains - a certain central or core particle in the brain, which is the so-called observer (lifeticle).
-You are the particle in the brain that feels - the so-called observer (lifeticle).
+You are real "yourself" in the brain, particle that feels - the so-called observer (lifeticle).
 The brain is not an indivisible object; it is made up of indivisible particles.
 What are you in the brain? The answer is: the carrier of consciousness can only be a single indivisible particle.
 It is not possible to choose multiple particles, as they are separate particles.
@@ -53,6 +53,7 @@ What prevents the particles from assembling again in another form or similarly?
 Physical laws do not prohibit what has already happened according to these very same physical laws.
 In nature, there is a phenomenon known as the cycle of carbon and other elements.
 The possibility of being born a first time implies the possibility of being born a second time.
+And full impossibility of being born a second time logically implies the impossibility of being born even once, if there is no mechanism to distinguish one unique occurrence from another.
 
 ========================
 
@@ -68,7 +69,7 @@ One might assume death as the separation of surrounding atoms from the central p
 If in a religious sense, and there are flying angels watching over this process, what happens if they fail to oversee it? But there is no reason to believe such angels exist.
 If we are in a virtual reality, then the computer in the base reality must oversee this, but what if it doesn't?
 But in base reality, we could question - are we in a virtual reality?
-This question leads nowhere and makes discussions meaningless.
+What makes this question lead nowhere and be meaningless.
 This means there is no physical moment of death.
 Death is the disintegration of the organism.
 What the organism consists of continues to exist in the world.
@@ -109,7 +110,7 @@ A world in a state of hell is a world of non-freedom. A world in a state of para
 This line of reasoning suggests that freedom allows one to leave paradise for hell, but leaving hell is impossible.
 One could attempt to explain to robots that life is a distinct form of matter, whose laws are of primary importance.
 However, there is no reason why robots would be obligated to follow these laws.
-Such hell could persist until the environment's destruction.
+Such hell could persist until the destruction of the environment.
 This is billions of years - unless robots relocate to another planet when our sun dies - or until matter itself decays, or until the universe's contraction phase, if the universe is cyclical.
 
 In the future, an organization might be established to prevent a descent into a non-free hell.
@@ -176,7 +177,7 @@ What's cryonics?
 
 Cryonics is a technology for freezing an organism to -196 degrees Celsius in a capsule.
 After freezing, this allows the organism to be preserved in its original form for hundreds of years.
-If we look back 200 years ago, technology was far less advanced,
+If we look back - 200 years ago, technology was far less advanced,
 and 500 years ago, the difference was even greater.
 The same kind of progress will happen 200 years from now - future technologies will be highly advanced, and what about 500 years from now?
 Technology is limited only by the laws of physics. For example, a doctor cannot be instantly transported from Saturn - movement itself is limited by speed.
@@ -197,7 +198,6 @@ Cryonics becomes a moral obligation.
 Structure
 
 Structurally, consciousness in the brain consists of:
-
 1) A functional part of the brain without perception/sensations/qualia/phenomenal consciousness, includes memory
 2) Phenomenal consciousness - the sum of qualia
 3) Qualia includes the sense of "self"
@@ -275,8 +275,8 @@ These organizations may collaborate with cryonics companies to provide financial
 
 Actions upon death
 
-If the organism was not brought to a cryocenter before death, the body must be positioned straight upon death.
-In the case of limbs, they should be tucked in; ears should be pressed to the head.
+If the organism was not brought to a cryocenter before death, the body must be positioned straight upon death within half an hour.
+In the case of limbs, they should be tucked in; ears should be pressed to the head, bandage the paws and ears.
 If there is no cryocenter nearby, the organism must be prepared for transportation:
 1) Wrap the organism in cloth. Place it in a plastic bag
 2) If there are no more than a few days before transfer to the cryocenter, place the organism in a refrigerator at a temperature of 2 degrees, but not lower than 1 degree, to avoid the formation of ice crystals
@@ -294,7 +294,7 @@ Do not touch without protective gloves; with gloves, no longer than a few second
 Keep the room ventilated to prevent CO2 from accumulating and displacing oxygen.
 When transporting it in a vehicle, the container should be placed in the trunk, windows should be slightly open, and delivery is recommended.
 Dry ice must not be placed in an airtight container.
-Dry ice should only be disposed of in a well-ventilated area or an open outdoor space, do not dispose by pouring water over it..
+Dry ice should only be disposed of in a well-ventilated area or an open outdoor space, do not dispose by pouring water over it.
 
 ========================
 
@@ -303,9 +303,9 @@ Part 3. Verification
 Experimental methods
 
 Experimental methods for confirming the theory in the study of the brain:
-1) The streams for qualia must converge on a single particle using the method of qualia generation (the issue is discussed in the section on connection between qualia and the brain).
-2) The effect of the lifeticle and information about qualia on the brain.
-3) The lifeticle must not be replaced by something else throughout life.
+1) The streams for qualia must converge on a single particle through the method of quantum entanglement
+2) The effect of the lifeticle and information about qualia on the brain
+3) The lifeticle must not be replaced by something else throughout life
 The theory is a direct consequence of the organism's structure.
 In studying the brain, one must start from the principle of maximum divisibility, 
 meaning that the brain consists of indivisible particles and that the carrier of consciousness is located somewhere in the brain (the issue is discussed in the section on the necessity of a consciousness carrier in fundamentality).
@@ -335,7 +335,7 @@ The following steps must be completed for research:
 
 Orch OR theory
 
-Quantum theory The Orch OR theory (Orchestrated Objective Reduction) by Penrose and Hameroff makes several parallels to the lifeticle theory:
+The Orch OR theory of consciousness (Orchestrated Objective Reduction) by Penrose and Hameroff coincides with the lifeticle theory in several aspects:
 1) Phenomenal consciousness is not located in neurons, but is related to quantum phenomena
 2) The second method of generating qualia
 3) A solution to the problem of pointwise binding (the issue is discussed in the section on connection between qualia and the brain)
@@ -345,7 +345,7 @@ Supporters of the quantum theory of consciousness also include Federico Faggin a
 
 CEMI theory
 
-The electromagnetic CEMI theory makes certain correspondences/similarities with the lifeticle theory:
+The electromagnetic conscious CEMI theory (Conscious Electromagnetic Information) makes certain correspondences/similarities with the lifeticle theory:
 1) Phenomenal consciousness is not located in neurons
 2) The 3rd method of generating qualia
 3) Solving qualia size (the issue is discussed in the section on the connection between qualia and the brain)
@@ -363,12 +363,13 @@ If we assume that emergence can create qualia, then still, signals in the brain 
 otherwise, a binding problem arises, which makes the issue of emergence meaningless.
 The properties of emergence can be obtained by modeling, for example: knowing the properties of a water molecule, by modeling a multitude of molecules, 
 we can obtain the properties of water.
-The problem of pointwise binding requires a separate law, which also points to the fundamentality of qualia (the issue is discussed in the section on connection between qualia and the brain).
+The problem of pointwise binding requires a separate physical law, which also points to the fundamentality of qualia (the issue is discussed in the section on connection between qualia and the brain).
 If we find a neuron that contains information about a red color point, then the question arises: why does this lead to the color red?
 Without introducing qualia as a separate entity, it cannot be avoided.
 The fact that the brain is divided into regions, and that these regions influence qualia generation, 
 does not contradict the existence of signal convergence for qualia to a central point - whose absence leads to the binding problem.
-The functional aspects of the brain belong to the "Easy Problem of Consciousness"/"Access Consciousness".
+No separation of qualia across different parts of the brain was found.
+The functional aspects of the brain belong to the "easy problem of consciousness"/"access Consciousness".
 To say qualia don't exist as a distinct phenomenon and based on information is equivalent in meaning to claiming a monitor resides in a processor.
 The non-existence of qualia would mean humans have no visual perception, no auditory experience, no pain sensation - this constitutes a dead state, 
 where the organism operates without phenomenal consciousness.
@@ -378,12 +379,16 @@ Informational theories attempting to explain phenomenal consciousness do not ans
 this requires a physical connection with the brain, and a physical connection requires a physical object.
 Qualia without the so-called observer lead to the same problem - why do you live the life of this brain and not another?
 The absence of a so-called observer leads to the problem of temporal binding - why qualia experienced in the past continue to be felt in the future.
+The question includes both movement in space on a moving planet and connections between frames of phenomenal consciousness, including sleep and anesthesia.
 To say that the particle lifeticle, which is the carrier of consciousness, the so-called observer, 
 cannot exist is equivalent to saying that there is no carrier of consciousness in the collection of particles forming the brain.
 The idea of an emergent carrier of consciousness has problems: a contradiction in what would happen if some particle were replaced.
 If two brains have two identical emergent carriers of consciousness, then we again arrive at the brain selection problem.
 If particles are replaced with others having the same emergence, the carrier of consciousness would stop receiving qualia, which contradicts the idea of emergence.
 Emergence is about properties that can be obtained through modeling. The identity of the consciousness carrier is not about properties, but about what physically constitutes the carrier.
+The ability to create an identity implies the possibility of creating an identical one, which means no difference exists between them and leads to the problem of how the brain selects between them.
+The uniqueness of the lifeticle is fundamental, cannot be artificially generated, and is analogous to the no-cloning theorem.
+Without uniqueness, there would be no connection with the current brain, just as there is no connection with another brain that is not one’s own.
 Qualia have a parameter of location; qualia possess a space where the carrier of consciousness resides at the center.
 To say that particles with qualia properties do not exist is to say that an organism does not consist of particles, or that qualia does not exist or is not related to particles.
 An organism consists of particles, and the phenomenon of qualia exists - one must necessarily be connected to the other. The theory does not introduce something new, but connects one thing with another.
@@ -425,7 +430,6 @@ Reasons why there are grounds to consider the lifeticle as existing:
 6) The problem of temporal binding - why qualia from the past continue to be felt in the future
 7) The fundamentality of qualia points to the fundamentality of the property of experiencing qualia, which cannot be emergent or composite and is a property of an indivisible particle
 8) The problem of pointwise binding, size and reverse influence of qualia is related to quantum laws, which in itself points to a particle
-The theory of phenomenal consciousness must answer these questions, and the answers to them lead to the theory of the lifeticle.
 The theory of phenomenal consciousness must answer these questions, and the only known answers to them lead to the lifeticle model.
 
 ========================
@@ -437,7 +441,7 @@ Qualia-brain connection
 Pointwise binding problem
 
 The binding problem means that signals for qualia must converge on a single particle.
-If the signals do not converge but are merely located close to each other at the atomic level, then they are not bound.
+If the signals do not converge but are located close to each other at the atomic level, then they are not bound.
 The visual information from the eye - it has a left part and a right part, and they seem to be separate, but if they were truly separate, we would again face the binding problem.
 This can be called the problem of pointwise binding.
 The problem concerns both the binding of qualia to each other and their binding to the lifeticle.
@@ -453,7 +457,7 @@ This creates a simultaneity problem; the time of the event must also be transmit
 This contradicts the fact that an atom cannot store a lot of different information, however in this case a law of qualia is assumed that allows to bypass this.
 It does not resolve the speed issue and leads to the overlap of qualia.
 It is not realistic and is provided only as an example of a search.
-2) Particles are quantumly entangled with each other, and the electrical activity around them creates qualia in them, which is felt by the lifeticle connected to them.
+2) Particles are quantumly entangled with each other, the electrical activity around them creates qualia in them, which is felt by the lifeticle connected to them.
 The method corresponds to the Orch OR theory (Orchestrated Objective Reduction) by Penrose and Hameroff.
 In Orch OR, the issue of speed is addressed through frames caused by the collapse of the wave function.
 3) Field.
@@ -463,8 +467,8 @@ The method corresponds to the CEMI theory.
 Size of qualia
 
 The minimum size of qualia in an image - the smaller the size of a point in the image, the more points are needed to generate it.
-This may mean that the point of the image has size parameter, and the point has the shape of a circle, or some other way of forming a volume.
-This may imply that the qualia of the image looks like to have more information than what is used for the generation itself.
+This means that the image point has a size, a formation presumably in the shape of a circle.
+This may imply that the qualia looks like to have more information than what is used for the generation itself.
 A circle has more information than a point with a radius.
 The transition can be resolved by the wave function.
 Part of the image may have the form of a volume of an object, and individual points of the image are linked to the volumetric form.
@@ -511,10 +515,10 @@ Search for qualia
 
 Qualia are not found in the transmission of signals in the brain and cannot be located within them.
 Only a specific subset of information processed by the brain gives rise to qualia, which implies that the difference responsible for qualia can be identified independently of the mechanism by which they are generated.
-The fact that qualia are fundamental and the reverse effect is due to random quantum processes means that the information for qualia needs to go to the quantum level.
+That qualia are fundamental and the reverse influence is connected with random quantum processes means that information for qualia requires a transition to the quantum level.
 The chain [signals - qualia] leads to two possibilities:
 1) Qualia cannot be detected, and then the signals appear as leading nowhere without effect
-2) Qualia is detectable as a quantum reverse influence effect
+2) Qualia can be detected as an quantum effect of reverse influence
 ​​​​​​​A quantum phenomenon leads to qualia. Physicists may start to hypothesize about which quantum phenomenon it could be and start creating a model of the qualia generator.
 
 Fundamentality in the brain
@@ -536,7 +540,7 @@ Qualia are not information, if a person has never seen the color red, it cannot 
 Qualia is caused by a physical process, to reproduce it one must know how to repeat the physical process.
 Once the person has seen the color red, it is possible to reimagine it.
 Information about the sensation of color is stored in the brain, and the brain, using this information, is capable of reproducing the color through the method of generating qualia.
-It is possible to transmit qualia in another way.
+Qualia can be transferred in another way.
 The chain [Light waves - eyes - brain - generator - wave function - qualia]
 is replaced by [Simulation of the process in the brain - generator - wave function - qualia].
 This would mean that one could know what it is like to be another living organism - for example, a bat.
@@ -551,6 +555,7 @@ For example: If the qualia fields are a wave function, then the wave function ex
 Then the generation of qualia is the construction of a qualia-object from qualia-elements.
 And instead of the question of how qualia are generated, the question arises: what is the property of qualia in a physical object, or what is a qualia-object that has the property of physical interaction.
 The correct question may be: not what physical law creates qualia, but what law of qualia allows it to influence the physical.
+To the question why some signals lead to one color and others to another, the answer is: this is the construction of the qualia object, and another question arises - how is the qualia object constructed.
 Since the wave function of qualia is formed gradually, while a frame of phenomenal consciousness is triggered by the collapse, this provides grounds to assume that a qualia-object may exist independently as an integrated structure.
 If qualia is constructed gradually, and the frame of phenomenal consciousness is triggered by a collapse, this gives grounds to consider that the qualia object can exist separately.
 Thus information alone could not create pain, it could be set by spin, for example.
@@ -560,7 +565,7 @@ Since the size of the point of the visual image is nonzero, this means that we a
 
 Interpretation of quantum mechanics
 
-Qualia affects random quantum processes, means that a refinement of the interpretation of quantum mechanics is in the brain in the qualia generator.
+Qualia influences random quantum processes, which means that in the brain, in the qualia generator, there is a clarification of the interpretation of quantum mechanics.
 
 Data transfer speed
 
@@ -594,9 +599,9 @@ In addition to color itself, there is also brightness and distance in the percep
 This raises the question of what other types of sensations are available besides the basic organs.
 Music can also create sensations/impressions that have not been experienced before, and they are not repeated elsewhere.
 The organism is evolutionarily limited; for example, sharper vision leads to the brain having to process more information, 
-which is more complex, requires more attention, and slows reaction speed.
+which is more complex, requires more attention, and slows reaction time.
 Similarly, enhanced hearing would require more brain capacity.
-A dog's excellent sense of smell helps it find food, while an eagle's sharp vision assists it in this task.
+A dog's excellent sense of smell helps it find food, while an eagle is aided by sharp vision.
 The question is divided into two parts: what sensations and of what strength the brain is capable of generating, 
 and what types are generally possible, and whether their number is limited.
 This may mean that the potential for happiness and its diversity has not been revealed.
@@ -663,7 +668,7 @@ Position in space
 
 Qualia, despite the fact that they cannot be expressed through other entities, have their position in space.
 But they are definitely not located in the exact space where they are felt - otherwise, the pain in the leg should be located directly in the leg, 
-instead a signal comes from the leg to the brain
+instead a signal comes from the leg to the brain.
 It can be assumed that they operate at the atomic level, for example: a distance of 1 meter is 1 thousandth of an atom, 
 a sensation at a distance of a kilometer is at a distance of an atom.
 In this case, you cannot feel anything further than a kilometer.
@@ -727,7 +732,7 @@ Lifeticle
 The term life
 
 The term "Life" lacks a precise definition and will be redefined.
-"Life" will signify the presence of an active subject/phenomenal consciousness/so-called observer/lifticle.
+"Life" will mean the presence of phenomenal consciousness, the so-called observer, or the lifeticle.
 Without it, an organism will be referred to as a biorobot.
 
 Meaning of life
@@ -746,7 +751,7 @@ In the status of death, it might be indicated: central particle/lifeticle: saved
 
 Fate of the lifeticle
 
-If the deceased could not be cryonized, their ashes can be scattered either on the ground or into the sea.
+If the deceased could not be cryonized, in the case of cremation, their ashes can be scattered either on the ground or into the sea.
 It is preferable to scatter the ashes on land, 
 as the probability of being reborn as a terrestrial life form is higher than as an aquatic one - likely a comparison of one in a million to one in a billion.
 However, the lifeticle may potentially escape in the smoke during cremation, creating ambiguity in this recommendation.
@@ -813,7 +818,8 @@ As a counterargument, the function of lifeticle attachment is automatic.
 The fact that the lifeticle has physical properties in some way brings the world/reality and consciousness closer together, 
 which may raise the question of whether elementary particles are alive.
 The theory is compatible with panpsychism in relation to elementary particles, if this does not contradict quantum field theory, since particles are based on fields.
-In a completed physical theory, the phenomenon of qualia must be present, either a lifeticle particle must be discovered, or the property of qualia must be defined as a characteristic of an elementary particle.
+However, there is no such contradiction in string theory; this may mean that the lifeticle has already been discovered, but the property of qualia has not been identified.
+In a completed physical theory, qualia must be present either as a discovered lifeticle particle or as a defined property of an elementary particle.
 
 Philosophical zombie
 
@@ -909,6 +915,9 @@ Interpretations of quantum mechanics
 The influence of qualia on the collapse of the wave function negates Everett's many-worlds interpretation of quantum mechanics.
 It is also poorly compatible with lifeticles, since a lifeticle cannot be copied.
 The idea that a lifeticle exists simultaneously in two or more worlds and lives parallel lives in parallel worlds is meaningless.
+Copying the lifeticle would constitute a repeated creation of a paradox caused by an external factor.
+It can be conceptualized as the presence of a unique infinite number within the lifeticle, which cannot be replicated.
+This is analogous to the no-cloning theorem, with the distinction that the quantum state in this case is not externally generated.
 Either the lifeticle already existed in this world before the split (which would mean there were multiple lifeticles occupying the same place at once),
 or lifeticles do not exist in other worlds, which requires that when worlds split, lifeticles go into only one world - or that the interpretation itself is incorrect.
 
