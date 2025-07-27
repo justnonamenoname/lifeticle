@@ -343,7 +343,7 @@ The Orch OR theory of consciousness (Orchestrated Objective Reduction) by Penros
 3) A solution to the problem of pointwise binding (the issue is discussed in the section on the connection between qualia and the brain)
 4) A solution to the problem of the speed of time (the issue is discussed in the section on the connection between qualia and the brain)
 5) Solving qualia size (the issue is discussed in the section on the connection between qualia and the brain)
-Supporters of the quantum theory of consciousness also include Federico Faggin and Giacomo Mauro D'Ariano.
+Supporters of the quantum theory of also include Federico Faggin and Giacomo Mauro D'Ariano.
 
 CEMI theory
 
@@ -376,7 +376,9 @@ To say qualia don't exist as a distinct phenomenon and based on information is e
 The non-existence of qualia would mean humans have no visual perception, no auditory experience, no pain sensation - this constitutes a dead state, 
 where the organism operates without phenomenal consciousness.
 Qualia are not something separate, they are connected to the carrier of consciousness.
-In informational theories, there is no qualia or a carrier of consciousness to which qualia are directed.
+In informational theories there are no qualia and no consciousness carrier to which they are directed, they do not solve the problem of pointwise binding.
+The formation of a qualia-based image from spatially distributed information would violate the principle of locality and imply magical action at a distance.
+Qualia has a size, information does not have such a parameter.
 Informational theories attempting to explain phenomenal consciousness do not answer the question of why you live in this brain and not in another; 
 this requires a physical connection with the brain, and a physical connection requires a physical object.
 Qualia without the so-called observer lead to the same problem - why do you live the life of this brain and not another?
@@ -563,6 +565,7 @@ Transfer of qualia
 
 Qualia are not information, if a person has never seen the color red, it cannot be explained to them.
 Qualia is caused by a physical process, to reproduce it one must know how to repeat the physical process.
+Since qualia is based on a quantum state, and the no-cloning theorem prohibits copying an unknown quantum state, qualia cannot be transmitted; one can only repeat the process of creating the qualia of a quantum state.
 Once the person has seen the color red, it is possible to reimagine it.
 Information about the sensation of color is stored in the brain, and the brain, using this information, is capable of reproducing the color through the method of generating qualia.
 Qualia can be transferred in another way.
@@ -587,11 +590,16 @@ In the case of other qualia, such as the sense of mystery, the incongruity probl
 To the question why some signals lead to one color and others to another, the answer is: this is the construction of the qualia object, and another question arises - how is the qualia object constructed.
 This may mean that at the moment of collapse, the construction of the object's qualia occurs based on the information of the wave function.
 Since the wave function of qualia is formed gradually, while a frame of phenomenal consciousness is triggered by the collapse, this provides grounds to assume that a qualia-object may exist independently as an integrated structure.
-If qualia is constructed gradually, and the frame of phenomenal consciousness is triggered by a collapse, this gives grounds to consider that the qualia object can exist separately.
-Thus information alone could not create pain, it could be set by spin, for example.
-The strength of pain must depend on the number of signals, otherwise it would be possible to set any level of pain only by a parameter.
-How the information for qualia is encoded will be explored when studying the qualia generator.
-Since the size of the point of the visual image is nonzero, this means that we are directly observing wave functions.
+There should be no modification of information between the wave function and the lifeticle, since it is the brain that tunes qualia and it cannot tune beyond the quantum level.
+At the same time, information alone could not create pain/negative/positive qualia; it must be defined by opposites.
+A possible candidate for such a parameter could be spin, or the charge of an ion (positive/negative).
+The strength of pain must depend on the number of signals and energy, otherwise any level of pain could be set by just a parameter.
+Tubulin microtubules can be ionized by both positively and negatively charged ions.
+Spin is a poor fit because of the ambiguity due to the direction of the spin, the difference between the direction of the spin, and the lack of a non-opposite option, unlike the particle charges of ions.
+Qualia coordinates in space cannot be specified by xyz coordinates, since this is a partition of space along axes that does not exist.
+If the coordinates are specified by spin, then the coordinates must be set unconditionally and the reference point is unclear.
+The way information is encoded for qualia will be studied during the study of the qualia generator.
+Since the size of the point of the visual image is nonzero, this means that we are directly observing wave functions, or a qualia object that depends on it.
 The fact that qualia are generated from a wave function allows us to define formulas for the qualia wave function.
 
 Generator structure
@@ -944,6 +952,7 @@ Vision
 |ψvision⟩ = i[1,N]∑energy_i*|color_i⟩⊗|2d coordinate_i⟩⊗|size_i⟩⊗|distance_i⟩⊗...
 
 Brightness depends on energy level
+The energy must involve Planck's constant
 
 |color⟩ = red|red range⟩+green|green range⟩+blue|blue range⟩+...
 
