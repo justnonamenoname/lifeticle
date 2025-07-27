@@ -211,7 +211,7 @@ Cryonics becomes a moral obligation.
 ### Structure
 Structurally, consciousness in the brain consists of:
 
-1) A functional part of the brain without perception/sensations/qualia/phenomenal consciousness
+1) A functional part of the brain without perception/sensations/qualia/phenomenal consciousness, includes memory
 2) Phenomenal consciousness - the sum of qualia
 3) Qualia includes the sense of "self"
 4) Lifeticle - the real "self"
@@ -341,23 +341,41 @@ The law of conservation of energy and the circulation of particles in nature lea
 To refute it, it is necessary to refute either the law of conservation of energy or the circulation of particles.
 The question: what happens if the brain's particles end up in different brains of other organisms, leads to the idea of the consciousness carrier as a single particle.
 
+**Path of research**
+
+The following steps must be completed for research:
+1) Identify the minimally required active brain regions (neurobiologists have already identified several candidates)
+2) Research of visual signaling pathways, primarily in areas identified by neuroscientists
+3) Determine point of signals convergence
+4) Explore how information transfers to the quantum level, this will confirm the existence of phenomenal consciousness and will allow to determine the exact formulas of qualia
+5) Research random quantum processes associated with qualia, this will allow us to determine the information coming from qualia and how reverse influence of qualia affects the brain
+6) Researching feedback influence will help determine how phenomenal consciousness became entrenched in evolution
+7) Identify a shared node for vision and hearing, which is activated without vision and sound
+8) Assess whether particles in this node are replaced during life to exclude lifeticle candidates
+9) Research how the brain sets frame rate of consciousness and collapses
+10) Depending on the structure, this may help determine the location of the lifeticle
+11) Removing particles from the central node can show whether this changes reverse influence in the form of random processes
+12) Further help may be provided by researching the coding of the node structure in DNA.
+13) Studying the node in other species, a different type of node may show a difference that allows to exclude inappropriate particles
+14) Determine the exact properties of the lifecycle via quantum interactions
+
 **Orch OR theory**
 
 Quantum theory The Orch OR theory (Orchestrated Objective Reduction) by Penrose and Hameroff makes several parallels to the lifeticle theory:
-1) Phenomenal consciousness is not located in neurons, but is related to quantum phenomena.
-2) The second method of generating qualia.
+1) Phenomenal consciousness is not located in neurons, but is related to quantum phenomena
+2) The second method of generating qualia
 3) A solution to the problem of pointwise binding (the issue is discussed in the section on connection between qualia and the brain)
 4) A solution to the problem of the speed of time (the issue is discussed in the section on connection between qualia and the brain)
-5) A solution of information transition from a point with radius to a circle (the issue is discussed in the section on the section of qualia-brain connection)
+5) Solving qualia size (the issue is discussed in the section on the connection between qualia and the brain)
 
 Supporters of the quantum theory of consciousness also include Federico Faggin and Giacomo Mauro D'Ariano.
 
 **CEMI theory**
 
 The electromagnetic CEMI theory makes certain correspondences/similarities with the lifeticle theory:
-1) Phenomenal consciousness is not located in neurons.
-2) The 3rd method of generating qualia.
-3) The similarity of the informational transition from a point with a radius to a circle (the issue is discussed in the section on connection between qualia and the brain)
+1) Phenomenal consciousness is not located in neurons
+2) The 3rd method of generating qualia
+3) Solving qualia size (the issue is discussed in the section on the connection between qualia and the brain)
 
 **Fundamentality**
 
@@ -400,12 +418,13 @@ Qualia have a parameter of location; qualia possess a space where the carrier of
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/position.png">  
 To say that particles with qualia properties do not exist is to say that an organism does not consist of particles, or that qualia does not exist or is not related to particles.
 An organism consists of particles, and the phenomenon of qualia exists - one must necessarily be connected to the other. The theory does not introduce something new, but connects one thing with another.  
+The philosophical term "indivisibility of consciousness" is explained by the indivisible so-called observer, the bearer of consciousness, the lifeticle.
 The fundamentality of qualia means that the ability to experience qualia is also fundamental.
 Quantum uncertainty is fundamental and cannot be replicated informally.  
 To say that qualia can be replicated informationally is equivalent in meaning to the idea that quantum uncertainty can be replicated informationally.   
 To say that qualia appeared evolutionarily is the same as saying that metal in the body was created for the organism evolutionarily.
 In fact, it is the opposite - metal as a tool was used in the process of evolution in construction.
-The Hard "Problem of Consciousness" and the "Explanatory Gap" arose from the inability to explain qualia through other phenomena.
+"The hard problem of consciousness" and the "explanatory gap" arose from the inability to explain qualia through other phenomena.
 
 **Theory example**
 
@@ -436,9 +455,9 @@ Reasons why there are grounds to consider the lifeticle as existing:
 5) Solution to the question of brain replacement by particles
 6) The problem of temporal binding - why qualia from the past continue to be felt in the future
 7) The fundamentality of qualia points to the fundamentality of the property of experiencing qualia, which cannot be emergent or composite and is a property of an indivisible particle
-8) The reverse influence of qualia is connected with quantum laws, this by itself points to a particle
+8) The problem of pointwise binding, size and reverse influence of qualia is related to quantum laws, which in itself points to a particle
 
-The theory of phenomenal consciousness must answer these questions, and the answers to them lead to the theory of the lifeticle.
+The theory of phenomenal consciousness must answer these questions, and the only known answers to them lead to the lifeticle model.
 
 ---
 
@@ -456,7 +475,7 @@ The visual information from the eye - it has a left part and a right part, and t
 This can be called the problem of pointwise binding.
 The problem concerns both the binding of qualia to each other and their binding to the lifeticle.
 Introducing the particle, the receiver of qualia, does not create a new problem of how it receives signals - the problem already exists with qualia even without the particle.
-The wave function/quantum entanglement seems like a solution to this.
+Quantum entanglement solves this.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/point.png">
 
@@ -475,7 +494,7 @@ The method corresponds to the Orch OR theory (Orchestrated Objective Reduction) 
 In Orch OR, the issue of speed is addressed through frames caused by the collapse of the wave function.
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/method2.png">
 4) Field.
-Must transmit information to the quantum level to generate.
+For generation, it must transfer information to the quantum level.
 The method corresponds to the CEMI theory.
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/method3.png">
 
@@ -500,6 +519,11 @@ There remains an option where speed is set by the number of frames, a method use
 If the frames of the image and sound were separate, it would lead to flickering of both the image and the sound. But this appears as a violation of continuity.
 Smoothness in the passage of time occurs either by an instantaneous skip of time without qualia, or by a separate method.
 To remove information from a superposition, a collapse is required; in order for some qualia not to exist in the next second, collapse is a necessary condition.
+Reasons why qualia might be thought to occur at the moment of collapse, rather than the wave function itself:
+1) We would observe "flickering" due to gradual state construction
+2) Frame rate adjustment would be impossible
+3) The no-cloning theorem might be violated if qualia existed prior to collapse, though this may not be an issue if the lifeticle is part of the wave function or if qualia follow their own laws
+4) Mismatch between the timing of qualia and its feedback influence. Not a critical flaw, but a possible drawback
 
 **Reverse influence**
 
@@ -507,6 +531,9 @@ If the lifeticle could not transmit information into the world, a person would n
 If we take the life particle and a random surrounding world that generates random sensations,
 there would be no reason for a positively perceived structure to develop without the life particle influencing the world.
 This means that the lifeticle can influence its surroundings and transmit information.
+The influence of the lifeticle on the organism means that it affects evolution. Thus, evolution already includes the result of feedback influence, just as it includes pain.
+Without feedback influence, evolution could not have produced a system capable of integrating signals to generate a visual image.
+Such integration requires feedback from the very result being generated by these signals.
 If initially the direction of the feedback from pain was random, then a random mutation that causes avoidance to increase the chance of survival would be fixed in DNA, reinforcing the effect.
 This may be the reason why phenomenal consciousness became fixed in evolution.
 The information sent to the qualia generator cannot be identical to the information about the existence of qualia transmitted through feedback; otherwise, it would be impossible to learn about the existence of qualia.
@@ -517,12 +544,14 @@ This means that qualia cannot stand behind non-random processes and is connected
 1) Not at the moment of sensation, but later
 2) At the moment of sensation, the influence of qualia on the collapse of the wave function
 
+It can be assumed that in the case of negative qualia, the stronger the pain, the stronger the influence on random quantum processes.
 Determining whether free will exists at the level of the lifeticle is only possible by studying reverse influence.
 Physicists may begin to hypothesize about which quantum phenomenon this reverse influence could be.
 
 **Search for qualia**
 
 Qualia are not found in the transmission of signals in the brain and cannot be located within them.
+Only a specific subset of information processed by the brain gives rise to qualia, which implies that the difference responsible for qualia can be identified independently of the mechanism by which they are generated.
 The fact that qualia are fundamental and the reverse effect is due to random quantum processes means that the information for qualia needs to go to the quantum level.
 The chain [signals - qualia] leads to two possibilities:
 1) Qualia cannot be detected, and then the signals appear as leading nowhere without effect
@@ -550,8 +579,8 @@ Qualia is caused by a physical process, to reproduce it one must know how to rep
 Once the person has seen the color red, it is possible to reimagine it.
 Information about the sensation of color is stored in the brain, and the brain, using this information, is capable of reproducing the color through the method of generating qualia.
 It is possible to transmit qualia in another way.  
-The chain [Light waves - eyes - brain - generator - qualia]  
-is replaced by [Simulation of the process in the brain - generator - qualia].  
+The chain [Light waves - eyes - brain - generator - wave function - qualia]  
+is replaced by [Simulation of the process in the brain - generator - wave function - qualia].  
 This would mean that one could know what it is like to be another living organism - for example, a bat.
 
 **Problem of encoding**
@@ -564,7 +593,7 @@ For example: If the qualia fields are a wave function, then the wave function ex
 Then the generation of qualia is the construction of a qualia-object from qualia-elements.
 And instead of the question of how qualia are generated, the question arises: what is the property of qualia in a physical object, or what is a qualia-object that has the property of physical interaction.
 The correct question may be: not what physical law creates qualia, but what law of qualia allows it to influence the physical.
-To the question why some signals lead to one color and others to another, the answer is: this is the construction of the qualia object, and another question arises - how is the qualia object constructed.
+Since the wave function of qualia is formed gradually, while a frame of phenomenal consciousness is triggered by the collapse, this provides grounds to assume that a qualia-object may exist independently as an integrated structure.
 If qualia is constructed gradually, and the frame of phenomenal consciousness is triggered by a collapse, this gives grounds to consider that the qualia object can exist separately.
 Thus information alone could not create pain, it could be set by spin, for example.
 The strength of pain must depend on the number of signals, otherwise it would be possible to set any level of pain only by a parameter.
@@ -576,6 +605,20 @@ Since the size of the point of the visual image is nonzero, this means that we a
 **Interpretation of quantum mechanics**
 
 Qualia affects random quantum processes, means that a refinement of the interpretation of quantum mechanics is in the brain in the qualia generator.
+
+**Data transfer speed**
+
+Visual perception is limited in frame rate depending on the size of the updated area.
+~15 FPS for full updates, ~30 for half, ~60 for a quarter.
+The smaller the updated region, the higher the refresh rate.
+Approximate formula: frames per second=15*size of visual field/size of updated part, or FPS=15/portion of the visual field, where half of field is 1/2.
+Closing one eye increases the update rate, indicating that the limitation is not in the eye.
+Since image regions are not fully recognized, the bottleneck is not in processing.
+The assumption is that the limitation in the transmission of data to the qualia generator, since it is a connecting link.
+Viewing with limited visual refresh remain audio perception unaffected.
+The phenomenon can be tested with high-frame-rate videos on large screens that cover the entire visual field.
+
+https://github.com/user-attachments/assets/79c2362b-cecc-4c84-8af9-8f60b802c16a
 
 **Attention**
 
@@ -615,7 +658,7 @@ Even though this feeling is directed at yourself, the "yourself" and the feeling
 
 **Minimal size of qualia**
 
-The minimal size/unit of qualia refers to both the volume and the strength.
+The minimal size/unit of qualia refers to both the size and the strength.
 Methods of determination: applying a pain signal to a large area of the leg and reducing the pain, or applying a strong pain signal and reducing the area.
 This question will be explored in the study of the qualia generator in the brain.
 
@@ -686,6 +729,7 @@ An experiment on creating pain at a distance and studying a qualia generator cou
 
 Qualia space may be connected to real space.
 This may mean that qualia cannot participate in 4-dimensional space.
+Clarifying this question requires researching how the coordinates of qualia are defined.
 Space can be distorted according to the theory of relativity. How is this related to qualia space?
 1) The qualia field has its own internal space
 2) The qualia field itself is distorted along with the distortion of space; for example, a massive gravitational wave can distort the image
@@ -798,6 +842,8 @@ Carbon atoms are synthesized in stars.
 If the lifeticle is located in an atom or was in a star for some other reason, and if the star's environment generates qualia for the lifeticle, 
 then we have already had "lives" inside stars with random and unknown levels of qualia.
 A similar question applies to the early universe - the first hundreds of thousands of years before the epoch of recombination, when the universe became transparent to electromagnetic radiation.
+If one fails to preserve their lifeticle, the absorption of Earth by the Sun could result in remaining within the Sun’s structure for billions of years - and it is unknown whether qualia exist there or what their level might be; potentially extremely adverse.
+This is one of the reasons cryonics is necessary - at least until the nature and level of qualia in the solar environment is properly studied.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/star.png" width="150">
 
@@ -815,7 +861,7 @@ The variant in which several lifeticles are the recipients is possible, but also
 
 An image can disappear, which means it is not part of the lifeticle but rather some external functionality.
 And the lifeticle exerts a reverse influence.
-Such a particle appears to resemble a kind of micro-brain with its own functionality - otherwise, it wouldn't work, and this creates the problem of indivisible structure.
+Such a particle appears to resemble a structure with its own functionality - otherwise, it wouldn't work, and this creates the problem of indivisible structure.
 This problem also exists in elementary particles: an electron has properties such as momentum (direction and speed), charge, spin, interactions with other particles, etc.
 If an elementary particle had no properties, it would exist without interacting with the world and would not be part of it.
 In Wolfram's theory, the elements of the hypergraph, from which elementary particles are composed, also have multiple properties.
@@ -878,9 +924,24 @@ Vision
 
 |ψ<sub>vision</sub>⟩ = i[1,N]∑energy<sub>i</sub>⋅|color<sub>i</sub>⟩⊗|2d coordinate<sub>i</sub>⟩⊗|size<sub>i</sub>⟩⊗|distance<sub>i</sub>⟩⊗...
 
-Brightness level depends on the energy level
+Brightness depends on the energy level
 
 |color⟩ = red|red range⟩+green|green range⟩+blue|blue range⟩+...
+
+Sound
+|ψ<sub>sound</sub>⟩ = i[1,N]∑energy<sub>i</sub>*|type<sub>i</sub>⟩⊗|3d coordinate<sub>i</sub>⟩⊗|size<sub>i</sub>⟩⊗|sum of duration length<sub>i</sub>⟩⊗...
+
+Volume depends on energy level
+
+Pain
+|ψ<sub>pain</sub>⟩ = i[1,N]∑energy<sub>i</sub>⋅|-polarity<sub>i</sub>⟩⊗|type<sub>i</sub>⟩⊗|3d coordinate<sub>i</sub>⟩⊗|size<sub>i</sub>⟩⊗...
+
+Intensity of pain depends on the energy level
+Polarity is a meaning with an opposite, in the case of positive polarity it is a positive qualia
+
+These are preliminary formulas, the exact formulas can only be determined by researching the qualia generator.
+Strength of qualia depends on energy.
+The temporal dynamics are set by the adjustment of the wave function frames by the brain.
 
 ---
 
@@ -890,7 +951,7 @@ Brightness level depends on the energy level
 | :---:                                           | :---:                 | :---: | :---:   | :---:     |
 | Compatibility with the principle of locality    | -                     | +-    | `+`     | `+`       |
 | Solution to the binding problem                 | -                     | +-    | +-      | `+`       |
-| Size of the qualia point                        | -                     | `+`   | `+`     | `+`       |
+| Size of the qualia                              | -                     | `+`   | `+`     | `+`       |
 | Number of frames                                | -                     | -     | `+`     | `+`       |
 | Physical influence of qualia                    | -                     | +-    | `+`     | `+`       |
 | The question of non-existence before birth      | -                     | -     | -       | `+`       |
@@ -905,13 +966,13 @@ Solution the binding problem: No definition of boundary
 The physical impact of qualia: Absence of physical influence depending on the version and violation of the law of energy conservation in case of influence  
 
 Orch OR:  
-Solution the binding problem: No model of qualia signal convergence or central processing area for signals, but does not contradict the problem's resolution
+Solution the binding problem: No model of qualia signal convergence or central processing area for signals, but does not contradict the binding problem
 
 ---
 
-### Incompatibility with other theories
+### Incompatibility with other hypotheses
 
-**Everett's many-worlds interpretation**
+**Interpretations of quantum mechanics**
 
 The influence of qualia on the collapse of the wave function negates Everett's many-worlds interpretation of quantum mechanics.
 It is also poorly compatible with lifeticles, since a lifeticle cannot be copied.
