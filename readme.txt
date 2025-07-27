@@ -855,7 +855,7 @@ The question of whether other universes exist is equivalent to asking whether th
 
 Formulas
 
-General formula of qualia:
+General formula of qualia
 |ψqualia⟩ = ∑(i,j,...)cij...(|vision_i⟩⊗|sound_j⟩⊗...)
 
 Vision
