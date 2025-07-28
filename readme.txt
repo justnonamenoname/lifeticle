@@ -765,22 +765,22 @@ An experiment on creating pain at a distance and studying a qualia generator cou
 
 Space
 
-Qualia space may be connected to real space.
+The space of qualia may be connected to the real one.
 This may mean that qualia cannot participate in 4-dimensional space.
 Clarifying this question requires researching how the coordinates of qualia are defined.
-Space can be distorted according to the theory of relativity. How is this related to qualia space?
+Space can be distorted according to the theory of relativity. How is this connected to the space of qualia?
 1) The qualia field has its own internal space
 2) The qualia field itself is distorted along with the distortion of space; for example, a massive gravitational wave can distort the image
 
 Angle of rotation
 
-The image sent from the eye: its left part on the left, the right part on the right.
-You can close your eyes and visualize this.
-You can shift it to the right - then the left part will be in the center, the central part on the right, and the right part sideways to the right.
-The fact that qualia have a position means that the field qualia possesses a direction that has a center.
-If the position of qualia is determined by the position in space, the rotation angles of the lifeticle field's direction must be maintained in accordance with spatial rotations.
-If qualia are aligned with the brain, the angle of the lifeticle field corresponds to the brain; if misaligned, the angle does not match the brain.
-If the location of qualia is set by a parameter, the angle of the lifeticle field may not align with the brain and can be rotated, shifted sideways, or flipped.
+The image from the eye has the left part on the left and the right part on the right.
+It is possible to close one's eyes and visualize it.
+It is possible to shift the image to the right, so that its left part appears in the center, the center part on the right, and the right part even further to the right.
+The fact that qualia have a position means that the qualia field has a direction toward which its center is oriented.
+If the position of qualia is set by spatial coordinates, then the rotation angles of the lifeticle's orientation must be preserved in accordance with the spatial rotations.
+If qualia are oriented according to the brain, then the angle of the qualia field matches the brain; otherwise, it does not.
+If the position of qualia is set by a parameter, then the angle of the field may not match the brain and may be angled, sideways, or inverted.
 Maintaining the angle of the lifeticle requires separate functionality, which suggests that the coordinate of qualia is most likely set by a parameter, not a spatial coordinate.
 The direction of the qualia field is similar to the spin of a particle.
 
@@ -788,7 +788,7 @@ Multilayer image
 
 Is it possible to create qualia of a volumetric image with multiple layers, where one object is visible behind another and they do not overlap each other?
 The brain can create a volumetric image of no more than one layer due to evolutionary reasons.
-The question pertains not to the brain, but to the very nature of qualia.
+The question concerns not the brain, but to the very nature of qualia.
 At the same time, the image layer does not appear as something that occupies volume, 
 as if there are two size parameters - height and width - while the third parameter, depth, is absent.
 
@@ -852,8 +852,7 @@ Atom
 In the brain, no other attached particles occupying volume have been found.
 This may suggest that the lifeticle is located within an atom.
 In this case, the lifeticle does not need to be moved to appear in the brain during its formation.
-It is more complex for the lifeticle to end up in the brain through the process of evolutionary brain development.
-However, if it were located within an atom, this additional complexity would be unneeded.
+It is more complex for the lifeticle to end up in the brain through evolutionary development, but if it is in the atom, then this additional complexity is unnecessary.
 
 Ship of theseus
 
@@ -875,6 +874,7 @@ Multiplicity of consciousness
 The idea of multiple consciousnesses, where many lifeticles exist in the brain and experience the same qualia, requires identical qualia to be generated for several lifeticles.
 This idea is structurally more complex, both in terms of evolution and considering the influence of the lifeticle itself.
 There are no reasons for such complexity; the idea is evolutionarily improbable.
+In the case of the division of the brain into two parts, if there are actually two consciousnesses, then this means that there are two centers in the brain and two consciousnesses were there before the division.
 If the recipient of the wave function is particles that are part of the wave function, then it is different at different moments, 
 both in the type and in the quantity of qualia, and therefore in the number of participating particles.
 Then some lifeticles would live life only during certain qualia, for example, only when there is a specific pain, which looks self-contradictory.
