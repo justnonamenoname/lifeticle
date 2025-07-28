@@ -217,8 +217,8 @@ Could there be another answer?
 
 Can answers be found in religion?
 
-Religious organizations will not answer the questions raised in the article - they show no interest, do not discuss, and do not study such ideas.
-The mere fact that they have no connection to telescopes and no calls to study the world using them is enough to reduce their opinions to zero.
+Religious organizations will not answer the questions raised in the article - they show no interest, do not discuss, and do not research such ideas.
+The mere fact that they have no connection to telescopes and no calls to research the world using them is enough to reduce their opinions to zero.
 They are not interested in the world and science; they are only interested in their cult.
 The fact that the moment of death does not exist also invalidates the concept of a religious paradise.
 
@@ -304,12 +304,12 @@ Part 3. Verification
 
 Experimental methods
 
-Experimental methods for confirming the theory in the study of the brain:
+Experimental methods for confirming the theory in the research of the brain:
 1) The streams for qualia must converge on a single particle through the method of quantum entanglement
 2) The effect of the lifeticle and information about qualia on the brain
 3) The lifeticle must not be replaced by something else throughout life
 The theory is a direct consequence of the organism's structure.
-In studying the brain, one must start from the principle of maximum divisibility, 
+In researching the brain, one must start from the principle of maximum divisibility, 
 meaning that the brain consists of indivisible particles and that the carrier of consciousness is located somewhere in the brain (the issue is discussed in the section on the necessity of a consciousness carrier in fundamentality).
 To disprove the theory, it is necessary, for example, to prove: 
 That particles disappear at death, or that we are in a virtual reality, or that there is a moment of death and undiscovered angels really arrive.
@@ -332,7 +332,7 @@ The following steps must be completed for research:
 10) Depending on the structure, this may help determine the location of the lifeticle
 11) Removing particles from the central node can show whether this changes reverse influence in the form of random processes
 12) Further help may be provided by researching the coding of the node structure in DNA.
-13) Studying the node in other species, a different type of node may show a difference that allows to exclude inappropriate particles
+13) Researching the node in other species, a different type of node may show a difference that allows to exclude inappropriate particles
 14) Determine the exact properties of the lifeticle via quantum interactions
 
 Orch OR theory
@@ -433,9 +433,9 @@ Detecting a lifeticle will lead to the question: how do we understand that it ha
 Since qualia is based on quantum information, qualia cannot be directly detected.
 If qualia consists of frames, then the simultaneity of frames also adds to the detection problem.
 Experiments in quantum physics take place in an isolated environment and it is unknown whether qualia exists in them, unlike in the brain environment.
-To understand this, it is necessary to research the convergence of signals for qualia and the transition of information to the quantum level, as well as to study the feedback in the form of collapse.
-This is the only way to study qualia and solve the "hard problem of consciousness."
-A possible method might be to scan the central part of the brain in detail or to study how DNA shapes the brain.
+To understand this, it is necessary to research the convergence of signals for qualia and the transition of information to the quantum level, as well as to research the feedback in the form of collapse.
+This is the only way to research qualia and solve the "hard problem of consciousness."
+A possible method might be to scan the central part of the brain in detail or to research how DNA shapes the brain.
 Reasons why there are grounds to consider the lifeticle as existing:
 1) Solution to the question of non-being before birth
 2) Solution to the question of living in this brain and not another
@@ -532,7 +532,7 @@ This means that qualia cannot stand behind non-random processes and is connected
 1) Not at the moment of sensation, but later
 2) At the moment of sensation, the influence of qualia on the collapse of the wave function
 It can be assumed that in the case of negative qualia, the stronger the pain, the stronger the influence on random quantum processes.
-Determining whether free will exists at the level of the lifeticle is only possible by studying reverse influence.
+Determining whether free will exists at the level of the lifeticle is only possible by researching reverse influence.
 The transmission of information about the visual image indicates that reverse influence at least operates at the moment of qualia and collapse itself.
 Physicists may begin to hypothesize about which quantum phenomenon this reverse influence could be.
 
@@ -559,7 +559,7 @@ Upon seeing an image and its distorted version, one can imagine another image wi
 Upon hearing a sound and a version with a different volume/its distortion, one can imagine another sound with a different volume/distortion.
 In the brain, a comparison of two similar sounds takes place, and the difference is determined, 
 which can be used to generate qualia of another sound with a different volume/distortion.
-This should be discovered when studying the brain.
+This should be discovered when researching the brain.
 
 Transfer of qualia
 
@@ -598,7 +598,7 @@ Tubulin microtubules can be ionized by both positively and negatively charged io
 Spin is a poor fit because of the ambiguity due to the direction of the spin, the difference between the direction of the spin, and the lack of a non-opposite option, unlike the particle charges of ions.
 Qualia coordinates in space cannot be specified by xyz coordinates, since this is a partition of space along axes that does not exist.
 If the coordinates are specified by spin, then the coordinates must be set unconditionally and the reference point is unclear.
-The way information is encoded for qualia will be studied during the study of the qualia generator.
+The way information is encoded for qualia will be studied during the research of the qualia generator.
 Since the size of the point of the visual image is nonzero, this means that we are directly observing wave functions, or a qualia object that depends on it.
 The fact that qualia are generated from a wave function allows us to define formulas for the qualia wave function.
 
@@ -681,7 +681,7 @@ A dog's excellent sense of smell helps it find food, while an eagle is aided by 
 The question is divided into two parts: what sensations and of what strength the brain is capable of generating, 
 and what types are generally possible, and whether their number is limited.
 This may mean that the potential for happiness and its diversity has not been revealed.
-The study of the qualia generator is a path to the revelation of the potential of happiness.
+The research of the qualia generator is a path to the revelation of the potential of happiness.
 Since qualia depends on the wave function, the parameters of qualia are set through the Hilbert space.
 The Hilbert space has no boundaries, but whether the qualia parameters have boundaries can only be determined in practice.
 
@@ -696,7 +696,7 @@ Minimal size of qualia
 The minimal size/unit of qualia refers to both the size and the strength.
 Methods of determination: applying a pain signal to a large area of the leg and reducing the pain, or applying a strong pain signal and reducing the area.
 The minimum force can be assumed to be the energy of Planck's constant.
-This question will be explored in the study of the qualia generator in the brain.
+This question will be explored in the research of the qualia generator in the brain.
 
 Sound
 
@@ -711,7 +711,7 @@ If a lifeticle is placed in the center of AI, only then will it be possible, and
 
 Ethics
 
-Studying the workings of qualia can allow for the consideration of morality/ethics from a scientific perspective, 
+Researching the workings of qualia can allow for the consideration of morality/ethics from a scientific perspective, 
 and considering it from a scientific perspective can lead to the development of morality/ethics, including in relation to other forms of life.
 
 Difference
@@ -761,7 +761,7 @@ Qualia have a real spatial location, but their size is extremely small - compara
 As you grow older, objects are felt to be of a different size, and even if there is a separate area of space around the lifeticle and the sizes of sensations are larger, 
 then they still do not correspond to real sizes, but are relative.
 Furthermore, one's own spatial domain is a more complex structure.
-An experiment on creating pain at a distance and studying a qualia generator could help clarify the question and the distance limit.
+An experiment on creating pain at a distance and researching a qualia generator could help clarify the question and the distance limit.
 
 Space
 
