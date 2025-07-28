@@ -829,7 +829,7 @@ https://github.com/user-attachments/assets/79c2362b-cecc-4c84-8af9-8f60b802c16a
 Вопрос относится не к мозгу, а самому устройству квалиа.
 При этом слой изображения не выглядит как что-то занимающее объём, будто существует 2 параметра размера - высота и ширина, а 3-й параметр глубины отсутствует.
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/layerposition.png">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/layerposition.png" width="250">
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/layer.png" width="250">
 
 ---
