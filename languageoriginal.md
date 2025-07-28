@@ -778,7 +778,7 @@ https://github.com/user-attachments/assets/79c2362b-cecc-4c84-8af9-8f60b802c16a
 
 ### Пространство квалиа
 
-<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/space.png" width="150">
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/space.png" width="250">
 
 **Расстояние**
 
