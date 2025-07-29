@@ -360,9 +360,8 @@ In the case of fundamentality, it is impossible to find such an example and prov
 If we assume that emergence (the presence of properties in a system that are not inherent in its individual components) can create qualia, 
 then still, signals in the brain must converge at a single point through the method of generating qualia, 
 otherwise, a binding problem arises, which makes the issue of emergence meaningless.
-The properties of emergence can be obtained by modeling, for example: knowing the properties of a water molecule, by modeling a multitude of molecules, 
-we can obtain the properties of water.
-The problem of pointwise binding requires a separate physical law, which also points to the fundamentality of qualia (the issue is discussed in the section on connection between qualia and the brain).
+The properties of emergence can be obtained by modeling, for example: knowing the properties of a water molecule, by modeling a multitude of molecules, we can obtain the properties of water.
+The problem of pointwise binding requires a separate physical law, which also points to the fundamentality of qualia (the issue is discussed in the section on the connection between qualia and the brain).
 If we find a neuron that contains information about a red color point, then the question arises: why does this lead to the color red?
 Without introducing qualia as a separate entity, it cannot be avoided.
 The fact that the brain is divided into regions, and that these regions influence qualia generation, 
@@ -669,8 +668,7 @@ In addition to color itself, there is also brightness and distance in the percep
 Music can also create sensations/impressions that have not been experienced before, and they are not repeated elsewhere.
 The organism is evolutionarily limited; for example, sharper vision leads to the brain having to process more information, 
 which is more complex, requires more attention, and slows reaction time.
-Similarly, enhanced hearing would require more brain capacity.
-A dog's excellent sense of smell helps it find food, while an eagle is aided by sharp vision.
+Similarly, enhanced hearing would require more brain capacity. A dog's excellent sense of smell helps it find food, while an eagle is aided by sharp vision.
 The question is divided into two parts: what sensations and of what strength the brain is capable of generating, and what types are generally possible, and whether their number is limited.
 This may mean that the potential for happiness and its diversity has not been revealed.
 The research of the qualia generator is a path to the revelation of the potential of happiness.
