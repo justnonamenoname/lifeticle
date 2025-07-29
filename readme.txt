@@ -180,8 +180,7 @@ What's cryonics?
 Cryonics is a technology for freezing an organism to -196 degrees Celsius in a capsule.
 After freezing, this allows the organism to be preserved in its original form for hundreds of years.
 
-If we look back - 200 years ago, technology was far less advanced,
-and 500 years ago, the difference was even greater.
+If we look back - 200 years ago, technology was far less advanced, and 500 years ago, the difference was even greater.
 The same kind of progress will happen 200 years from now - future technologies will be highly advanced, and what about 500 years from now?
 Technology is limited only by the laws of physics. For example, a doctor cannot be instantly transported from Saturn - movement itself is limited by speed.
 This is an opportunity.
