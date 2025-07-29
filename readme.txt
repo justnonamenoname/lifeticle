@@ -923,8 +923,7 @@ A philosophical zombie is not physically identical to a human since it lacks the
 Beginning of existence
 
 If the moment when the lifeticle begins to exist is neither the moment of birth nor during the nine months of pregnancy, then what moment could it be?
-In reverse time, it cannot be infinite - that would be a paradox: no matter how far back time is rewound, there would still be more time remaining.
-But this would also mean that an infinite amount of time has already passed, which is impossible.
+In reverse time, it cannot be infinite - that would be a paradox: no matter how far back time is rewound, there would still be more time remaining. But this would also mean that an infinite amount of time has already passed, which is impossible.
 The answer implies that the universe has a beginning of time, and one might assume that this is also the beginning of the lifeticle's existence.
 The moment of beginning at birth makes no sense, since the organism is built from particles that existed previously;
 birth is merely the relocation of specific atoms or particles from one position to another.
