@@ -1,7 +1,7 @@
 **Lifeticle | LT theory | The new theory of quantum phenomenal consciousness | Survival**
 
 Lifeticle is a particle that acts as a subject, the so-called observer in the brain, with the following functions:
-1) Perception (Qualia): Visuals, sounds, pain, and other sensations.
+1) Perception (Qualia): Visuals, sounds, pain, and other sensations
 2) Attachment to the organism
 3) Feedback influence on the brain
 
@@ -34,8 +34,8 @@ The brain is not an indivisible object; it is made up of indivisible particles.
 What are you in the brain? Answer: the carrier of consciousness can only be a single indivisible particle.
 It is not possible to choose multiple particles, as they are separate particles.
 This means that in the brain, any particle can be replaced with an identical one, and you wouldn't notice a difference, but if the central particle is replaced, your "self," being removed from the brain, would cease to feel anything.
-The lifeticle is indivisible. If we assume that the lifeticle consists of several particles, then, 
-just like with an organism, the division could continue, and the other particles would be external to the lifeticle.
+The lifeticle is indivisible. If we assume that the lifeticle consists of several particles, 
+then, just like with an organism, the division could continue, and the other particles would be external to the lifeticle.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/2.png" width="250">
 
@@ -51,6 +51,7 @@ To the question of whether there can be another life after death - the answer is
 The state of lifeticle's death before birth is no different from the state of death after.
 The lifeticle already had experienced a state of death prior to their birth, and yet they were born.
 What prevents the particles from assembling again in another form or similarly?
+Physical laws do not prohibit what has already happened according to these very same physical laws.
 In nature, there is a phenomenon known as the cycle of carbon and other elements.
 The possibility of being born a first time means the possibility of being born a second time.
 And full impossibility of being born a second time logically implies the impossibility of being born even once, if there is no mechanism to distinguish one unique occurrence from another.
@@ -204,6 +205,7 @@ Cryonics becomes a moral obligation.
 ---
 
 ### Structure
+
 Structurally, consciousness in the brain consists of:
 1) A functional part of the brain without perception/sensations/qualia/phenomenal consciousness, includes memory
 2) Phenomenal consciousness - the sum of qualia
@@ -294,8 +296,8 @@ If there is no cryocenter nearby, the organism must be prepared for transportati
 1) Wrap the organism in cloth. Place it in a plastic bag
 2) If there are no more than a few days before transfer to the cryocenter, place the organism in a refrigerator at a temperature of 2 degrees, but not lower than 1 degree, to avoid the formation of ice crystals
 3) If the transfer will take longer than a few days, purchase dry ice (read the safety instructions)
-4) If there is no insulated container available, use thermal insulation tape inside the container
-5) Use smaller dry ice pellets to reduce pressure on the organism
+4) If the container is not thermally insulated, apply insulation tape to the inside
+5) Dry ice pellets must be smaller to avoid exerting pressure on the organism and to ensure even cooling
 6) Surround the organism with dry ice inside the container
 7) Check the dry ice daily and replenish it if necessary
 8) If dry ice is unavailable, place the organism in a freezer below 0°C at the lowest possible temperature
@@ -410,7 +412,7 @@ Without uniqueness, there would be no connection with the current brain, just as
 Qualia have a parameter of location; qualia possess a space where the carrier of consciousness resides at the center.  
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/position.png">  
 To say that particles with qualia properties do not exist is to say that an organism does not consist of particles, or that qualia does not exist or is not related to particles.
-The organism consists of particles, and the phenomenon of qualia exists, one must be connected with the other. The theory does not introduce something new, but connects one thing with another.  
+The organism consists of particles and the phenomenon of qualia exists, one must be connected with the other. The theory does not introduce something new, but connects one thing with another.  
 The philosophical term "indivisibility of consciousness" is explained by the indivisible so-called observer, the bearer of consciousness, the lifeticle.
 The fundamentality of qualia means that the ability to experience qualia is also fundamental.
 Quantum indeterminacy is fundamental and cannot be replicated informally.  
@@ -494,12 +496,12 @@ This contradicts the fact that an atom cannot store a lot of different informati
 It does not resolve the speed issue and leads to the overlap of qualia.
 It is not realistic and is provided only as an example of a search.
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/method.png">
-3) Particles are quantumly entangled with each other, the electrical activity around them creates qualia in them, which is felt by the lifeticle connected to them.
+2) Particles are quantumly entangled with each other, the electrical activity around them creates qualia in them, which is felt by the lifeticle connected to them.
 The method corresponds to the Orch OR theory (Orchestrated Objective Reduction) by Penrose and Hameroff.
 In Orch OR, the issue of speed is addressed through frames caused by the collapse of the wave function.
 The method is the main option under consideration.
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/method2.png">
-5) Field.
+3) Field.
 For generation, it must transfer information to the quantum level.
 The method corresponds to the CEMI theory.
 The method is not a generator and can only be considered as an intermediate stage.
@@ -558,7 +560,7 @@ This means that qualia cannot stand behind non-random processes and is connected
 It can be assumed that in the case of negative qualia, the stronger the pain, the stronger the influence on random quantum processes.
 Determining whether free will exists at the level of the lifeticle is only possible by researching reverse influence.
 The transmission of information about the visual image indicates that reverse influence at least operates at the moment of qualia and collapse itself.
-Physicists may begin to hypothesize about which quantum phenomenon could represent the reverse influence.
+Physicists may begin to hypothesize about which quantum phenomenon this reverse influence could be.
 
 **Search for qualia**
 
@@ -734,7 +736,7 @@ If a lifeticle is placed in the center of AI, only then will it be possible, and
 
 **Ethics**
 
-researching the workings of qualia can allow for the consideration of morality/ethics from a scientific perspective, and considering it from a scientific perspective can lead to the development of morality/ethics, including in relation to other forms of life.
+Researching the workings of qualia can allow for the consideration of morality/ethics from a scientific perspective, and considering it from a scientific perspective can lead to the development of morality/ethics, including in relation to other forms of life.
 
 **Difference**
 
@@ -808,7 +810,7 @@ The direction of the qualia field is similar to the spin of a particle.
 
 **Multilayer image**
 
-Is it possible to create qualia of a volumetric image with multiple layers, where one object is visible behind another, and they do not overlap.
+Is it possible to create qualia of a volumetric image with multiple layers, where one object is visible behind another and they do not overlap each other?
 The brain can create a volumetric image of no more than one layer due to evolutionary reasons.
 The question concerns not the brain, but to the very nature of qualia.
 At the same time, the image layer does not appear as something that occupies volume, as if there are two size parameters - height and width - while the third parameter, depth, is absent.
