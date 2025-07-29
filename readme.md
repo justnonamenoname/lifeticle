@@ -30,7 +30,7 @@ If nothing from the body remains from when one was a child, then that body has b
 If the particles that made up the child were gathered again, one might assume that this would be you, not the one in the current body, but this is not the case.
 A complete replacement of the brain would mean that at some point during life you would stop feeling anything, and there would be a different carrier of consciousness.
 Therefore, something remains - a certain central or core particle in the brain, which is the so-called observer (lifeticle).
-You are real "yourself" in the brain, particle that feels - the so-called observer (lifeticle).
+Within the brain, your true self is the particle that experiences - the so‑called observer (lifeticle).
 The brain is not an indivisible object; it is made up of indivisible particles.
 What are you in the brain? Answer: the carrier of consciousness can only be a single indivisible particle.
 It is not possible to choose multiple particles, as they are separate particles.
@@ -46,17 +46,17 @@ The reticular formation is one of the ancient part of the brain from an evolutio
 The central part of the brain is either the reticular formation, the periaqueductal gray matter (where streams from other areas converge), or another adjacent region.
 Without the brain's electrical activity, a person feels nothing.
 Qualia cannot be explained or expressed through anything else, which means it is something fundamental.
-If the lifeticle does not exist, there is nothing on which to converge the signals of the holistically formed picture of the world (qualia of vision, eye images, and other sensory organs) can converge,
+If the lifeticle does not exist, there is nothing on which to converge the signals of the holistically formed picture of the world (qualia of vision and other sense organs) can converge,
 creating a binding problem.
 The lifeticle can be described as a particle capable of qualia - this is its property, fundamentally distinct from the rest of the world,
 and this is life: a living particle (life + particle - lifeticle, lt).
 
-To the question of whether there can be another life after death, the answer is: if after death there is nonexistence, then nonexistence already existed before birth.
+To the question of whether there can be another life after death - the answer is: if after death there is nonexistence, then nonexistence already existed before birth.
 The state of lifeticle's death before birth is no different from the state of death after.
-The lifeticle had already experienced a state of death prior to their birth, and yet they were born.
+The lifeticle already had experienced a state of death prior to their birth, and yet they were born.
 What prevents the particles from assembling again in another form or similarly?
 In nature, there is a phenomenon known as the cycle of carbon and other elements.
-The possibility of being born a first time implies the possibility of being born a second time.
+The possibility of being born a first time means the possibility of being born a second time.
 And full impossibility of being born a second time logically implies the impossibility of being born even once, if there is no mechanism to distinguish one unique occurrence from another.
 
 ---
@@ -337,7 +337,7 @@ Experimental methods for confirming the theory in the research of the brain:
 
 The theory is a direct consequence of the organism's structure.
 In researching the brain, one must start from the principle of maximum divisibility, 
-meaning that the brain consists of indivisible particles and that the carrier of consciousness is located somewhere in the brain (the issue is discussed in the section on the necessity of a consciousness carrier in fundamentality).
+meaning that the brain consists of indivisible particles and that the carrier of consciousness is located somewhere in the brain (see the section on the necessity of the carrier of consciousness).
 To disprove the theory, it is necessary, for example, to prove: 
 that the streams for qualia do not converge on a single particle; that the influence of qualia on the brain is absent; that there are no particles remaining throughout life.
 that particles disappear at death; if we are in virtual reality; that the moment of death exists and undiscovered angels really arrive.
@@ -392,7 +392,8 @@ To prove non-fundamentality, it is enough to provide an example of an entity fro
 That is, the starting point is fundamentality.
 The search for an example of an entity is behind those who wish to attempt to prove that qualia are not fundamental and not unique.  
 In the case of fundamentality, it is impossible to find such an example and prove non-fundamentality.
-If we assume that emergence can create qualia, then still, signals in the brain must converge at a single point through the method of generating qualia, 
+If we assume that emergence (the presence of properties in a system that are not inherent in its individual components) can create qualia, then still, 
+signals in the brain must converge at a single point through the method of generating qualia, 
 otherwise, a binding problem arises, which makes the issue of emergence meaningless.  
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/bind.png" width="400">  
 The properties of emergence can be obtained by modeling, for example: knowing the properties of a water molecule, by modeling a multitude of molecules, 
@@ -420,8 +421,8 @@ The question includes both movement in space on a moving planet and connections 
 To say that the particle lifeticle, which is the carrier of consciousness, the so-called observer, 
 cannot exist is equivalent to saying that there is no carrier of consciousness in the collection of particles forming the brain.  
 The idea of the emergentness of the carrier of consciousness has problems: contradiction - what would happen if some particle is replaced.
-If two brains have two identical emergent carriers of consciousness, then we again arrive at the brain selection problem.
-If particles are replaced with others having the same emergence, the carrier of consciousness would stop receiving qualia, which contradicts the idea of emergence.
+If two brains have two identical emergent carriers of consciousness, then again we come to the problem of choosing the brain.
+If the particles are replaced with others with the same emergentness, the carrier of consciousness will stop receiving qualia, which contradicts the idea of emergentness.
 Emergentness is about properties that can be obtained through modeling. Identity to the carrier of consciousness is not about properties, but about what the carrier physically is.
 The ability to create an identity implies the possibility of creating an identical one, which means no difference exists between them and leads to the problem of how the brain selects between them.
 The uniqueness of the lifeticle is fundamental, cannot be artificially generated, and is analogous to the no-cloning theorem.
@@ -429,11 +430,11 @@ Without uniqueness, there would be no connection with the current brain, just as
 Qualia have a parameter of location; qualia possess a space where the carrier of consciousness resides at the center.  
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/position.png">  
 To say that particles with qualia properties do not exist is to say that an organism does not consist of particles, or that qualia does not exist or is not related to particles.
-An organism consists of particles, and the phenomenon of qualia exists - one must necessarily be connected to the other. The theory does not introduce something new, but connects one thing with another.  
+The organism consists of particles, and the phenomenon of qualia exists, one must be connected with the other. The theory does not introduce something new, but connects one thing with another.  
 The philosophical term "indivisibility of consciousness" is explained by the indivisible so-called observer, the bearer of consciousness, the lifeticle.
 The fundamentality of qualia means that the ability to experience qualia is also fundamental.
-Quantum uncertainty is fundamental and cannot be replicated informally.  
-To say that qualia can be replicated informationally is equivalent in meaning to the idea that quantum uncertainty can be replicated informationally.   
+Quantum indeterminacy is fundamental and cannot be replicated informally.  
+To say that qualia can be replicated informationally is equivalent in meaning to the idea that quantum indeterminacy can be replicated informationally.   
 The statement that since qualia is immeasurable, and therefore does not exist and cannot influence physical processes, contradicts quantum mechanics.
 The no-cloning theorem (that a quantum state cannot be copied) shows the immeasurability of a quantum system, but a quantum system has an impact on physical processes (measurement destroys the quantum state and only obtains part of the information).
 Quantum entanglement and randomness are not directly measurable, entanglement is not directly observable, randomness has no hidden parameters.
@@ -461,9 +462,9 @@ A contradiction of what is already known - such as a violation of the law of ene
 Dark matter is assumed to exist, even though there has been no direct detection.
 The problem in the case of the lifeticle is that the way to detect the property of qualia is unknown.
 It is problematic to prove the existence of another fundamental phenomenon.
-This is known from the position of the lifeticle itself - the very sensation of visual information without the sensation of "yourself" is only possible 
-if the sensation and the so-called observer exist.  
-Detecting a lifeticle will lead to the question: how do we understand that it has the qualia property and it is a lifeticle?  
+This is known from the position of the lifeticle itself - 
+the very sensation of visual information without the sensation of "yourself" is only possible if the sensation and the so-called observer exist.  
+Detection of the lifeticle will lead to the question: how to understand that it has the property of qualia and that it is a lifeticle?  
 Since qualia is based on quantum information, qualia cannot be directly detected.
 If qualia consists of frames, then the simultaneity of frames also adds to the detection problem.
 Experiments in quantum physics take place in an isolated environment and it is unknown whether qualia exists in them, unlike in the brain environment.
@@ -525,7 +526,7 @@ The method corresponds to the CEMI theory.
 The method is not a generator and can only be considered as an intermediate stage.
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/method3.png">
 
-**Size of qualia**
+**Qualia size**
 
 The minimum size of qualia in an image - the smaller the size of a point in the image, the more points are needed to generate it.
 This means that the image point has a size, a formation presumably in the shape of a circle.
@@ -579,7 +580,7 @@ This means that qualia cannot stand behind non-random processes and is connected
 It can be assumed that in the case of negative qualia, the stronger the pain, the stronger the influence on random quantum processes.
 Determining whether free will exists at the level of the lifeticle is only possible by researching reverse influence.
 The transmission of information about the visual image indicates that reverse influence at least operates at the moment of qualia and collapse itself.
-Physicists may begin to hypothesize about which quantum phenomenon this reverse influence could be.
+Physicists may begin to hypothesize about which quantum phenomenon could represent the reverse influence.
 
 **Search for qualia**
 
@@ -592,7 +593,7 @@ The chain [signals - qualia] leads to two possibilities:
 1) Qualia cannot be detected, and then the signals appear as leading nowhere without effect
 2) Qualia can be detected as an quantum effect of reverse influence
 
-A quantum phenomenon leads to qualia. Physicists may start to hypothesize about which quantum phenomenon it could be and start creating a model of the qualia generator.
+A quantum phenomenon leads to qualia. Physicists may begin to hypothesize about which quantum phenomenon it could be and start creating a model of the qualia generator.
 
 **Fundamentality in the brain**
 
@@ -923,7 +924,7 @@ The answer to what a lifeticle is and how qualia are generated will also determi
 In the brain, no other attached particles occupying volume have been found.
 This may suggest that the lifeticle is located within an atom.
 In this case, the lifeticle does not need to be moved to appear in the brain during its formation.
-It is more complex for the lifeticle to end up in the brain through evolutionary development, but if it is in the atom, then this additional complexity is unnecessary.
+It is more difficult for the lifeticle to end up in the brain through evolutionary development, but if it is in the atom, then this additional complexity is unnecessary.
 
 **Ship of theseus**
 
