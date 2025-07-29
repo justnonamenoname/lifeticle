@@ -34,8 +34,7 @@ The brain is not an indivisible object; it is made up of indivisible particles.
 What are you in the brain? Answer: the carrier of consciousness can only be a single indivisible particle.
 It is not possible to choose multiple particles, as they are separate particles.
 This means that in the brain, any particle can be replaced with an identical one, and you wouldn't notice a difference, but if the central particle is replaced, your "self," being removed from the brain, would cease to feel anything.
-The lifeticle is indivisible. If we assume that the lifeticle consists of several particles, 
-then, just like with an organism, the division could continue, and the other particles would be external to the lifeticle.
+The lifeticle is indivisible. If we assume that the lifeticle consists of several particles, then, just like with an organism, the division could continue, and the other particles would be external to the lifeticle.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/2.png" width="250">
 
@@ -385,12 +384,11 @@ If we assume that emergence (the presence of properties in a system that are not
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/bind.png" width="400">  
 The properties of emergence can be obtained by modeling, for example: knowing the properties of a water molecule, by modeling a multitude of molecules, we can obtain the properties of water.  
 The problem of pointwise binding requires a separate physical law, which also points to the fundamentality of qualia (the issue is discussed in the section on the connection between qualia and the brain).  
-If we find a neuron that contains information about a red color point, then the question arises: why does this lead to the color red?
-Without introducing qualia as a separate entity, it cannot be avoided.  
-The fact that the brain is divided into regions, and that these regions influence qualia generation, does not contradict the existence of signal convergence for qualia to a central point - whose absence leads to the binding problem.
+If we find a neuron that contains information about a red color point, then the question arises: why does this result in the experience of red, and without introducing qualia as a separate entity, it cannot be avoided.  
+The fact that the brain is divided into regions and that they influence the generation of qualia, does not contradict the existence of signal convergence for qualia into a central point, the absence of which leads to the binding problem.
 No separation of qualia across different parts of the brain was found.
 The functional part of the brain relates to the "easy problem of consciousness"/"access consciousness".
-To say qualia don't exist as a distinct phenomenon and based on information is equivalent in meaning to claiming a monitor resides in a processor.  
+To say that qualia, as a separate phenomenon, do not exist and are merely based on information is equivalent in meaning to the idea that the processor displays information without a monitor.  
 The non-existence of qualia would mean that a person has no visual perception, no auditory experience, no pain sensation, and the organism functions without phenomenal consciousness.
 Qualia are not something separate, they are connected to the carrier of consciousness.  
 In informational theories there are no qualia and no consciousness carrier to which they are directed, they do not solve the problem of pointwise binding.
@@ -409,7 +407,7 @@ Emergentness is about properties that can be obtained through modeling. Identity
 The ability to create an identity implies the possibility of creating an identical one, which means no difference exists between them and leads to the problem of how the brain selects between them.
 The uniqueness of the lifeticle is fundamental, cannot be artificially generated, and is analogous to the no-cloning theorem.
 Without uniqueness, there would be no connection with the current brain, just as there is no connection with another brain that is not one’s own.  
-Qualia have a parameter of location; qualia possess a space where the carrier of consciousness resides at the center.  
+Qualia have a parameter of location relative to a reference point in space, where the center is occupied by the consciousness bearer.  
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/position.png">  
 To say that particles with qualia properties do not exist is to say that an organism does not consist of particles, or that qualia does not exist or is not related to particles.
 The organism consists of particles and the phenomenon of qualia exists, one must be connected with the other. The theory does not introduce something new, but connects one thing with another.  
@@ -907,8 +905,7 @@ The idea of multiple consciousnesses, where many lifeticles exist in the brain a
 This idea is structurally more complex, both in terms of evolution and considering the influence of the lifeticle itself.
 There are no reasons for such complexity; the idea is evolutionarily improbable.
 In the case of the division of the brain into two parts, if there are actually two consciousnesses, then this means that there are two centers in the brain and two consciousnesses were there before the division.
-If the recipient of the wave function is particles that are part of the wave function, then it is different at different moments, 
-both in the type and in the quantity of qualia, and therefore in the number of participating particles.
+If the recipient of the wave function is particles that are part of the wave function, then it is different at different moments, both in the type and in the quantity of qualia, and therefore in the number of participating particles.
 Then some lifeticles would live life only during certain qualia, for example, only when there is a specific pain, which looks self-contradictory.
 The variant in which several lifeticles are the recipients is possible, but also redundant and evolutionarily complex.  
 The question is also related to the no-cloning theorem, since one quantum state is inhabited by 2 lifeticles, but the theorem is not necessarily violated if both lifeticles were part of the wave function.
