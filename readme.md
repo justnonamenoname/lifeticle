@@ -182,6 +182,7 @@ Four possibilities after death:
 
 Only possible discoveries in physics could exclude the scenario of zero eternity.
 And even then, only if the universe undergoes cyclical stages of expansion and contraction, and physics can detect this.
+
 Therefore, the future after death is highly unclear and ambiguous; it represents a great uncertainty, which also makes our life more valuable.
 
 ---
