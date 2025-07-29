@@ -151,6 +151,7 @@ What if the universe in the future can no longer sustain life or generate qualia
 
 One of such variants is the variant of dark energy, in which in the distant future dark energy will start expanding space more and more strongly, and so strongly that atomic structures will no longer be able to hold themselves together. 
 It is a time when life will no longer be possible, and the universe will enter eternal expansion.
+
 Since there is no such electronic activity around the lifeticle after death as there is in the brain, nothing is felt after death, and the next life begins instantly.
 Even if millions of years have passed.
 If nothing is felt, then this time effectively does not exist for you.
