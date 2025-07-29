@@ -398,8 +398,7 @@ does not contradict the existence of signal convergence for qualia to a central 
 No separation of qualia across different parts of the brain was found.
 The functional part of the brain relates to the "easy problem of consciousness"/"access consciousness".
 To say qualia don't exist as a distinct phenomenon and based on information is equivalent in meaning to claiming a monitor resides in a processor.  
-The non-existence of qualia would mean humans have no visual perception, no auditory experience, no pain sensation - this constitutes a dead state, 
-where the organism operates without phenomenal consciousness.  
+The non-existence of qualia would mean that a person has no visual perception, no auditory experience, no pain sensation, and the organism functions without phenomenal consciousness.
 Qualia are not something separate, they are connected to the carrier of consciousness.  
 In informational theories there are no qualia and no consciousness carrier to which they are directed, they do not solve the problem of pointwise binding.
 The formation of a qualia-based image from spatially distributed information would violate the principle of locality and imply magical action at a distance.
@@ -536,7 +535,8 @@ The speed of the passage of time cannot be set for sensations, as the speed of t
 However, if it is set by a separate signal, then without the signal, the speed is not chosen.
 Time in qualia would lead to its overlapping.
 There remains an option where speed is set by the number of frames, a method used in quantum theory Orch OR.
-If the frames of the image and sound were separate, it would lead to flickering of both the image and the sound. But this appears as a violation of continuity.
+If the frames of the image and sound were separate, it would lead to flickering of both the image and the sound.
+But this appears as a violation of continuity.
 Smoothness in the passage of time occurs either by an instantaneous skip of time without qualia, or by a separate method.
 To remove information from a superposition, a collapse is required; in order for some qualia not to exist in the next second, collapse is a necessary condition.
 Reasons why qualia might be thought to occur at the moment of collapse, rather than the wave function itself:
