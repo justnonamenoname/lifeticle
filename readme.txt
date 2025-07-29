@@ -929,8 +929,7 @@ The answer implies that the universe has a beginning of time, and one might assu
 The moment of beginning at birth makes no sense, since the organism is built from particles that existed previously;
 birth is merely the relocation of specific atoms or particles from one position to another.
 Some physicists suggest that in reverse time, time itself is circular at its origin, making it potentially infinite - it loops back on itself.
-In one direction, there is a starting point, while in the other, an endless circular loop.
-Such an idea somewhat addresses the question of the universe's starting point in time.
+In one direction, there is a starting point, while in the other, an endless circular loop. Such an idea somewhat addresses the question of the universe's starting point in time.
 
 Other lifeticles
 
