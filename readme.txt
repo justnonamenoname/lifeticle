@@ -39,7 +39,7 @@ The central part of the brain is either the reticular formation, the periaqueduc
 Without the brain's electrical activity, a person feels nothing.
 Qualia cannot be explained or expressed through anything else, which means it is something fundamental.
 If the lifeticle does not exist, there is nothing on which to converge the signals of the holistically formed picture of the world (qualia of vision and other sense organs) can converge, creating a binding problem.
-The lifeticle can be described as a particle capable of qualia - this is its property, fundamentally distinct from the rest of the world, and this is life: a living particle (life + particle - lifeticle, lt).
+The lifeticle can be described as a particle capable of qualia - this is its property, fundamentally distinct from the rest of the world, and this is life: a living particle (life+particle - lifeticle, lt).
 
 To the question of whether there can be another life after death - the answer is: if after death there is nonexistence, then nonexistence already existed before birth.
 The state of lifeticle's death before birth is no different from the state of death after.
@@ -94,7 +94,7 @@ Or if robots destroy the world and construct hell, either accidentally or intent
 Such robots could endlessly grow humans in incubators and inflict pain on them.
 On the planet, there are already species evolving in relation to each other - one species changes to efficiently eat the other, while the other evolves to protect itself from being eaten.
 This is hell.
-It is unlikely that after intelligent life has emerged on Earth, evolution will lead to its re-emergence again from scratch.
+It is unlikely that after the emergence of intelligent life on Earth, evolution will lead to its re-emergence again from scratch.
 Humans with technology will be able to modify other species so they no longer engage in the struggle for survival, so one species does not eat another.
 To end the suffering of other species, to stop the existing hell for those who experience it, so that being born as another species would not evoke fear.
 Even if humanity goes extinct, other species could evolve over millions of years, with the exception of the complete destruction of life conditions on the planet.
@@ -357,7 +357,7 @@ In the case of fundamentality, it is impossible to find such an example and prov
 If we assume that emergence (the presence of properties in a system that are not inherent in its individual components) can create qualia, then still, signals in the brain must converge at a single point through the method of generating qualia, otherwise, a binding problem arises, which makes the issue of emergence meaningless.
 The properties of emergence can be obtained by modeling, for example: knowing the properties of a water molecule, by modeling a multitude of molecules, we can obtain the properties of water.
 The problem of pointwise binding requires a separate physical law, which also points to the fundamentality of qualia (the issue is discussed in the section on the connection between qualia and the brain).
-If we find a neuron that contains information about a red color point, then the question arises: why does this result in the experience of red, and without introducing qualia as a separate entity, it cannot be avoided.
+If we find a neuron that contains information about a red color point, then the question arises: why does this result in the experience of red, and without introducing qualia as a distinct phenomenon, this cannot be resolved.
 The fact that the brain is divided into regions and that they influence the generation of qualia, does not contradict the existence of signal convergence for qualia into a central point, the absence of which leads to the binding problem.
 No separation of qualia across different parts of the brain was found.
 The functional part of the brain relates to the "easy problem of consciousness"/"access consciousness".
