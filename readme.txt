@@ -19,8 +19,7 @@ There is no magic in either birth or death that destroys or creates particles.
 Even during life, many of the body's cells and particles are replaced.
 The body can undergo a kidney transplant and continue to live.
 With partial brain damage or the removal of certain parts, life continues as well.
-Bones are replaced over a period of 10 years, the liver renews itself over several years, the heart is replaced halfway during a lifetime,
-the retina does not regenerate, and brain cells are partially replaced.
+Bones are replaced over a period of 10 years, the liver renews itself over several years, the heart is replaced halfway during a lifetime, the retina does not regenerate, and brain cells are partially replaced.
 
 If cells were fully replaced, it would imply death.
 If nothing from the body remains from when one was a child, then that body has been destroyed and died, and what exists now is a different one.
@@ -97,8 +96,7 @@ And it would be wonderful, if not for the possible problems.
 But what if the world descends into an unbeatable fascism?
 Or if robots destroy the world and construct hell, either accidentally or intentionally.
 Such robots could endlessly grow humans in incubators and inflict pain on them.
-On the planet, there are already species evolving in relation to each other - one species changes to efficiently eat the other,
-while the other evolves to protect itself from being eaten.
+On the planet, there are already species evolving in relation to each other - one species changes to efficiently eat the other, while the other evolves to protect itself from being eaten.
 This is hell.
 It is unlikely that after intelligent life has emerged on Earth, evolution will lead to its re-emergence again from scratch.
 Humans with technology will be able to modify other species so they no longer engage in the struggle for survival, so one species does not eat another.
@@ -114,8 +112,7 @@ Such hell could persist until the destruction of the environment.
 This is billions of years, if robots do not relocate to another planet when this one is destroyed by the sun, or until matter decays or the universe collapses, if the universe is cyclical.
 
 In the future, an organization might be established to prevent a descent into a non-free hell.
-A virtual reality could be constructed where, in the base reality, people are confined to virtual reality with no means of escape.
-And within the virtual reality, there is freedom and paradise.
+A virtual reality could be constructed where, in the base reality, people are confined to virtual reality with no means of escape. And within the virtual reality, there is freedom and paradise.
 This is a combination of freedom and non-freedom - a paradise that cannot be left. Such a paradise could be stable.
 And in the event of the sun's death, the population could simply be transferred to another planet, possibly even automatically.
 
@@ -149,8 +146,7 @@ Even if millions of years have passed.
 If nothing is felt, then this time effectively does not exist for you.
 Even during life, the flow of time can feel slower or faster, while in dreamless sleep, time passes instantly.
 
-If the next life never begins, and the universe has entered eternal expansion, what do you experience? 
-An infinity multiplied by zero?
+If the next life never begins, and the universe has entered eternal expansion, what do you experience? An infinity multiplied by zero?
 An infinity passing instantly? This is impossible; time would still remain.
 This leads to a paradox, and therefore a mystery.
 At the same time, there is no moment where one could definitively say that the situation has closed and some change must have occurred.
@@ -168,8 +164,7 @@ Four possibilities after death:
 3) Birth along the evolutionary path, between paradise and hell
 4) The paradox of "zero eternity"
 
-Only possible discoveries in physics could exclude the scenario of zero eternity.
-And even then, only if the universe undergoes cyclical stages of expansion and contraction, and physics can detect this.
+Only possible discoveries in physics could exclude the scenario of zero eternity. And even then, only if the universe undergoes cyclical stages of expansion and contraction, and physics can detect this.
 
 Therefore, the future after death is highly unclear and ambiguous; it represents a great uncertainty, which also makes our life more valuable.
 
@@ -234,8 +229,7 @@ Only discoveries in the field of physics can refine this concept.
 The lifeticle must have physical properties; otherwise, it could not maintain its position during motion.
 And in the future, scientists may be able to come closer to the mystery of consciousness and the question of the central particle, and answer the questions posed in the theory.
 
-At one time, people struggled to understand the motion of planets, and there were various ideas.
-When the correct understanding of their motion was established, other ideas fell away as less accurate.
+At one time, people struggled to understand the motion of planets, and there were various ideas. When the correct understanding of their motion was established, other ideas fell away as less accurate.
 It is unclear why the idea of the lifeticle did not become the main focus earlier. It is simpler, and in some ways, even more banal, in contrast to the absurd notion of flying angels and a religious paradise.
 The human body is made of something, then that something does not disappear after death and existed before birth.
 If you, as a lifeticle, did not exist before your birth, then no matter what happened in the world, you could not have come to exist in it.
@@ -360,8 +354,7 @@ There are two options when it comes to the fundamental nature of qualia and its 
 1) Not fundamental - it is possibly explained through other phenomena.
 2) Fundamental - it cannot be explained through other phenomena.
 Trying to prove fundamentality - is to prove the impossibility of explanation and that no other phenomenon exists that would make qualia non-unique.
-To prove non-fundamentality, it is enough to provide an example of an entity from which qualia may consist.
-That is, the starting point is fundamentality.
+To prove non-fundamentality, it is enough to provide an example of an entity from which qualia may consist. That is, the starting point is fundamentality.
 The search for an example of an entity is behind those who wish to attempt to prove that qualia are not fundamental and not unique.
 In the case of fundamentality, it is impossible to find such an example and prove non-fundamentality.
 If we assume that emergence (the presence of properties in a system that are not inherent in its individual components) can create qualia, 
@@ -431,8 +424,7 @@ Proof problem
 Dark matter is assumed to exist, even though there has been no direct detection.
 The problem in the case of the lifeticle is that the way to detect the property of qualia is unknown.
 It is problematic to prove the existence of another fundamental phenomenon.
-This is known from the position of the lifeticle itself - 
-the very sensation of visual information without the sensation of "yourself" is only possible if the sensation and the so-called observer exist.
+This is known from the position of the lifeticle itself - the very sensation of visual information without the sensation of "yourself" is only possible if the sensation and the so-called observer exist.
 Detection of the lifeticle will lead to the question: how to understand that it has the property of qualia and that it is a lifeticle?
 Since qualia is based on quantum information, qualia cannot be directly detected.
 If qualia consists of frames, then the simultaneity of frames also adds to the detection problem.
@@ -561,8 +553,7 @@ Change of qualia
 
 Upon seeing an image and its distorted version, one can imagine another image with this distortion.
 Upon hearing a sound and a version with a different volume/its distortion, one can imagine another sound with a different volume/distortion.
-In the brain, a comparison of two similar sounds takes place, and the difference is determined, 
-which can be used to generate qualia of another sound with a different volume/distortion.
+In the brain, a comparison of two similar sounds takes place, and the difference is determined, which can be used to generate qualia of another sound with a different volume/distortion.
 This should be discovered when researching the brain.
 
 Transfer of qualia
@@ -570,8 +561,7 @@ Transfer of qualia
 Qualia are not information, if a person has never seen the color red, it cannot be explained to them.
 Qualia is caused by a physical process, to reproduce it one must know how to repeat the physical process.
 Since qualia is based on a quantum state, and the no-cloning theorem prohibits copying an unknown quantum state, qualia cannot be transmitted; one can only repeat the process of creating the qualia of a quantum state.
-Once the person has seen the color red, it is possible to reimagine it.
-Information about the sensation of color is stored in the brain, and the brain, using this information, is capable of reproducing the color through the method of generating qualia.
+Once the person has seen the color red, it is possible to reimagine it. Information about the sensation of color is stored in the brain, and the brain, using this information, is capable of reproducing the color through the method of generating qualia.
 Qualia can be transferred in another way.
 The chain [Light waves - eyes - brain - generator - wave function - qualia]
 is replaced by [Simulation of the process in the brain - generator - wave function - qualia].
@@ -674,17 +664,14 @@ Types of qualia
 
 Oratosquilla oratoria - or Mantis shrimps have two large, branching compound eyes. These eyes have 16 types of photoreceptors (while humans have 2: cones and rods).
 Mantis shrimps are also capable of distinguishing infrared and ultraviolet colors and seeing linear and circular polarization.
-This raises the question - do these 16 types of photoreceptors see color in the same spectrum as humans - a mixture of 3 colors: 
-blue, red, and green, or are other types of color sensations available to them?
-In addition to color itself, there is also brightness and distance in the perception of color.
-This raises the question of what other types of sensations are available besides the basic organs.
+This raises the question - do these 16 types of photoreceptors see color in the same spectrum as humans - a mixture of 3 colors: blue, red, and green, or are other types of color sensations available to them?
+In addition to color itself, there is also brightness and distance in the perception of color. This raises the question of what other types of sensations are available besides the basic organs.
 Music can also create sensations/impressions that have not been experienced before, and they are not repeated elsewhere.
 The organism is evolutionarily limited; for example, sharper vision leads to the brain having to process more information, 
 which is more complex, requires more attention, and slows reaction time.
 Similarly, enhanced hearing would require more brain capacity.
 A dog's excellent sense of smell helps it find food, while an eagle is aided by sharp vision.
-The question is divided into two parts: what sensations and of what strength the brain is capable of generating, 
-and what types are generally possible, and whether their number is limited.
+The question is divided into two parts: what sensations and of what strength the brain is capable of generating, and what types are generally possible, and whether their number is limited.
 This may mean that the potential for happiness and its diversity has not been revealed.
 The research of the qualia generator is a path to the revelation of the potential of happiness.
 Since qualia depends on the wave function, the parameters of qualia are set through the Hilbert space.
@@ -732,8 +719,7 @@ For information, there are qualia, and this complicates the concept of informati
 
 Time flow
 
-It is possible that in the state of death, there may be activity around the lifeticle that generates qualia, 
-and while being dead, something might be felt, and time does not pass instantly.
+It is possible that in the state of death, there may be activity around the lifeticle that generates qualia, and while being dead, something might be felt, and time does not pass instantly.
 This depends on the surrounding environment; in the case of a prolonged environment generating qualia, it resembles the next life.
 However, in the case of the infinite expansion of the universe around the lifeticle, nothing alike, and this also resets time.
 This option may not work in a cyclic universe, as there is no infinite expansion, and activity that generates qualia may remain around the lifeticle.
@@ -741,8 +727,7 @@ It is possible that during sleep, one might feel something but not remember it. 
 As a counterargument - in sleep, there are no random sensations, and the speed of time can vary.
 If a person does not want to experience sensations, disabling the generation of qualia by the brain is not a solution; 
 a minimum level of qualia is necessary for time not to pass instantly. This option is excluded due to the uncertainty about what causes qualia.
-This may indicate an unlikely error in the article, for which there are no visible reasons.
-This is necessary for the introduction of "zero eternity," but it does not affect the overall concept.
+This may indicate an unlikely error in the article, for which there are no visible reasons. This is necessary for the introduction of "zero eternity," but it does not affect the overall concept.
 
 ========================
 
@@ -757,10 +742,8 @@ This means that it is possible to change this definition and set the distance to
 Position in space
 
 Qualia, despite the fact that they cannot be expressed through other entities, have their position in space.
-But they are definitely not located in the exact space where they are felt - otherwise, the pain in the leg should be located directly in the leg, 
-instead a signal comes from the leg to the brain.
-It can be assumed that they are located at the atomic scale; for example, a distance of 1 meter would correspond to 1 thousandth of an atom, 
-and a sensation at a distance of 1 kilometer would correspond to the size of an atom.
+But they are definitely not located in the exact space where they are felt - otherwise, the pain in the leg should be located directly in the leg, instead a signal comes from the leg to the brain.
+It can be assumed that they are located at the atomic scale; for example, a distance of 1 meter would correspond to 1 thousandth of an atom, and a sensation at a distance of 1 kilometer would correspond to the size of an atom.
 In this case, you cannot feel anything further than a kilometer.
 Qualia have a real spatial location, but their size is extremely small - comparable to that of a molecule.
 As you grow older, objects are felt to be of a different size, and even if there is a separate area of space around the lifeticle and the sizes of sensations are larger, 
@@ -771,8 +754,7 @@ An experiment on creating pain at a distance and researching a qualia generator 
 Space
 
 The space of qualia may be connected to the real one.
-This may mean that qualia cannot participate in 4-dimensional space.
-Clarifying this question requires researching how the coordinates of qualia are defined.
+This may mean that qualia cannot participate in 4-dimensional space. Clarifying this question requires researching how the coordinates of qualia are defined.
 Space can be distorted according to the theory of relativity. How is this connected to the space of qualia?
 1) The qualia field has its own internal space
 2) The qualia field itself is distorted along with the distortion of space; for example, a massive gravitational wave can distort the image
@@ -794,8 +776,7 @@ Multilayer image
 Is it possible to create qualia of a volumetric image with multiple layers, where one object is visible behind another and they do not overlap each other?
 The brain can create a volumetric image of no more than one layer due to evolutionary reasons.
 The question concerns not the brain, but to the very nature of qualia.
-At the same time, the image layer does not appear as something that occupies volume, 
-as if there are two size parameters - height and width - while the third parameter, depth, is absent.
+At the same time, the image layer does not appear as something that occupies volume, as if there are two size parameters - height and width - while the third parameter, depth, is absent.
 
 ========================
 
@@ -831,8 +812,7 @@ A violation of the internal causal chain in the existence of the lifeticle: if t
 this would imply that the lifeticle already exists, i.e., it is its own cause for existence - as if it created itself, which is a paradox.
 This also means that it cannot not exist.
 This also answers the question of the meaning of life.
-The purpose of the lifticle's creation is the meaning of life, but since the lifticle's existence is a paradox, 
-the meaning of life lies in the paradox.
+The purpose of the lifticle's creation is the meaning of life, but since the lifticle's existence is a paradox, the meaning of life lies in the paradox.
 At the same time, there are directions of life: happiness/positive qualia, pain/negative qualia, and "zero eternity".
 
 Status
@@ -884,7 +864,8 @@ If the recipient of the wave function is particles that are part of the wave fun
 both in the type and in the quantity of qualia, and therefore in the number of participating particles.
 Then some lifeticles would live life only during certain qualia, for example, only when there is a specific pain, which looks self-contradictory.
 The variant in which several lifeticles are the recipients is possible, but also redundant and evolutionarily complex.
-The question is also related to the no-cloning theorem, since one quantum state is inhabited by 2 lifeticles, but the theorem is not necessarily violated if both lifeticles were part of the wave function.
+The question is also related to the no-cloning theorem, since one quantum state is inhabited by 2 lifeticles,
+but the theorem is not necessarily violated if both lifeticles were part of the wave function.
 If at the moment of collapse a qualia object is created from the wave function, then for two lifeticles 2 qualia objects should be created, which contradicts the no-cloning theorem.
 The combination of the feedback from two lifeticles in one collapse could possibly be conflicting.
 Even if in quantum phenomenal consciousness the recipient is not supposed to be 1 particle, the no-cloning theorem points to such a possibility by introducing a lifeticle.
@@ -904,14 +885,12 @@ Elementary particles
 
 When questioning what the lifeticle is, one might ask: are the actions of elementary particles actually living actions rather than automatic ones? Several points argue against this.
 They perform actions, but phenomenal consciousness does not perform any such actions.
-Space itself is something.
-It is difficult to imagine that the elements composing space are alive, or that qualia could be directed to such elements.
+Space itself is something. It is difficult to imagine that the elements composing space are alive, or that qualia could be directed to such elements.
 Qualia appear as a non-living, automatic mechanism.
 This shows that reality functions independently of consciousness.
 If we are in a virtual reality, this applies to the base reality as well - life and independent elementary particles exist there.
 As a counterargument, the function of lifeticle attachment is automatic.
-The fact that the lifeticle has physical properties in some way brings the world/reality and consciousness closer together, 
-which may raise the question of whether elementary particles are alive.
+The fact that the lifeticle has physical properties in some way brings the world/reality and consciousness closer together, which may raise the question of whether elementary particles are alive.
 The theory is compatible with panpsychism in relation to elementary particles, if this does not contradict quantum field theory, since particles are based on fields.
 However, there is no such contradiction in string theory; this may mean that the lifeticle has already been discovered, but the property of qualia has not been identified.
 In a completed physical theory, qualia must be present either as a discovered lifeticle particle or as a defined property of an elementary particle.
@@ -923,7 +902,8 @@ A philosophical zombie is not physically identical to a human since it lacks the
 Beginning of existence
 
 If the moment when the lifeticle begins to exist is neither the moment of birth nor during the nine months of pregnancy, then what moment could it be?
-In reverse time, it cannot be infinite - that would be a paradox: no matter how far back time is rewound, there would still be more time remaining. But this would also mean that an infinite amount of time has already passed, which is impossible.
+In reverse time, it cannot be infinite - that would be a paradox: no matter how far back time is rewound, there would still be more time remaining.
+But this would also mean that an infinite amount of time has already passed, which is impossible.
 The answer implies that the universe has a beginning of time, and one might assume that this is also the beginning of the lifeticle's existence.
 The moment of beginning at birth makes no sense, since the organism is built from particles that existed previously;
 birth is merely the relocation of specific atoms or particles from one position to another.
@@ -1021,7 +1001,8 @@ This cancels the connection of consciousness with the collapse in the experiment
 Wolfram's theory
 
 The elements of the hypergraph in Wolfram's theory are too small compared to the size of an atom to serve as the main particle of an organism.
-So in addition to the hypergraph, there must be life particles that attach to the organism but cannot attach to elements of the hypergraph that are too small.
+So in addition to the hypergraph, 
+there must be life particles that attach to the organism but cannot attach to elements of the hypergraph that are too small.
 This may indicate that Wolfram's theory is incorrect.
 
 If the qualia field is three-dimensional, it fits poorly with the space of Wolfram's theory:
