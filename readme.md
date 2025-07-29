@@ -1010,8 +1010,7 @@ The problem with this idea is that the universe would need to have an endpoint, 
 
 **Number of lifeticles**
 
-Is the number of lifeticles in reality limited?
-The diameter of the universe is at least 40 times larger than the observable universe, and it is unknown whether it is infinite.
+Is the number of lifeticles in reality limited? The diameter of the universe is at least 40 times larger than the observable universe, and it is unknown whether it is infinite.
 If it is infinite, then the number of subjects would also be unlimited.
 The question of whether other universes exist is equivalent to asking whether there is more space with matter somewhere else in the universe if its size is finite.
 
