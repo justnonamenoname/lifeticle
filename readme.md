@@ -29,7 +29,7 @@ If nothing from the body remains from when one was a child, then that body has b
 If the particles that made up the child were gathered again, one might assume that this would be you, not the one in the current body, but this is not the case.
 A complete replacement of the brain would mean that at some point during life you would stop feeling anything, and there would be a different carrier of consciousness.
 Therefore, something remains - a certain central or core particle in the brain, which is the so-called observer (lifeticle).
-Within the brain, your true self is the particle that experiences - the so‑called observer (lifeticle).
+In the brain, your true self is the particle that experiences - the so‑called observer (lifeticle).
 The brain is not an indivisible object; it is made up of indivisible particles.
 What are you in the brain? Answer: the carrier of consciousness can only be a single indivisible particle.
 It is not possible to choose multiple particles, as they are separate particles.
@@ -66,7 +66,7 @@ Particles continue to remain in the brain.
 If we consider the moment of loss of consciousness, a person can feel nothing during sleep or fainting as well.
 Theoretically, recovery is possible from any level (not referring to technical feasibility at this time).
 One might assume death as the separation of surrounding atoms from the lifeticle, but for whom or for what, and why should this be defined as death?
-If in a religious sense, and there are angels, what happens if they don't come? But there is no reason to believe such angels exist.
+If angels exist in the religious sense, what would happen if none of them were to arrive? But there is no reason to believe such angels exist.
 If we are in a virtual reality, then the computer in the base reality must oversee this, but what if it doesn't?
 But in base reality, we could question - are we in a virtual reality?
 What makes this question lead nowhere and be meaningless.
@@ -99,7 +99,7 @@ Or if robots destroy the world and construct hell, either accidentally or intent
 Such robots could endlessly grow humans in incubators and inflict pain on them.
 On the planet, there are already species evolving in relation to each other - one species changes to efficiently eat the other, while the other evolves to protect itself from being eaten.
 This is hell.
-It is unlikely that after the emergence of intelligent life on Earth, evolution will lead to its re-emergence again from scratch.
+It is unlikely that after the emergence of intelligent life, evolution will lead to its re-emergence again from scratch.
 Humans with technology will be able to modify other species so they no longer engage in the struggle for survival, so one species does not eat another.
 To end the suffering of other species, to stop the existing hell for those who experience it, so that being born as another species would not evoke fear.
 Even if humanity goes extinct, other species could evolve over millions of years, with the exception of the complete destruction of life conditions on the planet.
@@ -321,7 +321,7 @@ Dry ice should only be disposed of in a well-ventilated area or an open outdoor 
 **Experimental methods**
 
 Experimental methods for confirming the theory in the research of the brain:
-1) The streams for qualia must converge on a single particle through the method of quantum entanglement
+1) The streams of qualia must converge on a single particle via quantum entanglement
 2) The effect of the lifeticle and information about qualia on the brain
 3) The lifeticle must not be replaced by something else throughout life
 
@@ -334,21 +334,21 @@ The law of conservation of energy and the circulation of particles in nature lea
 To refute it, it is necessary to refute either the law of conservation of energy or the circulation of particles.
 The question: what happens if the brain's particles end up in different brains of other organisms, leads to the idea of the consciousness carrier as a single particle.
 
-**Path of research**
+**Research path**
 
 The following steps must be completed for research:
-1) Identify the minimally required active brain regions (neurobiologists have already identified several candidates)
+1) Identify the minimally required active brain regions for consciousness (neurobiologists have already identified several candidates)
 2) Research of visual signaling pathways, primarily in areas identified by neuroscientists
-3) Determine point of signals convergence
-4) Explore how information transfers to the quantum level, this will confirm the existence of phenomenal consciousness and will allow to determine the exact formulas of qualia
+3) Determining where signals converge
+4) Research how information transfers to the quantum level, which will confirm the existence of phenomenal consciousness and will allow to determine the exact formulas of qualia
 5) Research random quantum processes associated with qualia, this will allow us to determine the information coming from qualia and how reverse influence of qualia affects the brain
-6) Researching feedback influence will help determine how phenomenal consciousness became entrenched in evolution
+6) Researching reverse influence will help determine how phenomenal consciousness became entrenched in evolution
 7) Identify a shared node for vision and hearing, which is activated without vision and sound
-8) Assess whether particles in this node are replaced during life to exclude lifeticle candidates
-9) Research how the brain sets frame rate of consciousness and collapses
+8) Assess whether particles in this node are replaced during life, this will allow to exclude lifeticle candidates
+9) Determine precisely how the brain sets the frame rate of consciousness and the timing of collapse events
 10) Depending on the structure, this may help determine the location of the lifeticle
 11) Removing particles from the central node can show whether this changes reverse influence in the form of random processes
-12) Further help may be provided by researching the coding of the node structure in DNA.
+12) Researching how the node structure is encoded in DNA may provide additional assistance.
 13) Researching the node in other species, a different type of node may show a difference that allows to exclude inappropriate particles
 14) Determine the exact properties of the lifeticle via quantum interactions
 
@@ -386,7 +386,7 @@ The properties of emergence can be obtained by modeling, for example: knowing th
 The problem of pointwise binding requires a separate physical law, which also points to the fundamentality of qualia (the issue is discussed in the section on the connection between qualia and the brain).  
 If we find a neuron that contains information about a red color point, then the question arises: why does this result in the experience of red, and without introducing qualia as a distinct phenomenon, this cannot be resolved.  
 The fact that the brain is divided into regions and that they influence the generation of qualia, does not contradict the existence of signal convergence for qualia into a central point, the absence of which leads to the binding problem.
-No separation of qualia across different parts of the brain was found.
+No separation of qualia across different parts of the brain has been found.
 The functional part of the brain relates to the "easy problem of consciousness"/"access consciousness".
 To say that qualia, as a separate phenomenon, do not exist and are merely based on information is equivalent in meaning to the idea that the processor displays information without a monitor.  
 The non-existence of qualia would mean that a person has no visual perception, no auditory experience, no pain sensation, and the organism functions without phenomenal consciousness.
@@ -458,7 +458,7 @@ Reasons why there are grounds to consider the lifeticle as existing:
 5) Solution to the question of brain replacement by particles
 6) The problem of temporal binding - why qualia from the past continue to be felt in the future
 7) The fundamentality of qualia points to the fundamentality of the property of experiencing qualia, which cannot be emergent or composite and is a property of an indivisible particle
-8) The problem of pointwise binding, size and reverse influence of qualia is related to quantum laws, which in itself points to a particle
+8) The problem of pointwise binding, size and reverse influence of qualia are related to quantum laws, which in itself points to a particle
 
 The theory of phenomenal consciousness must answer these questions, and the only known answers to them lead to the lifeticle model.
 Departure from this model leads to contradictions and a lack of answers to these questions.
@@ -480,7 +480,7 @@ The visual information from the eye - it has a left part and a right part, and t
 This can be called the problem of pointwise binding.
 The problem concerns both the binding of qualia to each other and their binding to the lifeticle.
 Introducing the particle, the receiver of qualia, does not create a new problem of how it receives signals - the problem already exists with qualia even without the particle.
-Quantum entanglement solves this.
+Quantum entanglement addresses this problem.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/point.png">
 
@@ -490,7 +490,7 @@ Quantum entanglement solves this.
 The visual image from the eye, in terms of the amount of information, not only has an enormous size in megapixels and megabytes, but also has depth and brightness.
 To generate the image, signals must transmit information at a megabit speed.
 This creates a simultaneity problem; the time of the event must also be transmitted, and the method is not the same in the reverse direction of time.
-This contradicts the fact that an atom cannot store a lot of different information, however in this case a law of qualia is assumed that allows to bypass this.
+This contradicts the fact that an atom cannot store a lot of different information, however in this case a law of qualia is assumed that allows bypassing this.
 It does not resolve the speed issue and leads to the overlap of qualia.
 It is not realistic and is provided only as an example of a search.
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/method.png">
@@ -616,7 +616,7 @@ There should be no modification of information between the wave function and the
 At the same time, information alone could not create pain/negative/positive qualia; it must be defined by opposites.
 A possible candidate for such a parameter could be spin, or the charge of an ion (positive/negative).
 The strength of pain must depend on the number of signals and energy, otherwise any level of pain could be set by just a parameter.
-Tubulin microtubules can be ionized by both positively and negatively charged ions.
+Microtubules can be ionized by both positively and negatively charged ions.
 Spin is a poor fit because of the ambiguity due to the direction of the spin, the difference between the direction of the spin, and the lack of a non-opposite option, unlike the particle charges of ions.
 Qualia coordinates in space cannot be specified by xyz coordinates, since this is a partition of space along axes that does not exist.
 If the coordinates are specified by spin, then the coordinates must be set unconditionally and the reference point is unclear.
@@ -638,7 +638,7 @@ It means that the coordinate of qualia is specified by a parameter, and the form
 This corresponds to the fact that in Orch OR the shape of the qualia generator does not correspond to the qualia coordinates.
 Due to the simultaneity of frames, the number of particles participating in the generation of the wave function must be no less than the number of different types of qualia.
 Since the wave function should collapse only at the moment when the frame of consciousness is already ready, there should be enough time to compose this wave function.
-Tubulin microtubules are suitable for this.
+Microtubules are suitable for this.
 
 **Interpretation of quantum mechanics**
 
