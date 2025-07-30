@@ -634,7 +634,7 @@ Closing one eye increases the update rate, indicating that the limitation is not
 Since image regions are not fully recognized, the bottleneck is not in processing.
 The assumption is that the limitation in the transmission of data to the qualia generator, since it is a connecting link.
 Viewing with limited visual refresh remain audio perception unaffected.
-The phenomenon can be tested with high-frame-rate videos on large screens that cover the entire visual field.
+The phenomenon can be tested with high-frame-rate videos on large screens that cover the entire visual field and changing the distance to the monitor.
 
 https://github.com/justnonamenoname/lifeticle/blob/main/images/fps.mp4
 
