@@ -400,10 +400,10 @@ The absence of the so-called observer leads to the problem of temporal binding -
 The question includes both movement in space on a moving planet and connections between frames of phenomenal consciousness, including sleep and anesthesia.  
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/time.png" width="400">  
 To say that the particle lifeticle, which is the carrier of consciousness, the so-called observer, cannot exist is equivalent to saying that there is no carrier of consciousness in the collection of particles forming the brain.  
-The idea of the emergentness of the carrier of consciousness has problems: contradiction - what would happen if some particle is replaced.
+The idea of the emergence of the carrier of consciousness has problems: contradiction - what would happen if some particle is replaced.
 If two brains have two identical emergent carriers of consciousness, then again we come to the problem of choosing the brain.
-If the particles are replaced with others with the same emergentness, the carrier of consciousness will stop receiving qualia, which contradicts the idea of emergentness.
-Emergentness is about properties that can be obtained through modeling. Identity to the carrier of consciousness is not about properties, but about what the carrier physically is.
+If the particles are replaced with others with the same emergence, the carrier of consciousness will stop receiving qualia, which contradicts the idea of emergence.
+Emergence is about properties that can be obtained through modeling. Identity to the carrier of consciousness is not about properties, but about what the carrier physically is.
 The ability to create an identity implies the possibility of creating an identical one, which means no difference exists between them and leads to the problem of how the brain selects between them.
 The uniqueness of the lifeticle is fundamental, cannot be artificially generated, and is analogous to the no-cloning theorem.
 Without uniqueness, there would be no connection with the current brain, just as there is no connection with another brain that is not one’s own.  
