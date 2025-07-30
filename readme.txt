@@ -304,7 +304,7 @@ Experimental methods for confirming the theory in the research of the brain:
 The theory is a direct consequence of the organism's structure.
 In researching the brain, one must start from the principle of maximum divisibility, meaning that the brain consists of indivisible particles and that the carrier of consciousness is located somewhere in the brain (see the section on the necessity of the carrier of consciousness).
 To disprove the theory, it is necessary, for example, to prove: 
-that the streams for qualia do not converge on a single particle; that the influence of qualia on the brain is absent; that there are no particles remaining throughout life.
+that the streams for qualia do not converge on a single particle; that the influence of qualia on the brain is absent; that there are no particles remaining throughout life;
 that particles disappear at death; if we are in virtual reality; that the moment of death exists and undiscovered angels really arrive.
 The law of conservation of energy and the circulation of particles in nature lead to the main idea of the theory - the possibility of a next birth.
 To refute it, it is necessary to refute either the law of conservation of energy or the circulation of particles.
