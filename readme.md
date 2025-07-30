@@ -672,7 +672,7 @@ And since the unity of consciousness comes from the unity of the wave function o
 Visual perception is limited in frame rate depending on the size of the updated area.
 ~15 FPS for full updates, ~30 for half, ~60 for a quarter.
 The smaller the updated region, the higher the refresh rate.
-Approximate formula: frames per second=15*size of visual field/size of updated part, or FPS=15/portion of the visual field, where half of field is 1/2.
+Approximate formula: frames per second=15*(size of visual field)/(size of updated part), or FPS=15/(portion of the visual field), where half of field is 1/2.
 Closing one eye increases the update rate, indicating that the limitation is not in the eye.
 Since image regions are not fully recognized, the bottleneck is not in processing.
 The assumption is that the limitation in the transmission of data to the qualia generator, since it is a connecting link.
