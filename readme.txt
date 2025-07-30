@@ -1,4 +1,4 @@
-Lifeticle | LT theory | The new theory of quantum phenomenal consciousness | Survival
+Lifeticle | LT quantum theory of phenomenal consciousness | Survival
 
 Lifeticle is a particle that acts as a subject, the so-called observer in the brain, with the following functions:
 1) Perception (Qualia): Visuals, sounds, pain, and other sensations
