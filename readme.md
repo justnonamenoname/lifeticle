@@ -396,7 +396,7 @@ The formation of a qualia-based image from spatially distributed information wou
 Qualia has a size, information does not have such a parameter.
 Informational theories attempting to explain phenomenal consciousness do not answer the question of why you live in this brain and not in another; this requires a physical connection with the brain, and a physical connection requires a physical object.  
 Qualia without the so-called observer lead to the same problem - why do you live the life of this brain and not another?  
-The absence of the so-called observer leads to the problem of temporal binding - why do qualia from the past continue to be experienced in the future?
+The absence of the so-called observer leads to the problem of temporal binding - why do qualia from the past continue to be experienced in the future.
 The question includes both movement in space on a moving planet and connections between frames of phenomenal consciousness, including sleep and anesthesia.  
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/time.png" width="400">  
 To say that the particle lifeticle, which is the carrier of consciousness, the so-called observer, cannot exist is equivalent to saying that there is no carrier of consciousness in the collection of particles forming the brain.  
