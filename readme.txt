@@ -459,7 +459,7 @@ This creates a simultaneity problem; the time of the event must also be transmit
 This contradicts the fact that an atom cannot store a lot of different information, however in this case a law of qualia is assumed that allows bypassing this.
 It does not resolve the speed issue and leads to the overlap of qualia.
 It is not realistic and is provided only as an example of a search.
-2) Particles are quantumly entangled with each other, the electrical activity around them creates qualia in them, which is felt by the lifeticle connected to them.
+2) Particles are quantum entangled with each other, the electrical activity around them creates qualia in them, which is felt by the lifeticle connected to them.
 The method corresponds to the Orch OR theory (Orchestrated Objective Reduction) by Penrose and Hameroff.
 In Orch OR, the issue of speed is addressed through frames caused by the collapse of the wave function.
 The method is the main option under consideration.
