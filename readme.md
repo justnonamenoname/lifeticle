@@ -629,17 +629,24 @@ The fact that qualia are generated from a wave function allows us to define form
 
 **Generator structure**
 
-Since 1 particle cannot store a lot of different information, the depth of the visual image would require many depth particles, and the distance of the volume would be limited and would possibly have noticeable steps of change, the particles containing the image during entanglement would be the paths along which the data moves.
-No structure similar to one capable of containing a visual image in this way has been found in the brain.
-Distances and other particles between entangled particles would result in voids between points in the visual image.
-If the particles were arranged next to each other in a grid, the paths along which the data traveled would not be isolated.
-The option where points of different depths are adjusted in the same places is more structurally stable, since the same grid is used to depict different depths.
-The lifeticle would need to be held at an angle to qualia space to match the qualia coordinates.
-It means that the coordinate of qualia is specified by a parameter, and the form of the generator can be arbitrary, not corresponding to the coordinates of qualia.
-This corresponds to the fact that in Orch OR the shape of the qualia generator does not correspond to the qualia coordinates.
-Due to the simultaneity of frames, the number of particles participating in the generation of the wave function must be no less than the number of different types of qualia.
+1 particle cannot store a lot of different information.
+The assumption that qualia coordinates correspond to particle locations implies that visual depth would require many depth particles.
+But this has problems:
+1) The depth would be limited
+2) There would be noticeable steps between different depths
+3) The particles containing the image during entanglement would be the paths along which the data moves
+4) No structure similar to one capable of containing a visual image in this way has been found in the brain
+
+The option where the depth of the dots is adjusted by a parameter in some places, rather than by the location of the particles, is more structurally stable and the same grid is used to depict different depths.
+But other problems remain:
+1) If the particles were arranged next to each other in a grid, the paths along which the data traveled would not be isolated
+2) Distances and other particles between entangled particles would result in voids between points in the visual image
+3) The lifeticle would need to be held at an angle to qualia space to match the qualia coordinates
+
+Means that the qualia coordinate is specified by a parameter, and the generator shape can be arbitrary, not corresponding to the qualia coordinates.
+This corresponds to the fact that in Orch OR the shape of the generator does not correspond to the coordinates of the qualia.
 Since the wave function should collapse only at the moment when the frame of consciousness is already ready, there should be enough time to compose this wave function.
-Microtubules are suitable for this.
+Tubulin microtubules are suitable for this.
 
 **Interpretation of quantum mechanics**
 
