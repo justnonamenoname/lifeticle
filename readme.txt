@@ -597,7 +597,9 @@ The option where the depth of the dots is adjusted by a parameter in some places
 But other problems remain:
 1) If the particles were arranged next to each other in a grid, the paths along which the data traveled would not be isolated
 2) Distances and other particles between entangled particles would result in voids between points in the visual image
-3) The lifeticle would need to be held at an angle to qualia space to match the qualia coordinates
+3) There would be noticeable steps the size of the minimum pixel size, which would lead to noticeable steps when moving the image
+4) Pain in the arm can have a free 3D location depending on the position of the arm, different parts of the generator would be required for 1 place of the arm when it moves
+5) The lifeticle would need to be held at an angle to qualia space to match the qualia coordinates
 Means that the qualia coordinate is specified by a parameter, and the generator shape can be arbitrary, not corresponding to the qualia coordinates.
 This corresponds to the fact that in Orch OR the shape of the generator does not correspond to the coordinates of the qualia.
 Due to the simultaneity of frames, the number of particles participating in the generation of the wave function must be no less than the number of qualia units.
