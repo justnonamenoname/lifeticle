@@ -645,7 +645,7 @@ But other problems remain:
 
 Means that the qualia coordinate is specified by a parameter, and the generator shape can be arbitrary, not corresponding to the qualia coordinates.
 This corresponds to the fact that in Orch OR the shape of the generator does not correspond to the coordinates of the qualia.
-Due to the simultaneity of frames, the number of particles participating in the generation of the wave function must be no less than the number of different types of qualia.
+Due to the simultaneity of frames, the number of particles participating in the generation of the wave function must be no less than the number of qualia units.
 Since the wave function should collapse only at the moment when the frame of consciousness is already ready, there should be enough time to compose this wave function.
 Microtubules are suitable for this.
 
