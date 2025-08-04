@@ -321,7 +321,7 @@ Dry ice should only be disposed of in a well-ventilated area or an open outdoor 
 **Experimental methods**
 
 Experimental methods for confirming the theory in the research of the brain:
-1) The streams of qualia must converge on a single particle via quantum entanglement
+1) The streams of qualia must converge on a single particle
 2) The effect of the lifeticle and information about qualia on the brain
 3) The lifeticle must not be replaced by something else throughout life
 
