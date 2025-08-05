@@ -827,6 +827,10 @@ At the same time, the image layer does not appear as something that occupies vol
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/layerposition.png">
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/layer.png" width="250">
 
+The brain already generates a multi-layered image with overlap.
+The pixel size is not zero, the object overlaps the surface behind the object not exactly at the pixel edge.
+This may mean that the brain already constructs a partially layered image without transparency, but the qualia structure does not allow for overlapping edges to be displayed.
+
 ---
 
 ### Link between qualia and universe's fate
