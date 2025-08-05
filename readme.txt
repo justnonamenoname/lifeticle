@@ -384,6 +384,7 @@ To say that particles with qualia properties do not exist is to say that an orga
 The organism consists of particles and the phenomenon of qualia exists, one must be connected with the other. The theory does not introduce something new, but connects one thing with another.
 The philosophical term "indivisibility of consciousness" is explained by the indivisible so-called observer, the bearer of consciousness, the lifeticle.
 The fundamentality of qualia means that the ability to experience qualia is also fundamental.
+And it means that the physical phenomena with which qualia is associated are also fundamental, and this is quantum mechanics.
 Quantum indeterminacy is fundamental and cannot be replicated informally.
 To say that qualia can be replicated informationally is equivalent in meaning to the idea that quantum indeterminacy can be replicated informationally.
 The statement that since qualia is immeasurable, and therefore does not exist and cannot influence physical processes, contradicts quantum mechanics.
