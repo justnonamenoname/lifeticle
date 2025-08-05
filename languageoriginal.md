@@ -844,6 +844,10 @@ https://github.com/user-attachments/assets/79c2362b-cecc-4c84-8af9-8f60b802c16a
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/layerposition.png" width="250">
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/layer.png" width="250">
 
+Мозг уже генерирует многослойное изображение с перекрытием.
+Размер пикселей не нулевой, объект перекрывает поверхность за объектом не точно на уровне края пикселя.
+Это может означать, что мозг уже строит частично многослойное изображение без прозрачности, но устройство квалиа не позволяет отображать перекрываемые края. 
+
 ---
 
 ### Связь квалиа и судьбы Вселенной
