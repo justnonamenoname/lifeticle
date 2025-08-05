@@ -767,6 +767,9 @@ Is it possible to create qualia of a volumetric image with multiple layers, wher
 The brain can create a volumetric image of no more than one layer due to evolutionary reasons.
 The question concerns not the brain, but to the very nature of qualia.
 At the same time, the image layer does not appear as something that occupies volume, as if there are two size parameters - height and width - while the third parameter, depth, is absent.
+The brain already generates a multi-layered image with overlap.
+The pixel size is not zero, the object overlaps the surface behind the object not exactly at the pixel edge.
+This may mean that the brain already constructs a partially layered image without transparency, but the qualia structure does not allow for overlapping edges to be displayed.
 
 ========================
 
