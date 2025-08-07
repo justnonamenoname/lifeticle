@@ -298,7 +298,7 @@ Part 3. Verification
 Experimental methods
 
 Experimental methods for confirming the theory in the research of the brain:
-1) The streams of qualia must converge on a single particle
+1) Signal flows for qualia must converge on a single particle
 2) The effect of the lifeticle and information about qualia on the brain
 3) The lifeticle must not be replaced by something else throughout life
 The theory is a direct consequence of the organism's structure.
