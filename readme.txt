@@ -364,6 +364,8 @@ The fact that the brain is divided into regions and that they influence the gene
 No separation of qualia across different parts of the brain has been found.
 The functional part of the brain relates to the "easy problem of consciousness"/"access consciousness".
 To say that qualia, as a separate phenomenon, do not exist and are merely based on information is equivalent in meaning to the idea that the processor displays information without a monitor.
+The image information before the blind spot is painted over is not reflected in phenomenal consciousness.
+This means that only part of the brain's information enters phenomenal consciousness, and shows that the information itself is not phenomenal consciousness.
 The non-existence of qualia would mean that a person has no visual perception, no auditory experience, no pain sensation, and the organism functions without phenomenal consciousness.
 Qualia are not something separate, they are connected to the carrier of consciousness.
 In informational theories there are no qualia and no consciousness carrier to which they are directed, they do not solve the problem of pointwise binding.
