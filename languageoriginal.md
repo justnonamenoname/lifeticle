@@ -1105,7 +1105,7 @@ Orch OR:
 
 ---
 
-### Ссылки на связанные темы  
+## Часть 12. Ссылки на связанные темы  
 <a href="ru.wikipedia.org/wiki/Проблема_связывания">http://ru.wikipedia.org/wiki/Проблема_связывания</a>    
 <a href="ru.wikipedia.org/wiki/Принцип_локальности">http://ru.wikipedia.org/wiki/Принцип_локальности</a>   
 <a href="ru.wikipedia.org/wiki/Трудная_проблема_сознания">http://ru.wikipedia.org/wiki/Трудная_проблема_сознания</a>    
