@@ -444,7 +444,7 @@ If we assume that if we collect the particles of the disintegrated brain back an
 
 Part 4. Aspects of phenomenal consciousness
 
-Chapter 1. Qualia-brain connection
+Part 4. Qualia-brain connection
 
 Pointwise binding problem
 
@@ -659,7 +659,7 @@ Attention within the qualia field is when other qualia, except for the one that 
 
 ========================
 
-Chapter 2. Ideas about qualia
+Part 5. Aspects of qualia
 
 Types of qualia
 
@@ -728,7 +728,7 @@ This may indicate an unlikely error in the article, for which there are no visib
 
 ========================
 
-Chapter 3. Qualia space
+Part 6. Qualia space
 
 Distance
 
@@ -779,7 +779,7 @@ This may mean that the brain already constructs a partially layered image withou
 
 ========================
 
-Chapter 4. Link between qualia and universe's fate
+Part 7. Link between qualia and universe's fate
 
 Robots
 
@@ -797,7 +797,7 @@ This highlights the importance of creating an organization to monitor artificial
 
 ========================
 
-Chapter 5. Lifeticle
+Part 8. Aspects of lifeticle
 
 The term life
 
@@ -917,7 +917,7 @@ The question of whether other universes exist is equivalent to asking whether th
 
 ========================
 
-Chapter 6. Formulas
+Part 9. Formulas
 
 General formula of qualia
 |ψqualia⟩ = ∑(i,j,...)cij...(|vision_i⟩⊗|sound_j⟩⊗...)
@@ -947,7 +947,7 @@ The temporal dynamics are set by the adjustment of the wave function frames by t
 
 ========================
 
-Chapter 7. Phenomenal consciousness theory comparison
+Part 10. Phenomenal consciousness theory comparison
 
 1) Compatibility with the principle of locality
 2) Solution to the binding problem
@@ -973,7 +973,7 @@ Orch OR:
 
 ========================
 
-Chapter 8. Incompatibility with other hypotheses
+Part 11. Incompatibility with other hypotheses
 
 Interpretations of quantum mechanics
 
