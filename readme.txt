@@ -684,7 +684,7 @@ Even though this feeling is directed at yourself, the "yourself" and the feeling
 
 Minimal size of qualia
 
-The minimal size/unit of qualia refers to both the size and the strength.
+The smallest unit of qualia - both in size and in strength.
 Methods of determination: applying a pain signal to a large area of the leg and reducing the pain, or applying a strong pain signal and reducing the area.
 The minimum force can be assumed to be the energy of Planck's constant.
 This question will be explored in the research of the qualia generator in the brain.
