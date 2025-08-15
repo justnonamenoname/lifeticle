@@ -370,7 +370,7 @@ This means that only part of the brain's information enters phenomenal conscious
 The non-existence of qualia would mean that a person has no visual perception, no auditory experience, no pain sensation, and the organism functions without phenomenal consciousness.
 Qualia are not something separate, they are connected to the carrier of consciousness.
 In informational theories there are no qualia and no consciousness carrier to which they are directed, they do not solve the problem of pointwise binding.
-The formation of a qualia-based image from spatially distributed information would violate the principle of locality and imply magical action at a distance.
+The formation of a qualia-based image from spatially distributed information would violate the principle of locality and physical laws, and imply magical action at a distance.
 Qualia has a size, information does not have such a parameter.
 Informational theories attempting to explain phenomenal consciousness do not answer the question of why you live in this brain and not in another; this requires a physical connection with the brain, and a physical connection requires a physical object.
 Qualia without the so-called observer lead to the same problem - why do you live the life of this brain and not another?
