@@ -698,7 +698,7 @@ Other types of qualia can also have summative extent.
 Artificial intelligence
 
 Artificial intelligence is not alive and does not have qualia, meaning it cannot have complete information about the world without the participation of life.
-If a lifeticle is placed in the center of AI, only then will it be possible, and it will be something like a living artificial intelligence.
+If a lifeticle with qualia generation is placed in the center of AI, only then will it be possible, and it will be something like a living artificial intelligence.
 
 Ethics
 
