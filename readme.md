@@ -739,8 +739,8 @@ This question will be explored in the research of the qualia generator in the br
 **Sound**
 
 The sound has an added sense of duration, of how the sound played over the past second.
-It's something like an extended moment of now, summed up from the sound of the past second.
-Other types of qualia can also have a summed extended momentum.
+It's a sort of duration, summed up from the sound of the previous second, added to the sound itself.
+Other types of qualia can also have summative extent.
 
 **Artificial intelligence**
 
