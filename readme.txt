@@ -682,7 +682,7 @@ The feeling of "yourself" is directed at yourself.
 However, this is just a feeling, and this feeling may not exist.
 Even though this feeling is directed at yourself, the "yourself" and the feeling of "yourself" are separate entities.
 
-Minimal size of qualia
+Minimal qualia
 
 The smallest unit of qualia - both in size and in strength.
 Methods of determination: applying a pain signal to a large area of the leg and reducing the pain, or applying a strong pain signal and reducing the area.
