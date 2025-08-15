@@ -416,7 +416,7 @@ A contradiction of what is already known - such as a violation of the law of ene
 
 Proof problem
 
-Dark matter is assumed to exist, even though there has been no direct detection.
+Dark matter is presumed to exist, despite the lack of direct detection.
 The problem in the case of the lifeticle is that the way to detect the property of qualia is unknown.
 It is problematic to prove the existence of another fundamental phenomenon.
 This is known from the position of the lifeticle itself - the very sensation of visual information without the sensation of "yourself" is only possible if the sensation and the so-called observer exist.
