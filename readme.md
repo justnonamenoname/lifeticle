@@ -550,7 +550,7 @@ If initially the direction of the feedback from pain was random, then a random m
 This may be the reason why phenomenal consciousness became fixed in evolution.
 The information sent to the qualia generator cannot be identical to the information about the existence of qualia transmitted through feedback; otherwise, it would be impossible to learn about the existence of qualia.
 Introducing a qualia property that has no influence of its own would make it impossible to know about it.
-And adding influence to it would lead to a violation of the law of conservation of energy and cause and effect.
+And adding influence to it would lead to a violation of the cause-and-effect relationship.
 An influence that does not violate this does not allow one to know about the existence of qualia, since it is not associated with it.
 The option of creating qualia and its reverse influence at the moment of collapse makes the property of qualia combined with its influence.
 If it is assumed that reverse influence lies behind non-random processes, then these processes could be modeled, but then the existence of qualia could be known without qualia itself, and qualia would not exert reverse influence.
