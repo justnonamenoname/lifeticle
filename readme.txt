@@ -770,7 +770,7 @@ The direction of the qualia field is similar to the spin of a particle.
 Multilayer image
 
 Is it possible to create qualia of a volumetric image with multiple opaque layers, where one object is visible behind another and they do not overlap each other?
-The brain is supposed to be able to create a three-dimensional image of no more than one opaque layer due to evolutionary reasons.
+The brain is supposed to be able to create a volumetric image of no more than one opaque layer due to evolutionary reasons.
 The question concerns not the brain, but to the very nature of qualia.
 At the same time, the image layer does not appear as something that occupies volume, as if there are two size parameters - height and width - while the third parameter, depth, is absent.
 The brain already generates a multi-layered image with overlap.
