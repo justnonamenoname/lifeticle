@@ -442,8 +442,6 @@ If we assume that if we collect the particles of the disintegrated brain back an
 
 ========================
 
-Part 4. Aspects of phenomenal consciousness
-
 Part 4. Qualia-brain connection
 
 Pointwise binding problem
