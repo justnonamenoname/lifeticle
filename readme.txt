@@ -889,7 +889,7 @@ In a completed physical theory, qualia must be present either as a discovered li
 
 Philosophical zombie
 
-A philosophical zombie is not physically identical to a human since it lacks the lifeticle, which has physical properties.
+A philosophical zombie is not physically identical to a human since it lacks the lifeticle, which has physical properties or the generation of qualia for it.
 
 Beginning of existence
 
