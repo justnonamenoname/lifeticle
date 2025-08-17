@@ -470,6 +470,7 @@ Reasons why there are grounds to consider the lifeticle as existing:
 The theory of phenomenal consciousness must answer these questions, and the only known answers to them lead to the lifeticle model.
 Departure from this model leads to contradictions and a lack of answers to these questions.
 If we assume that if we collect the particles of the disintegrated brain back and this returns the phenomenal consciousness and the so-called observer, then it is a matter of particles, and if it does not return, then it is not a matter of particles and something else that was attached to the organism during life did not return.
+Attachment to an organism is a physical interaction, the assumption of non-return of something physical to the idea of particles returning back is self-contradictory.
 
 ---
 
