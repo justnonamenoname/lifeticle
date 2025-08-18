@@ -462,7 +462,7 @@ Qualia methods
 The visual image from the eye, in terms of the amount of information, not only has an enormous size in megapixels and megabytes, but also has depth and brightness.
 To generate the image, signals must transmit information at a megabit speed.
 This creates a simultaneity problem; the time of the event must also be transmitted, and the method is not the same in the reverse direction of time.
-This contradicts the fact that an atom cannot store a lot of different information, however in this case a law of qualia is assumed that allows bypassing this.
+This contradicts the fact that an atom cannot store a lot of different information, however in this case a law of qualia is assumed that allows to bypass this.
 It does not resolve the speed issue and leads to the overlap of qualia.
 It is not realistic and is provided only as an example of a search.
 2) Particles are quantum entangled with each other, the electrical activity around them creates qualia in them, which is felt by the lifeticle connected to them.
