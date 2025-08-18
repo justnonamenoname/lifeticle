@@ -362,7 +362,7 @@ The simultaneous display of millions of points of a visual image violates the pr
 The problem of pointwise binding requires a separate physical law, which also implies the fundamentality of qualia (the issue is discussed in the section on the connection between qualia and the brain).
 If we find a neuron that contains information about a red color point, then the question arises: why does this result in the experience of red, and without introducing qualia as a distinct phenomenon, this cannot be resolved.
 The fact that the brain is divided into regions and that they influence the generation of qualia, does not contradict the existence of signal convergence for qualia into a central point, the absence of which leads to the binding problem.
-No separation of qualia across different parts of the brain has been found.
+No separation of qualia across different parts of the brain was found.
 The functional part of the brain relates to the "easy problem of consciousness"/"access consciousness".
 To say that qualia, as a separate phenomenon, do not exist and are merely based on information is equivalent in meaning to the idea that the processor displays information without a monitor.
 The image information before the blind spot is filled in is not reflected in phenomenal consciousness.
