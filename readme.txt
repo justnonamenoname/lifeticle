@@ -581,6 +581,7 @@ Since the wave function of qualia is formed gradually, while a frame of phenomen
 There should be no modification of information between the wave function and the lifeticle, since it is the brain that tunes qualia and it cannot tune beyond the quantum level.
 At the same time, information alone could not create pain/negative/positive qualia; it must be defined by opposites.
 The strength of pain must depend on the number of signals and energy, otherwise any level of pain could be set by just a parameter.
+One might imagine pain as antimatter, but this does not happen in the brain and there is no option without an opposite.
 Spin is a poor fit because of the ambiguity due to the direction of the spin, the difference between the direction of the spin, and the lack of a non-opposite option.
 A possible candidate for such a parameter could be charge of an ion (positive/negative).
 Microtubules can be ionized by both positively and negatively charged ions.
