@@ -391,7 +391,7 @@ The organism consists of particles, and the phenomenon of qualia exists; one mus
 The philosophical term "indivisibility of consciousness" is explained by the indivisible so-called observer, the bearer of consciousness, the lifeticle.
 The fundamentality of qualia means that the ability to experience qualia is also fundamental.
 And it means that the physical phenomena with which qualia is associated are also fundamental, and this is quantum mechanics.
-Quantum indeterminacy is fundamental and cannot be replicated informally.
+QQuantum indeterminacy is fundamental and cannot be replicated informationally.
 To say that qualia can be replicated informationally is equivalent in meaning to the idea that quantum indeterminacy can be replicated informationally.
 The statement that since qualia is immeasurable, and therefore does not exist and cannot influence physical processes, contradicts quantum mechanics.
 The no-cloning theorem (that a quantum state cannot be copied) shows the immeasurability of a quantum system, but a quantum system has an impact on physical processes (measurement destroys the quantum state and only obtains part of the information).
