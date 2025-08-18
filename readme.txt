@@ -758,7 +758,7 @@ Space can be distorted according to the theory of relativity. How is this connec
 Angle of rotation
 
 The image from the eye has the left part on the left and the right part on the right.
-It is possible to close one's eyes and visualize it.
+It can be visualized with eyes closed.
 It is possible to shift the image to the right, so that its left part appears in the center, the center part on the right, and the right part even further to the right.
 The fact that qualia have a position means that the qualia field has a direction toward which its center is oriented.
 If the position of qualia is set by spatial coordinates, then the rotation angles of the lifeticle's orientation must be preserved in accordance with the spatial rotations.
