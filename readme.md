@@ -621,10 +621,10 @@ This may mean that at the moment of collapse, the construction of the object's q
 Since the wave function of qualia is formed gradually, while a frame of phenomenal consciousness is triggered by the collapse, this provides grounds to assume that a qualia-object may exist independently as an integrated structure.
 There should be no modification of information between the wave function and the lifeticle, since it is the brain that tunes qualia and it cannot tune beyond the quantum level.
 At the same time, information alone could not create pain/negative/positive qualia; it must be defined by opposites.
-The strength of pain must depend on the number of signals and energy, otherwise any level of pain could be set by just a parameter.
-A possible candidate for such a parameter could be spin, or the charge of an ion (positive/negative).
-Spin is a poor fit because of the ambiguity due to the direction of the spin, the difference between the direction of the spin, and the lack of a non-opposite option, unlike the particle charges of ions.
-Microtubules can be ionized by both positively and negatively charged ions.
+The strength of pain must depend on the number of signals and energy, otherwise any level of pain could be set by just a parameter.  
+Spin is a poor fit because of the ambiguity due to the direction of the spin, the difference between the direction of the spin, and the lack of a non-opposite option.  
+A possible candidate for such a parameter could be charge of an ion (positive/negative).  
+Microtubules can be ionized by both positively and negatively charged ions.  
 Qualia coordinates in space cannot be specified by xyz coordinates, since this is a partition of space along axes that does not exist.
 If the coordinates are specified by spin, then the coordinates must be set unconditionally and the reference point is unclear.
 The way information is encoded for qualia will be studied during the research of the qualia generator.
