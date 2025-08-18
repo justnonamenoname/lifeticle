@@ -437,7 +437,7 @@ Reasons why there are grounds to consider the lifeticle as existing:
 6) The problem of temporal binding - why qualia from the past continue to be felt in the future
 7) The fundamentality of qualia points to the fundamentality of the property of experiencing qualia, which cannot be emergent or composite and is a property of an indivisible particle
 8) The problem of pointwise binding, size and reverse influence of qualia are related to quantum laws, which in itself points to a particle
-The theory of phenomenal consciousness must answer these questions, and the only known answers to them lead to the lifeticle model.
+The theory of phenomenal consciousness must answer these questions, and you can arrive at the lifeticle model in different ways by answering these questions.
 Departure from this model leads to contradictions and a lack of answers to these questions.
 If we assume that if we collect the particles of the disintegrated brain back and this returns the phenomenal consciousness and the so-called observer, then it is a matter of particles, and if it does not return, then it is not a matter of particles and something else that was attached to the organism during life did not return.
 Attachment to an organism is a physical interaction, the assumption of non-return of something physical to the idea of particles returning back is self-contradictory.
