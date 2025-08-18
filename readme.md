@@ -339,17 +339,17 @@ The question: what happens if the brain's particles end up in different brains o
 The following steps must be completed for research:
 1) Identify the minimally required active brain regions for consciousness (neurobiologists have already identified several candidates)
 2) Research of visual signaling pathways, primarily in areas identified by neuroscientists
-3) Determining where signals converge
+3) Determination of the place where the signals converge
 4) Research how information transfers to the quantum level, which will confirm the existence of phenomenal consciousness and will allow to determine the exact formulas of qualia
-5) Research random quantum processes associated with qualia, this will allow us to determine the information coming from qualia and how reverse influence of qualia affects the brain
-6) Researching reverse influence will help determine how phenomenal consciousness became entrenched in evolution
+5) Research random quantum processes associated with qualia, this will allow to determine the information coming from qualia and how reverse influence of qualia affects the brain
+6) Researching the reverse influence will make it possible to determine how exactly phenomenal consciousness became entrenched in evolution
 7) Identify a shared node for vision and hearing, which is activated without vision and sound
 8) Assess whether particles in this node are replaced during life, this will allow to exclude lifeticle candidates
-9) Determine precisely how the brain sets the frame rate of consciousness and the timing of collapse events
+9) Determination of how exactly the brain sets the frame rate of consciousness and collapses
 10) Depending on the structure, this may help determine the location of the lifeticle
 11) Removing particles from the central node can show whether this changes reverse influence in the form of random processes
 12) Researching how the node structure is encoded in DNA may provide additional assistance.
-13) Researching the node in other species, a different type of node may show a difference that allows to exclude inappropriate particles
+13) Researching the node in other species; a different type of node may show a difference that allows unsuitable particles to be excluded
 14) Determine the exact properties of the lifeticle via quantum interactions
 
 **Orch OR theory**
@@ -376,27 +376,27 @@ There are two options when it comes to the fundamental nature of qualia and its 
 1) Not fundamental - it is possibly explained through other phenomena.
 2) Fundamental - it cannot be explained through other phenomena.
 
-Trying to prove fundamentality - is to prove the impossibility of explanation and that no other phenomenon exists that would make qualia non-unique.
-To prove non-fundamentality, it is enough to provide an example of an entity from which qualia may consist. That is, the starting point is fundamentality.
+Trying to prove fundamentality means proving that explanation is impossible and that no other phenomenon exists that could make qualia non-unique.
+To prove non-fundamentality, it is sufficient to provide an example of a phenomenon from which qualia could arise; this serves as the starting point for fundamentality.
 The search for an example of an entity is behind those who wish to attempt to prove that qualia are not fundamental and not unique.  
 In the case of fundamentality, it is impossible to find such an example and prove non-fundamentality.
-If we assume that emergence (the presence of properties in a system that are not inherent in its individual components) can create qualia, then still, signals in the brain must converge at a single point through the method of generating qualia, otherwise, a binding problem arises, which makes the issue of emergence meaningless.  
+If we assume that emergence (the presence of properties in a system that are not inherent in its individual components) can create qualia, signals in the brain must still converge at a single particle via the method of generating qualia; otherwise, a binding problem arises, which makes the question of emergence meaningless.  
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/bind.png" width="400">  
 The properties of emergence can be obtained by modeling, for example: knowing the properties of a water molecule, by modeling a multitude of molecules, we can obtain the properties of water.  
 According to the special theory of relativity, an event at one point cannot cause an instantaneous result at another point, and "now" occurs only at a local reference point.
 According to the principle of locality and the special theory of relativity, a visual image could at most consist of several points.
-The simultaneous display of millions of points of a visual image violates the principle of locality, which means that phenomenal consciousness does not obey the special theory of relativity, this relates to the problem of pointwise binding.  
-The problem of pointwise binding requires a separate physical law, which also points to the fundamentality of qualia (the issue is discussed in the section on the connection between qualia and the brain).  
+The simultaneous display of millions of points of a visual image violates the principle of locality, which means that phenomenal consciousness is not constrained by the special theory of relativity; this relates to the problem of pointwise binding.  
+The problem of pointwise binding requires a separate physical law, which also implies the fundamentality of qualia (the issue is discussed in the section on the connection between qualia and the brain).  
 If we find a neuron that contains information about a red color point, then the question arises: why does this result in the experience of red, and without introducing qualia as a distinct phenomenon, this cannot be resolved.  
 The fact that the brain is divided into regions and that they influence the generation of qualia, does not contradict the existence of signal convergence for qualia into a central point, the absence of which leads to the binding problem.
 No separation of qualia across different parts of the brain has been found.
 The functional part of the brain relates to the "easy problem of consciousness"/"access consciousness".
 To say that qualia, as a separate phenomenon, do not exist and are merely based on information is equivalent in meaning to the idea that the processor displays information without a monitor.  
-The image information before the blind spot is painted over is not reflected in phenomenal consciousness.
+The image information before the blind spot is filled in is not reflected in phenomenal consciousness.
 This means that only part of the brain's information enters phenomenal consciousness, and shows that the information itself is not phenomenal consciousness.  
 The non-existence of qualia would mean that a person has no visual perception, no auditory experience, no pain sensation, and the organism functions without phenomenal consciousness.
 Qualia are not something separate, they are connected to the carrier of consciousness.  
-In informational theories there are no qualia and no consciousness carrier to which they are directed, they do not solve the problem of pointwise binding.
+In informational theories there are no qualia and no bearer of consciousness to which they are directed, they do not solve the problem of pointwise binding.
 The formation of a qualia-based image from spatially distributed information would violate the principle of locality and physical laws, and imply magical action at a distance.
 Qualia has a size, information does not have such a parameter.
 If we assume that there is qualia in information, then we add a hidden property that would be impossible to know about without the assumption of this hidden property.
@@ -413,10 +413,10 @@ Emergence is about properties that can be obtained through modeling. Identity to
 The ability to create an identity implies the possibility of creating an identical one, which means no difference exists between them and leads to the problem of how the brain selects between them.
 The uniqueness of the lifeticle is fundamental, cannot be artificially generated, and is analogous to the no-cloning theorem.
 Without uniqueness, there would be no connection with the current brain, just as there is no connection with another brain that is not one’s own.  
-Qualia have a parameter of location relative to a reference point in space, where the center is occupied by the consciousness bearer.  
+Qualia have a parameter of location relative to a reference point in space, where the center is located at the consciousness bearer.  
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/position.png">  
 To say that particles with qualia properties do not exist is to say that an organism does not consist of particles, or that qualia does not exist or is not related to particles.
-The organism consists of particles and the phenomenon of qualia exists, one must be connected with the other. The theory does not introduce something new, but connects one thing with another.  
+The organism consists of particles, and the phenomenon of qualia exists; one must be connected with the other. The theory does not introduce something new, but connects one with the other.  
 The philosophical term "indivisibility of consciousness" is explained by the indivisible so-called observer, the bearer of consciousness, the lifeticle.
 The fundamentality of qualia means that the ability to experience qualia is also fundamental.
 And it means that the physical phenomena with which qualia is associated are also fundamental, and this is quantum mechanics.  
@@ -520,7 +520,7 @@ A circle has more information than a point with a radius.
 The transition can be resolved by the wave function.
 Part of the image may have the form of a volume of an object, and individual points of the image are linked to the volumetric form.
 Some qualia are connected to others. This indicates a complex structure of qualia and its generation.
-Other qualia also have a size parameter. The size and coordinate of a qualia are parameters of the same order.
+Other qualia also have a size parameter. The size and coordinate of qualia are parameters of the same order.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/round.png">
 
@@ -575,9 +575,9 @@ It is possible to determine which physical processes qualia are associated with.
 That qualia are fundamental and the reverse influence is connected with random quantum processes means that information for qualia requires a transition to the quantum level.
 The chain [signals - qualia] leads to two possibilities:
 1) Qualia cannot be detected, and then the signals appear as leading nowhere without effect
-2) Qualia can be detected as an quantum effect of reverse influence
+2) Qualia can be detected as a quantum effect of reverse influence
 
-A quantum phenomenon leads to qualia. Physicists may begin to hypothesize about which quantum phenomenon it could be and start creating a model of the qualia generator.
+A quantum phenomenon leads to qualia. Physicists may begin to hypothesize which quantum phenomenon it could be, and start creating a model of the qualia generator.
 
 **Fundamentality in the brain**
 
@@ -663,7 +663,7 @@ Qualia influences random quantum processes, which means that in the brain, in th
 Without the laws of quantum mechanics, one might assume that the visual image violates the principle of locality, since millions of dots are displayed simultaneously.
 Without violating the principle of locality, the visual image would consist of a maximum of several points.
 In this case, the visual image of other organisms is not visible, from which it is assumed that the violation of the principle of locality is limited, and that the creation of such entanglement requires the interaction of particles.
-And since the next moment the visual image may be different, then the confusion may immediately disintegrate, and the next moment a new confusion is created.
+And since the next moment the visual image may be different, then the entanglement may immediately disintegrate, and a next moment a new entanglement is created.
 Thus, the laws of quantum mechanics can be assumed before its discovery.
 It would have been possible to make this claim in 1800, but the claim would only have been confirmed 100 years later.
 A connection between quantum mechanics and consciousness would be suggested, and the qualia interpretation could be one of the first.
@@ -902,7 +902,7 @@ The answer to what a lifeticle is and how qualia are generated will also determi
 In the brain, no other attached particles occupying volume have been found.
 This may suggest that the lifeticle is located within an atom.
 In this case, the lifeticle does not need to be moved to appear in the brain during its formation.
-It is more difficult for the lifeticle to end up in the brain through evolutionary development, but if it is in the atom, then this additional complexity is unnecessary.
+It is more difficult for evolution to place the lifeticle in the brain, but if it resides in the atom, this additional complexity is unnecessary.
 
 **Ship of theseus**
 
@@ -1011,7 +1011,7 @@ Pain
 |ψ<sub>pain</sub>⟩ = i[1,N]∑energy<sub>i</sub>⋅|-polarity<sub>i</sub>⟩⊗|type<sub>i</sub>⟩⊗|3d coordinate<sub>i</sub>⟩⊗|size<sub>i</sub>⟩⊗...
 
 Intensity of pain depends on the energy level
-Polarity is a meaning with an opposite, in the case of positive polarity it is a positive qualia
+Polarity is a value with an opposite; for positive polarity, it corresponds to positive qualia
 
 These are preliminary formulas, the exact formulas can only be determined by researching the qualia generator.
 Strength of qualia depends on energy.
