@@ -212,7 +212,7 @@ Structurally, consciousness in the brain consists of:
 4) Lifeticle - the real "self"
 
 The integrity of the brain in cryonics may, perhaps, be secondary.
-Only brain hermeticity is important.
+Only the brain’s hermeticity is important.
 The question is whether the lifeticle can be found and what it actually is.
 It could be a form of dark matter or something entirely unknown.
 If there are many lifeticles in the brain, it may be impossible to determine which one was primary and alive (the others may have been inactive).
