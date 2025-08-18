@@ -486,7 +486,7 @@ The visual information from the eye - it has a left part and a right part, and t
 This can be called the problem of pointwise binding.
 The problem concerns both the binding of qualia to each other and their binding to the lifeticle.
 Introducing the particle, the receiver of qualia, does not create a new problem of how it receives signals - the problem already exists with qualia even without the particle.
-Quantum entanglement addresses this problem.
+Quantum entanglement solves this.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/point.png">
 
