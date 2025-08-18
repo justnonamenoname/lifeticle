@@ -153,7 +153,7 @@ The mystery seems unsolvable, and it is unclear whether any discoveries in physi
 
 ========================
 
-Four possibilities after death:
+4 possibilities after death:
 1) A constructed hell
 2) A constructed paradise
 3) Birth along the evolutionary path, between paradise and hell
