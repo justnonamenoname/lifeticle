@@ -48,7 +48,7 @@ What prevents the particles from assembling again in another form or similarly?
 Physical laws do not prohibit what has already happened according to these very same physical laws.
 In nature, there is a phenomenon known as the cycle of carbon and other elements.
 The possibility of being born a first time means the possibility of being born a second time.
-And full impossibility of being born a second time logically implies the impossibility of being born even once, if there is no mechanism to distinguish one unique occurrence from another.
+And fundamental impossibility of being born a second time logically implies the impossibility of being born even once, if there is no mechanism to distinguish one unique occurrence from another.
 
 ========================
 
