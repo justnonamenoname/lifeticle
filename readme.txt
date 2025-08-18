@@ -316,7 +316,7 @@ The following steps must be completed for research:
 1) Identify the minimally required active brain regions for consciousness (neurobiologists have already identified several candidates)
 2) Research of the flows of visual signals, primarily in the zones identified by neurobiologists
 3) Determination of the place where the signals converge
-4) Research how information transfers to the quantum level, which will confirm the existence of phenomenal consciousness and will allow to determine the exact formulas of qualia
+4) Research of how information is transferred to the quantum level; this will confirm the existence of phenomenal consciousness and will make it possible to determine the exact formulas of qualia
 5) Research random quantum processes associated with qualia, this will allow to determine the information coming from qualia and how reverse influence of qualia affects the brain
 6) Researching the reverse influence will make it possible to determine how exactly phenomenal consciousness became entrenched in evolution
 7) Identify a shared node for vision and hearing, which is activated without vision and sound
