@@ -619,7 +619,7 @@ Qualia influences random quantum processes, which means that in the brain, in th
 Without the laws of quantum mechanics, one might assume that the visual image violates the principle of locality, since millions of dots are displayed simultaneously.
 Without violating the principle of locality, the visual image would consist of a maximum of several points.
 In this case, the visual image of other organisms is not visible, from which it is assumed that the violation of the principle of locality is limited, and that the creation of such entanglement requires the interaction of particles.
-And since the next moment the visual image may be different, then the entanglement may immediately disintegrate, and a next moment a new entanglement is created.
+And since the next moment the visual image may be different, then the entanglement may immediately disintegrate, and the next moment a new entanglement is created.
 Thus, the laws of quantum mechanics can be assumed before its discovery.
 It would have been possible to make this claim in 1800, but the claim would only have been confirmed 100 years later.
 A connection between quantum mechanics and consciousness would be suggested, and the qualia interpretation could be one of the first.
