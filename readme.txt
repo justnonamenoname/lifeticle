@@ -638,7 +638,7 @@ Thus, from qualia one can obtain the properties of quantum mechanics: non-locali
 The question of whether artificial intelligence can have phenomenal consciousness may involve another question:
 is it physically possible for AI to detect this quantum mechanical phenomenon on its own?
 The philosophical term "unity of consciousness" denotes one of the reasons for the existence of religion.
-And since the unity of consciousness comes from the unity of the wave function of quantum-bound particles, then one of the reasons for religion is an incorrect explanation of the phenomenon of quantum entanglement.
+And since the unity of consciousness comes from the unity of the wave function of quantum entangled particles, then one of the reasons for religion is an incorrect explanation of the phenomenon of quantum entanglement.
 
 Data transfer speed
 
