@@ -838,6 +838,8 @@ The brain already generates a multi-layered image with overlap.
 The pixel size is not zero, the object overlaps the surface behind the object not exactly at the pixel edge.
 This may mean that the brain already constructs a partially layered image without transparency, but the qualia structure does not allow for overlapping edges to be displayed.
 
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/layerpoint.png" width="250">
+
 ---
 
 ## Part 7. Link between qualia and universe's fate
