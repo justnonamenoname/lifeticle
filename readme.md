@@ -384,7 +384,8 @@ If we assume that emergence (the presence of properties in a system that are not
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/bind.png" width="400">  
 The properties of emergence can be obtained by modeling, for example: knowing the properties of a water molecule, by modeling a multitude of molecules, we can obtain the properties of water.  
 According to the special theory of relativity, an event at one point cannot cause an instantaneous result at another point, and "now" occurs only at a local reference point.
-According to the principle of locality and the special theory of relativity, a visual image could at most consist of several points.
+According to the principle of locality and the special theory of relativity, a visual image could at most consist of several points.  
+<img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/locality.png" width="250">  
 The simultaneous display of millions of points of a visual image violates the principle of locality, which means that phenomenal consciousness is not constrained by the special theory of relativity; this relates to the problem of pointwise binding.  
 The problem of pointwise binding requires a separate physical law, which also implies the fundamentality of qualia (the issue is discussed in the section on the connection between qualia and the brain).  
 If we find a neuron that contains information about a red color point, then the question arises: why does this result in the experience of red, and without introducing qualia as a distinct phenomenon, this cannot be resolved.  
