@@ -3,7 +3,7 @@ Lifeticle | LT theory of phenomenal consciousness | Survival
 Lifeticle is a particle that acts as a subject, the so-called observer in the brain, with the following functions:
 1) Perception (Qualia): Visuals, sounds, pain, and other sensations
 2) Attachment to the organism
-3) Feedback influence on the brain
+3) Influence on the brain
 The lifeticle remains in the brain after its death.
 Phenomenal consciousness is the sum of sensations/qualia. Other brain functions are not part of phenomenal consciousness.
 
