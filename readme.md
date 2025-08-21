@@ -3,7 +3,7 @@
 Lifeticle is a particle that acts as a subject, the so-called observer in the brain, with the following functions:
 1) Perception (Qualia): Visuals, sounds, pain, and other sensations
 2) Attachment to the organism
-3) Influence on the brain
+3) Reverse influence on the brain
 
 The lifeticle remains in the brain after its death.  
 Phenomenal consciousness is the sum of sensations/qualia. Other brain functions are not part of phenomenal consciousness.
@@ -294,7 +294,7 @@ If the organism was not brought to a cryocenter before death, the body must be p
 If there is no cryocenter nearby, the organism must be prepared for transportation:
 1) Wrap the organism in cloth. Place it in a plastic bag
 2) If there are no more than a few days before transfer to the cryocenter, place the organism in a refrigerator at a temperature of 2 degrees, but not lower than 1 degree, to avoid the formation of ice crystals
-3) If the transfer will take longer than a few days, purchase dry ice (read the safety instructions)
+3) If the transfer will take longer than a day, purchase dry ice (read the safety instructions)
 4) If the container is not thermally insulated, apply insulation tape to the inside
 5) Dry ice pellets must be smaller to avoid exerting pressure on the organism and to ensure even cooling
 6) Surround the organism with dry ice inside the container
@@ -336,7 +336,7 @@ The question: what happens if the brain's particles end up in different brains o
 
 **Research path**
 
-The following steps must be completed for research:
+The following steps must be carried out for research:
 1) Identify the minimally required active brain regions for consciousness (neurobiologists have already identified several candidates)
 2) Research of the flows of visual signals, primarily in the zones identified by neurobiologists
 3) Determination of the place where the signals converge
@@ -348,8 +348,8 @@ The following steps must be completed for research:
 9) Determination of how exactly the brain sets the frame rate of consciousness and collapses
 10) Depending on the structure, this may help determine the location of the lifeticle
 11) Removing particles from the central node can show whether this changes reverse influence in the form of random processes
-12) Researching how the node structure is encoded in DNA may provide additional assistance.
-13) Researching the node in other species; a different type of node may show a difference that allows unsuitable particles to be excluded
+12) Further help may be provided by researching the coding of the node structure in DNA
+13) Researching the node in other species, a different type of node may show a difference that allows to exclude inappropriate particles
 14) Determine the exact properties of the lifeticle via quantum interactions
 
 **Orch OR theory**
@@ -377,7 +377,7 @@ There are two options when it comes to the fundamental nature of qualia and its 
 2) Fundamental - it cannot be explained through other phenomena.
 
 Trying to prove fundamentality means proving that explanation is impossible and that no other phenomenon exists that could make qualia non-unique.
-To prove non-fundamentality, it is sufficient to provide an example of a phenomenon from which qualia could arise; this serves as the starting point for fundamentality.
+To prove non-fundamentality, it is enough to provide an example of a phenomenon from which qualia could arise; that is, the starting point is fundamentality.
 The search for an example of an entity is behind those who wish to attempt to prove that qualia are not fundamental and not unique.  
 In the case of fundamentality, it is impossible to find such an example and prove non-fundamentality.
 If we assume that emergence (the presence of properties in a system that are not inherent in its individual components) can create qualia, signals in the brain must still converge at a single particle via the method of generating qualia; otherwise, a binding problem arises, which makes the question of emergence meaningless.  
@@ -399,7 +399,7 @@ The non-existence of qualia would mean that a person has no visual perception, n
 Qualia are not something separate, they are connected to the carrier of consciousness.  
 In informational theories there are no qualia and no bearer of consciousness to which they are directed, they do not solve the problem of pointwise binding.
 The formation of a qualia-based image from spatially distributed information would violate the principle of locality and physical laws, and imply magical action at a distance.
-Qualia has a size, information does not have such a parameter.
+Qualia have size, information does not have such a parameter.
 If we assume that there is qualia in information, then we add a hidden property that would be impossible to know about without the assumption of this hidden property.
 Informational theories attempting to explain phenomenal consciousness do not answer the question of why you live in this brain and not in another; this requires a physical connection with the brain, and a physical connection requires a physical object.  
 Qualia without the so-called observer lead to the same problem - why do you live the life of this brain and not another?  
@@ -665,7 +665,7 @@ Qualia influences random quantum processes, which means that in the brain, in th
 Without the laws of quantum mechanics, one might assume that the visual image violates the principle of locality, since millions of dots are displayed simultaneously.
 Without violating the principle of locality, the visual image would consist of a maximum of several points.
 In this case, the visual image of other organisms is not visible, from which it is assumed that the violation of the principle of locality is limited, and that the creation of such entanglement requires the interaction of particles.
-And since the next moment the visual image may be different, then the entanglement may immediately disintegrate, and the next moment a new entanglement is created.
+And since the next moment the visual image may be different, the entanglement may immediately disintegrate, and a new entanglement is created in the next moment.
 Thus, the laws of quantum mechanics can be assumed before its discovery.
 It would have been possible to make this claim in 1800, but the claim would only have been confirmed 100 years later.
 A connection between quantum mechanics and consciousness would be suggested, and the qualia interpretation could be one of the first.
@@ -744,7 +744,7 @@ This question will be explored in the research of the qualia generator in the br
 
 The sound has an added sense of duration, of how the sound played over the past second.
 It's a sort of duration, summed up from the sound of the previous second, added to the sound itself.
-Other types of qualia can also have summative extent.
+Other types of qualia can also have a summed extent.
 
 **Artificial intelligence**
 
@@ -829,7 +829,7 @@ The direction of the qualia field is similar to the spin of a particle.
 
 Is it possible to create qualia of a volumetric image with multiple opaque layers, where one object is visible behind another and they do not overlap each other?
 The brain is supposed to be able to create a volumetric image of no more than one opaque layer due to evolutionary reasons.
-The question concerns not the brain, but to the very nature of qualia.
+The question concerns not the brain, but the nature of qualia.
 At the same time, the image layer does not appear as something that occupies volume, as if there are two size parameters - height and width - while the third parameter, depth, is absent.
 
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/layerposition.png">
@@ -935,8 +935,8 @@ Then some lifeticles would live life only during certain qualia, for example, on
 The variant in which several lifeticles are the recipients is possible, but also redundant and evolutionarily complex.  
 The question is also related to the no-cloning theorem, since one quantum state is inhabited by 2 lifeticles, but the theorem is not necessarily violated if both lifeticles were part of the wave function.
 If at the moment of collapse a qualia object is created from the wave function, then for two lifeticles 2 qualia objects should be created, which contradicts the no-cloning theorem.
-The combination of the feedback from two lifeticles in one collapse could possibly be conflicting.
-Even if in quantum phenomenal consciousness the recipient is not supposed to be 1 particle, the no-cloning theorem points to such a possibility by introducing a lifeticle.
+The combination of feedback from two lifeticles in one collapse could be conflicting.
+Even if in quantum phenomenal consciousness the recipients are not limited to a single particle, the no-cloning theorem indicates such a possibility by introducing a lifeticle.
 This means that the lifeticle can be determined from quantum laws.
 
 **Problem of indivisible structure**
