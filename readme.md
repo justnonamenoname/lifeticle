@@ -29,7 +29,7 @@ If nothing from the body remains from when one was a child, then that body has b
 If the particles that made up the child were gathered again, one might assume that this would be you, not the one in the current body, but this is not the case.
 A complete replacement of the brain would mean that at some point during life you would stop feeling anything, and there would be a different carrier of consciousness.
 Therefore, something remains - a certain central or core particle in the brain, which is the so-called observer (lifeticle).
-In the brain, your true self is the particle that experiences - the so‑called observer (lifeticle).
+You are real "yourself" in the brain, particle that feels - the so-called observer (lifeticle).
 The brain is not an indivisible object; it is made up of indivisible particles.
 What are you in the brain? Answer: the carrier of consciousness can only be a single indivisible particle.
 It is not possible to choose multiple particles, as they are separate particles.
@@ -46,14 +46,14 @@ Qualia cannot be explained or expressed through anything else, which means it is
 If the lifeticle does not exist, there is nothing on which to converge the signals of the holistically formed picture of the world (qualia of vision and other sense organs) can converge, creating a binding problem.
 The lifeticle can be described as a particle capable of qualia - this is its property, fundamentally distinct from the rest of the world, and this is life: a living particle (life+particle - lifeticle, lt).
 
-To the question of whether there can be another life after death - the answer is: if after death there is nonexistence, then nonexistence already existed before birth.
+To the question of whether there can be another life after death - the answer is: if there is nothingness after death, then that same nothingness has already existed before birth.
 The state of lifeticle's death before birth is no different from the state of death after.
 The lifeticle already had experienced a state of death prior to their birth, and yet they were born.
 What prevents the particles from assembling again in another form or similarly?
 Physical laws do not prohibit what has already happened according to these very same physical laws.
 In nature, there is a phenomenon known as the cycle of carbon and other elements.
 The possibility of being born a first time means the possibility of being born a second time.
-And fundamental impossibility of being born a second time logically implies the impossibility of being born even once, if there is no mechanism to distinguish one unique occurrence from another.
+And the fundamental impossibility of being born a second time logically implies the impossibility of being born even once, if there is no mechanism to distinguish one unique occurrence from another.
 
 ---
 
@@ -424,7 +424,7 @@ And it means that the physical phenomena with which qualia is associated are als
 Quantum indeterminacy is fundamental and cannot be replicated informationally.  
 To say that qualia can be replicated informationally is equivalent in meaning to the idea that quantum indeterminacy can be replicated informationally.   
 The statement that since qualia is immeasurable, and therefore does not exist and cannot influence physical processes, contradicts quantum mechanics.
-The no-cloning theorem (that a quantum state cannot be copied) shows the immeasurability of a quantum system, but a quantum system affects physical processes (measurement destroys the quantum state and only obtains part of the information).
+The no-cloning theorem (that a quantum state cannot be copied) shows that a quantum system cannot be fully measured, but a quantum system affects physical processes (measurement destroys the quantum state and extracts only part of the information).
 Quantum entanglement and randomness are not directly measurable, entanglement is not directly observable, randomness has no hidden parameters.
 The visual image includes information about the points of the visual image. The pain felt in the leg includes the coordinates of the location of the pain.
 It is impossible for information to exist in a phenomenon, but for the phenomenon to not exist (we are talking about the information itself, not about its content).
