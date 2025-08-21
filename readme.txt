@@ -386,15 +386,15 @@ The ability to create an identity implies the possibility of creating an identic
 The uniqueness of the lifeticle is fundamental, cannot be artificially generated, and is analogous to the no-cloning theorem.
 Without uniqueness, there would be no connection with the current brain, just as there is no connection with another brain that is not one’s own.
 Qualia have a parameter of location relative to a reference point in space, where the center is located at the consciousness bearer.
-To say that particles with qualia properties do not exist is to say that an organism does not consist of particles, or that qualia does not exist or is not related to particles.
-The organism consists of particles, and the phenomenon of qualia exists; one must be connected with the other. The theory does not introduce something new, but connects one with the other.
+To say that particles with qualia properties do not exist is to say that the organism is not consist of particles, or qualia do not exist, or are not connected with particles.
+The organism consists of particles, and the phenomenon of qualia exists; one must be connected with the other. The theory does not introduce anything new, but connects one with the other.
 The philosophical term "indivisibility of consciousness" is explained by the indivisible so-called observer, the bearer of consciousness, the lifeticle.
 The fundamentality of qualia means that the ability to experience qualia is also fundamental.
 And it means that the physical phenomena with which qualia is associated are also fundamental, and this is quantum mechanics.
 Quantum indeterminacy is fundamental and cannot be replicated informationally.
 To say that qualia can be replicated informationally is equivalent in meaning to the idea that quantum indeterminacy can be replicated informationally.
 The statement that since qualia is immeasurable, and therefore does not exist and cannot influence physical processes, contradicts quantum mechanics.
-The no-cloning theorem (that a quantum state cannot be copied) shows the immeasurability of a quantum system, but a quantum system has an impact on physical processes (measurement destroys the quantum state and only obtains part of the information).
+The no-cloning theorem (that a quantum state cannot be copied) shows the immeasurability of a quantum system, but a quantum system affects physical processes (measurement destroys the quantum state and only obtains part of the information).
 Quantum entanglement and randomness are not directly measurable, entanglement is not directly observable, randomness has no hidden parameters.
 The visual image includes information about the points of the visual image. The pain felt in the leg includes the coordinates of the location of the pain.
 It is impossible for information to exist in a phenomenon, but for the phenomenon to not exist (we are talking about the information itself, not about its content).
@@ -532,7 +532,7 @@ Qualia are not found in the transmission of signals in the brain and cannot be l
 Only a specific subset of information processed by the brain gives rise to qualia, which implies that the difference responsible for qualia can be identified independently of the mechanism by which they are generated.
 An example of data that does not yield qualia is the information processed by the visual system, including the image before the blind spot was filled in.
 It is possible to determine which physical processes qualia are associated with.
-That qualia are fundamental and the reverse influence is connected with random quantum processes means that information for qualia requires a transition to the quantum level.
+Qualia being fundamental and reverse influence being linked to random quantum processes means that information for qualia requires a transition to the quantum level.
 The chain [signals - qualia] leads to two possibilities:
 1) Qualia cannot be detected, and then the signals appear as leading nowhere without effect
 2) Qualia can be detected as a quantum effect of reverse influence
@@ -861,6 +861,7 @@ If the recipient of the wave function is particles that are part of the wave fun
 Then some lifeticles would live life only during certain qualia, for example, only when there is a specific pain, which looks self-contradictory.
 The variant in which several lifeticles are the recipients is possible, but also redundant and evolutionarily complex.
 The question is also related to the no-cloning theorem, since one quantum state is inhabited by 2 lifeticles, but the theorem is not necessarily violated if both lifeticles were part of the wave function.
+If at the moment of collapse a qualia object is created from the wave function, then for two lifeticles 2 qualia objects should be created, which contradicts the no-cloning theorem.
 The combination of feedback from two lifeticles in one collapse could be conflicting.
 Even if in quantum phenomenal consciousness the recipients are not limited to a single particle, the no-cloning theorem indicates such a possibility by introducing a lifeticle.
 This means that the lifeticle can be determined from quantum laws.
