@@ -141,7 +141,7 @@ Since there is no such electronic activity around the lifeticle after death as t
 If nothing is felt, then this time effectively does not exist for you.
 Even during life, the flow of time can feel slower or faster, while in dreamless sleep, time passes instantly.
 
-If the next life never begins, and the universe has entered eternal expansion, what do you experience? An infinity multiplied by zero?
+If the next life never begins, and the universe has entered eternal expansion, what do you experience? Infinity multiplied by zero?
 An infinity passing instantly? This is impossible; time would still remain.
 This leads to a paradox, and therefore a mystery.
 At the same time, there is no moment where one could definitively say that the situation has closed and some change must have occurred.
@@ -173,7 +173,7 @@ After freezing, this allows the organism to be preserved in its original form fo
 If we look back - 200 years ago, technology was far less advanced, and 500 years ago, the difference was even greater.
 The same kind of progress will happen 200 years from now - future technologies will be highly advanced, and what about 500 years from now?
 Technology is limited only by the laws of physics. For example, a doctor cannot be instantly transported from Saturn - movement itself is limited by speed.
-This is an possibility.
+This is a possibility.
 And potentially, an possibility for life without a time limit, due to possible future life-extension technologies.
 And when a person dies, they should be cryopreserved, not buried or cremated, scattering their main particle - the carrier of consciousness - anywhere.
 Cryonics centers should exist in cities.
@@ -276,7 +276,7 @@ If there is no cryocenter nearby, the organism must be prepared for transportati
 1) Wrap the organism in cloth. Place it in a plastic bag
 2) If there are no more than a few days before transfer to the cryocenter, place the organism in a refrigerator at a temperature of 2 degrees, but not lower than 1 degree, to avoid the formation of ice crystals
 3) If the transfer will take longer than a day, purchase dry ice (read the safety instructions)
-4) If the container is not thermally insulated, apply insulation tape to the inside
+4) If the container is not thermally insulated, apply insulation tape to the inside, you can use a bath
 5) Dry ice pellets must be smaller to avoid exerting pressure on the organism and to ensure even cooling
 6) Surround the organism with dry ice inside the container
 7) Check the dry ice daily and replenish it if necessary
@@ -317,7 +317,7 @@ The following steps must be carried out for research:
 2) Research of the flows of visual signals, primarily in the zones identified by neurobiologists
 3) Determination of the place where the signals converge
 4) Research of how information is transferred to the quantum level; this will confirm the existence of phenomenal consciousness and will make it possible to determine the exact formulas of qualia
-5) Research random quantum processes associated with qualia, this will allow to determine the information coming from qualia and how reverse influence of qualia affects the brain
+5) Research random quantum processes associated with qualia; this will make it possible to determine information coming from qualia and how reverse influence of qualia affects the brain
 6) Researching the reverse influence will make it possible to determine how exactly phenomenal consciousness became entrenched in evolution
 7) Identify a shared node for vision and hearing, which is activated without vision and sound
 8) Assess whether particles in this node are replaced during life to exclude lifeticle candidates
@@ -367,7 +367,7 @@ The functional part of the brain relates to the "easy problem of consciousness"/
 To say that qualia, as a separate phenomenon, do not exist and are merely based on information is equivalent in meaning to the idea that the processor displays information without a monitor.
 The image information before the blind spot is filled in is not reflected in phenomenal consciousness.
 This means that only part of the brain's information enters phenomenal consciousness, and shows that the information itself is not phenomenal consciousness.
-The absence of qualia would mean that a person has no visual perception, no auditory experience, no pain sensation, and the organism functions without phenomenal consciousness.
+The absence of qualia would mean that a person has no visual image, no sound, no pain, and the organism functions without phenomenal consciousness.
 Qualia are not something separate, they are connected to the carrier of consciousness.
 In informational theories there are no qualia and no bearer of consciousness to which they are directed, they do not solve the problem of pointwise binding.
 The formation of a qualia-based image from spatially distributed information would violate the principle of locality and physical laws, and imply magical action at a distance.
@@ -483,7 +483,7 @@ A circle has more information than a point with a radius.
 The transition can be resolved by the wave function.
 Part of the image may have the form of a volume of an object, and individual points of the image are linked to the volumetric form.
 Some qualia are connected to others. This indicates a complex structure of qualia and its generation.
-Other qualia also have a size parameter. The size and coordinate of qualia are parameters of the same order.
+Other qualia also have a size parameter. The size and the coordinate of qualia are parameters of the same order.
 
 Speed of time
 
@@ -862,7 +862,7 @@ Then some lifeticles would live life only during certain qualia, for example, on
 The variant in which several lifeticles are the recipients is possible, but also redundant and evolutionarily complex.
 The question is also related to the no-cloning theorem, since one quantum state is inhabited by 2 lifeticles, but the theorem is not necessarily violated if both lifeticles were part of the wave function.
 If at the moment of collapse a qualia object is created from the wave function, then for two lifeticles 2 qualia objects should be created, which contradicts the no-cloning theorem.
-The combination of feedback from two lifeticles in one collapse could be conflicting.
+The combination of reverse influence from two lifeticles in one collapse could be conflicting.
 Even if in quantum phenomenal consciousness the recipients are not limited to a single particle, the no-cloning theorem indicates such a possibility by introducing a lifeticle.
 This means that the lifeticle can be determined from quantum laws.
 
