@@ -395,7 +395,7 @@ The functional part of the brain relates to the "easy problem of consciousness"/
 To say that qualia, as a separate phenomenon, do not exist and are merely based on information is equivalent in meaning to the idea that the processor displays information without a monitor.  
 The image information before the blind spot is filled in is not reflected in phenomenal consciousness.
 This means that only part of the brain's information enters phenomenal consciousness, and shows that the information itself is not phenomenal consciousness.  
-The non-existence of qualia would mean that a person has no visual perception, no auditory experience, no pain sensation, and the organism functions without phenomenal consciousness.
+The absence of qualia would mean that a person has no visual perception, no auditory experience, no pain sensation, and the organism functions without phenomenal consciousness.
 Qualia are not something separate, they are connected to the carrier of consciousness.  
 In informational theories there are no qualia and no bearer of consciousness to which they are directed, they do not solve the problem of pointwise binding.
 The formation of a qualia-based image from spatially distributed information would violate the principle of locality and physical laws, and imply magical action at a distance.
