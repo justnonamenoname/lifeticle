@@ -344,7 +344,7 @@ The following steps must be carried out for research:
 5) Research random quantum processes associated with qualia, this will allow to determine the information coming from qualia and how reverse influence of qualia affects the brain
 6) Researching the reverse influence will make it possible to determine how exactly phenomenal consciousness became entrenched in evolution
 7) Identify a shared node for vision and hearing, which is activated without vision and sound
-8) Assess whether particles in this node are replaced during life, this will allow to exclude lifeticle candidates
+8) Assess whether particles in this node are replaced during life to exclude lifeticle candidates
 9) Determination of how exactly the brain sets the frame rate of consciousness and collapses
 10) Depending on the structure, this may help determine the location of the lifeticle
 11) Removing particles from the central node can show whether this changes reverse influence in the form of random processes
