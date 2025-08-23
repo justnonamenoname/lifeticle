@@ -66,7 +66,7 @@ Particles continue to remain in the brain.
 If we consider the moment of loss of consciousness, a person can feel nothing during sleep or fainting as well.
 Theoretically, recovery is possible from any level (not referring to technical feasibility at this time).
 One might assume death as the separation of surrounding atoms from the lifeticle, but for whom or for what, and why should this be defined as death?
-If angels exist in the religious sense, what would happen if none of them were to arrive? But there is no reason to believe such angels exist.
+If in a religious sense there are angels, what happens if no one comes? But there is no reason to believe such angels exist.
 If we are in a virtual reality, then the computer in the base reality must oversee this, but what if it doesn't?
 But in base reality, we could question - are we in a virtual reality?
 What makes this question lead nowhere and be meaningless.
@@ -187,7 +187,7 @@ If we look back - 200 years ago, technology was far less advanced, and 500 years
 The same kind of progress will happen 200 years from now - future technologies will be highly advanced, and what about 500 years from now?
 Technology is limited only by the laws of physics. For example, a doctor cannot be instantly transported from Saturn - movement itself is limited by speed.  
 This is a opportunity.  
-And potentially, an opportunity for life without a time limit, due to possible future life-extension technologies.  
+And potentially a possibility for a life without a time limit, due to possible future life-extension technologies.  
 And when a person dies, they should be cryopreserved, not buried or cremated, scattering their main particle - the carrier of consciousness - anywhere.
 Cryonics centers should exist in cities.
 In the event of an animal's death, if there is no cryonics center in the city, it can be frozen for later transport to another city.
@@ -252,7 +252,7 @@ It is as important to know the theory as it is to know what happens after death 
 In our time, cryonics should become the primary approach in matters of death.  
 Regardless of life extension technologies.
 First survival, then research.  
-No confirmation is not a reason to abandon survival.  
+The lack of proof is not a reason to abandon survival.
 The less time someone has left, the more critical it becomes - this is the time needed to prepare the cryochamber.
 
 Death can be defeated.
@@ -386,7 +386,8 @@ The properties of emergence can be obtained by modeling, for example: knowing th
 According to the special theory of relativity, an event at one point cannot cause an instantaneous result at another point, and "now" occurs only at a local reference point.
 According to the principle of locality and the special theory of relativity, a visual image could at most consist of several points.  
 <img src="https://github.com/justnonamenoname/lifeticle/blob/main/images/locality.png" width="250">  
-The simultaneous display of millions of points of a visual image violates the principle of locality, which means that phenomenal consciousness is not constrained by the special theory of relativity; this relates to the problem of pointwise binding.  
+The simultaneous display of millions of points of a visual image violates the principle of locality, which means that phenomenal consciousness is not constrained by the special theory of relativity; this relates to the problem of pointwise binding.
+It is impossible to derive anything that violates the special theory of relativity from something that obeys it.  
 The problem of pointwise binding requires a separate physical law, which also implies the fundamentality of qualia (the issue is discussed in the section on the connection between qualia and the brain).  
 If we find a neuron that contains information about a red color point, then the question arises: why does this result in the experience of red, and without introducing qualia as a distinct phenomenon, this cannot be resolved.  
 The fact that the brain is divided into regions and that they influence the generation of qualia, does not contradict the existence of signal convergence for qualia into a central point, the absence of which leads to the binding problem.
