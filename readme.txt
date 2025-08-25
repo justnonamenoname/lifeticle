@@ -633,7 +633,7 @@ Different speeds of time flow could indicate that the qualia of objects have a s
 These events could also be confirmed in the form of a collapse.
 Qualia have coordinates, color qualia have color parameters (red, green, blue), and one can make an assumption about separate, simultaneously existing additional parameters.
 A Hilbert space would be similar to this.
-The impossibility of deriving qualia through something else leads to the assumption of the fundamentality of qualia objects.
+Non-derivability of qualia through something else leads to the assumption of the fundamentality of qualia objects.
 Entanglement and the absence of hidden variables are fundamental and would confirm the assumption of fundamentality.
 Thus, from qualia one can obtain the properties of quantum mechanics: non-locality, entanglement, inaccessibility from the outside, other cause-and-effect relationships, events in the form of collapse, additional parameters in the form of Hilbert space, fundamentality.
 The question of whether artificial intelligence can have phenomenal consciousness may involve another question:
