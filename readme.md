@@ -43,7 +43,7 @@ The reticular formation is one of the ancient part of the brain from an evolutio
 The central part of the brain is either the reticular formation, the periaqueductal gray matter (where streams from other areas converge), or another adjacent region.
 Without the brain's electrical activity, a person feels nothing.
 Qualia cannot be explained or expressed through anything else, which means it is something fundamental.
-If the lifeticle does not exist, there is nothing on which to converge the signals of the holistically formed picture of the world (qualia of vision and other sense organs) can converge, creating a binding problem.
+If the lifeticle does not exist, then there is nothing that feels, nothing for the signals to converge on as a unified formed representation of the world (qualia from the eye and other sense organs), the binding problem arises.
 The lifeticle can be described as a particle capable of qualia - this is its property, fundamentally distinct from the rest of the world, and this is life: a living particle (life+particle - lifeticle, lt).
 
 To the question of whether there can be another life after death - the answer is: if there is nothingness after death, then that same nothingness has already existed before birth.
@@ -377,7 +377,7 @@ There are two options when it comes to the fundamental nature of qualia and its 
 2) Fundamental - it cannot be explained through other phenomena.
 
 Trying to prove fundamentality means proving that explanation is impossible and that no other phenomenon exists that could make qualia non-unique.
-To prove non-fundamentality, it is enough to provide an example of a phenomenon from which qualia could arise; that is, the starting point is fundamentality.
+To prove non-fundamentality, it is enough to provide an example of a phenomenon from which qualia may consist; that is, the starting point is fundamentality.
 The search for an example of an entity is behind those who wish to attempt to prove that qualia are not fundamental and not unique.  
 In the case of fundamentality, it is impossible to find such an example and prove non-fundamentality.
 If we assume that emergence (the presence of properties in a system that are not inherent in its individual components) can create qualia, signals in the brain must still converge at a single particle via the method of generating qualia; otherwise, a binding problem arises, which makes the question of emergence meaningless.  
@@ -679,7 +679,7 @@ Different speeds of time flow could indicate that the qualia of objects have a s
 These events could also be confirmed in the form of a collapse.
 Qualia have coordinates, color qualia have color parameters (red, green, blue), and one can make an assumption about separate, simultaneously existing additional parameters.
 A Hilbert space would be similar to this.
-Non-derivability of qualia through something else leads to the assumption of the fundamentality of qualia objects.
+The impossibility of deriving qualia through something else leads to the assumption of the fundamentality of qualia objects.
 Entanglement and the absence of hidden variables are fundamental and would confirm the assumption of fundamentality.
 Thus, from qualia one can obtain the properties of quantum mechanics: non-locality, entanglement, inaccessibility from the outside, other cause-and-effect relationships, events in the form of collapse, additional parameters in the form of Hilbert space, fundamentality.
 The question of whether artificial intelligence can have phenomenal consciousness may involve another question:
