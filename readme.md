@@ -516,7 +516,7 @@ The method is not a generator and can only be considered as an intermediate stag
 **Qualia size**
 
 The minimum size of qualia in an image - the smaller the size of a point in the image, the more points are needed to generate it.
-This means that the image point has a size, a formation presumably in the shape of a circle.
+This means that the image point has a size.
 This may imply that qualia appears to contain more information than what is used for the generation itself.
 A circle has more information than a point with a radius.
 The transition can be resolved by the wave function.
