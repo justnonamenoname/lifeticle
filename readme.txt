@@ -43,7 +43,7 @@ The lifeticle can be described as a particle capable of qualia - this is its pro
 
 To the question of whether there can be another life after death - the answer is: if there is nothingness after death, then that same nothingness has already existed before birth.
 The state of lifeticle's death before birth is no different from the state of death after.
-The lifeticle already had experienced a state of death prior to their birth, and yet they were born.
+The lifeticle had already experienced a state of death prior to their birth, and yet they were born.
 What prevents the particles from assembling again in another form or similarly?
 Physical laws do not prohibit what has already happened according to these very same physical laws.
 In nature, there is a phenomenon known as the cycle of carbon and other elements.
